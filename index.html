@@ -32,6 +32,24 @@
             </div>
           </div>
 
+          <div id="children-target-field" class="field field-full" hidden>
+            <span>1つ下の階層で参照する分類</span>
+            <div class="choice-list" role="radiogroup" aria-label="1つ下の階層で参照する分類">
+              <label class="choice-chip">
+                <input type="radio" name="children-target" value="ipc" checked />
+                <span>IPC</span>
+              </label>
+              <label class="choice-chip">
+                <input type="radio" name="children-target" value="fi" />
+                <span>FI</span>
+              </label>
+              <label class="choice-chip">
+                <input type="radio" name="children-target" value="cpc" />
+                <span>CPC</span>
+              </label>
+            </div>
+          </div>
+
           <label class="field">
             <span>IPC / FI / CPC コード</span>
             <textarea

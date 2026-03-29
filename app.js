@@ -6,6 +6,8 @@ const metaEl = document.querySelector('#result-meta');
 const template = document.querySelector('#result-item-template');
 const quickButtons = document.querySelectorAll('[data-code]');
 const modeInputs = document.querySelectorAll('input[name="lookup-mode"]');
+const childTargetInputs = document.querySelectorAll('input[name="children-target"]');
+const childTargetField = document.querySelector('#children-target-field');
 
 const DATASETS = {
   ipc: { dir: './data', prefix: 'ipc-shard', label: 'IPC' },
@@ -32,6 +34,16 @@ function formatCodeForDisplay(code) {
 function getSelectedViewMode() {
   const checked = Array.from(modeInputs).find((input) => input.checked);
   return checked ? checked.value : 'lookup';
+}
+
+function getSelectedChildTarget() {
+  const checked = Array.from(childTargetInputs).find((input) => input.checked);
+  return checked ? checked.value : 'ipc';
+}
+
+function syncModeFields() {
+  const isChildrenMode = getSelectedViewMode() === 'children';
+  childTargetField.hidden = !isChildrenMode;
 }
 
 function getShardKey(code) {
@@ -336,7 +348,7 @@ function renderLookupResults(inputCodes, groupedResults) {
   }
 }
 
-function renderChildrenResults(inputCodes, groupedResults) {
+function renderChildrenResults(inputCodes, groupedResults, targetMode) {
   let totalChildren = 0;
   let matchedSources = 0;
   const unresolvedCodes = [];
@@ -354,11 +366,11 @@ function renderChildrenResults(inputCodes, groupedResults) {
 
   if (totalChildren) {
     const suffix = unresolvedCodes.length ? ` 未検出: ${unresolvedCodes.join(', ')}` : '';
-    setStatus(`${matchedSources} 件の分類コードについて、1つ下の階層を表示しています。${suffix}`, 'success');
+    setStatus(`${DATASETS[targetMode].label} で ${matchedSources} 件の分類コードについて、1つ下の階層を表示しています。${suffix}`, 'success');
   } else if (matchedSources) {
-    setStatus('一致した分類コードはありますが、1つ下の階層は見つかりませんでした。', 'error');
+    setStatus(`${DATASETS[targetMode].label} では一致した分類コードがありますが、1つ下の階層は見つかりませんでした。`, 'error');
   } else {
-    setStatus(`一致する分類コードが見つかりませんでした。未検出: ${unresolvedCodes.join(', ')}`, 'error');
+    setStatus(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。未検出: ${unresolvedCodes.join(', ')}`, 'error');
   }
 
   for (const group of groupedResults) {
@@ -375,7 +387,7 @@ function renderChildrenResults(inputCodes, groupedResults) {
     list.className = 'group-list';
 
     if (!group.matches.length) {
-      list.append(createEmptyNote('一致する分類コードが見つかりませんでした。'));
+      list.append(createEmptyNote(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。`));
     } else {
       for (const match of group.matches) {
         const childGroup = document.createElement('section');
@@ -415,11 +427,11 @@ function renderChildrenResults(inputCodes, groupedResults) {
   }
 }
 
-function renderResults(inputCodes, groupedResults, viewMode) {
+function renderResults(inputCodes, groupedResults, viewMode, targetMode) {
   clearResults();
 
   if (viewMode === 'children') {
-    renderChildrenResults(inputCodes, groupedResults);
+    renderChildrenResults(inputCodes, groupedResults, targetMode);
     return;
   }
 
@@ -532,24 +544,38 @@ async function lookupCode(code) {
   return results;
 }
 
-async function lookupChildren(code) {
-  const matches = await lookupCode(code);
-  return matches.map((match) => {
-    const childItems = getChildItems(match.dataset, match.code);
-    const children = childItems.map((item) => ({
+async function lookupChildrenForMode(code, targetMode) {
+  try {
+    const dataset = await loadShard(targetMode, code);
+    const resolvedCode = resolveLookupCode(targetMode, dataset, code);
+    const sourceItem = dataset.entries[resolvedCode];
+    if (!sourceItem) {
+      return [];
+    }
+
+    const source = {
+      code: resolvedCode,
+      mode: targetMode,
+      typeLabel: DATASETS[targetMode].label,
+      depth: getDepth(targetMode, dataset, resolvedCode),
+      item: sourceItem,
+      dataset,
+    };
+
+    const children = getChildItems(dataset, resolvedCode).map((item) => ({
       code: item.code,
-      mode: match.mode,
-      typeLabel: match.typeLabel,
-      depth: getDepth(match.mode, match.dataset, item.code),
+      mode: targetMode,
+      typeLabel: DATASETS[targetMode].label,
+      depth: getDepth(targetMode, dataset, item.code),
       item,
-      dataset: match.dataset,
+      dataset,
     }));
 
-    return {
-      source: match,
-      children,
-    };
-  });
+    return [{ source, children }];
+  } catch (error) {
+    console.warn(`Skipped ${targetMode} child lookup:`, error);
+    return [];
+  }
 }
 
 function getRequestedText() {
@@ -561,6 +587,8 @@ async function runLookup(rawText) {
   try {
     const codes = extractCodes(rawText);
     const viewMode = getSelectedViewMode();
+    const childTarget = getSelectedChildTarget();
+    syncModeFields();
 
     if (!codes.length) {
       clearResults();
@@ -568,16 +596,23 @@ async function runLookup(rawText) {
       return;
     }
 
-    setStatus(viewMode === 'children' ? '1つ下の階層を検索中です...' : 'データを読み込み中です...');
+    setStatus(
+      viewMode === 'children'
+        ? `${DATASETS[childTarget].label} の1つ下の階層を検索中です...`
+        : 'データを読み込み中です...'
+    );
 
     const groupedResults = await Promise.all(
       codes.map(async (code) => ({
         inputCode: code,
-        matches: viewMode === 'children' ? await lookupChildren(code) : await lookupCode(code),
+        matches:
+          viewMode === 'children'
+            ? await lookupChildrenForMode(code, childTarget)
+            : await lookupCode(code),
       }))
     );
 
-    renderResults(codes, groupedResults, viewMode);
+    renderResults(codes, groupedResults, viewMode, childTarget);
   } catch (error) {
     console.error(error);
     setStatus(`検索処理でエラーが発生しました: ${error.message || String(error)}`, 'error');
@@ -603,6 +638,14 @@ inputEl.addEventListener('input', () => {
 
 for (const modeInput of modeInputs) {
   modeInput.addEventListener('change', () => {
+    syncModeFields();
+    window.clearTimeout(lookupTimer);
+    runLookup(inputEl.value);
+  });
+}
+
+for (const targetInput of childTargetInputs) {
+  targetInput.addEventListener('change', () => {
     window.clearTimeout(lookupTimer);
     runLookup(inputEl.value);
   });
@@ -615,6 +658,8 @@ for (const button of quickButtons) {
     await runLookup(inputEl.value);
   });
 }
+
+syncModeFields();
 
 const requestedText = getRequestedText();
 if (requestedText) {
