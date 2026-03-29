@@ -18,6 +18,20 @@
 
       <section class="panel">
         <form id="lookup-form" class="lookup-form">
+          <div class="field field-full">
+            <span>表示モード</span>
+            <div class="choice-list" role="radiogroup" aria-label="表示モード">
+              <label class="choice-chip">
+                <input type="radio" name="lookup-mode" value="lookup" checked />
+                <span>コード情報</span>
+              </label>
+              <label class="choice-chip">
+                <input type="radio" name="lookup-mode" value="children" />
+                <span>1つ下の階層</span>
+              </label>
+            </div>
+          </div>
+
           <label class="field">
             <span>IPC / FI / CPC コード</span>
             <textarea
@@ -43,7 +57,7 @@ H04N1/00061
           <button type="button" data-code="H04N1/00061">H04N1/00061</button>
         </div>
 
-        <p id="status" class="status">改行・タブ・空白を含む入力からコードを抽出できます。</p>
+        <p id="status" class="status">分類コードを入力すると、自動で結果を表示します。</p>
       </section>
 
       <section class="panel">

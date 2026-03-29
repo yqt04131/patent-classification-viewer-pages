@@ -5,6 +5,7 @@ const listEl = document.querySelector('#result-list');
 const metaEl = document.querySelector('#result-meta');
 const template = document.querySelector('#result-item-template');
 const quickButtons = document.querySelectorAll('[data-code]');
+const modeInputs = document.querySelectorAll('input[name="lookup-mode"]');
 
 const DATASETS = {
   ipc: { dir: './data', prefix: 'ipc-shard', label: 'IPC' },
@@ -28,6 +29,11 @@ function formatCodeForDisplay(code) {
   return code.replace(/\\$/, '');
 }
 
+function getSelectedViewMode() {
+  const checked = Array.from(modeInputs).find((input) => input.checked);
+  return checked ? checked.value : 'lookup';
+}
+
 function getShardKey(code) {
   if (/^[A-HY]\d{2}[A-Z]/.test(code)) return code.slice(0, 4);
   if (/^[A-HY]\d{2}/.test(code)) return code.slice(0, 1);
@@ -43,18 +49,17 @@ function extractCodes(rawText) {
 
   const inlineGap = '[ \\t\\u3000]*';
   const pattern = new RegExp(
-    `[A-HY]${inlineGap}\\d{2}${inlineGap}[A-Z](?:${inlineGap}\\d+)?(?:${inlineGap}\\/${inlineGap}[0-9A-Z,]+(?:${inlineGap}[0-9A-Z,]+)*)?(?:${inlineGap}\\\\)?`,
+    `[A-HY]${inlineGap}\\d{2}${inlineGap}[A-Z](?:${inlineGap}\\d+)?(?:${inlineGap}\\/${inlineGap}[0-9A-Z,]+(?:${inlineGap}[ \\t\\u3000]+[0-9A-Z,]+)*)?(?:${inlineGap}\\\\)?`,
     'gi'
   );
+
   const matches = preparedText.match(pattern) || [];
   const codes = [];
   const seen = new Set();
 
   for (const match of matches) {
     const code = normalizeCode(match).replace(/[、，,]/g, '');
-    if (!code || seen.has(code)) {
-      continue;
-    }
+    if (!code || seen.has(code)) continue;
     seen.add(code);
     codes.push(code);
   }
@@ -131,6 +136,12 @@ function getAncestorItems(mode, dataset, code) {
   return items;
 }
 
+function getChildItems(dataset, code) {
+  return Object.values(dataset.entries)
+    .filter((item) => item.parent === code)
+    .sort((left, right) => left.code.localeCompare(right.code, 'en'));
+}
+
 function formatOverlayLine(item, hierarchy = '') {
   const parts = [formatCodeForDisplay(item.code)];
   if (hierarchy) {
@@ -158,7 +169,6 @@ function buildOverlayText(result) {
   }
 
   lines.push(formatOverlayLine(result.item, result.depth > 0 ? '・'.repeat(result.depth) : ''));
-
   return lines.join('\n');
 }
 
@@ -218,6 +228,7 @@ function createResultItem(result) {
   if (overlayText) {
     codeWrap.title = overlayText;
   }
+
   bindDetailTrigger(codeWrap, result);
 
   if (result.mode === 'fi') {
@@ -254,9 +265,29 @@ function createResultItem(result) {
   return node;
 }
 
-function renderResults(inputCodes, results) {
-  clearResults();
+function createEmptyNote(message) {
+  const note = document.createElement('p');
+  note.className = 'empty-note';
+  note.textContent = message;
+  return note;
+}
 
+function createMatchGroupTitle(title, summary) {
+  const header = document.createElement('div');
+  header.className = 'match-group-header';
+
+  const titleEl = document.createElement('h3');
+  titleEl.textContent = title;
+
+  const summaryEl = document.createElement('p');
+  summaryEl.textContent = summary;
+
+  header.append(titleEl, summaryEl);
+  return header;
+}
+
+function renderLookupResults(inputCodes, groupedResults) {
+  const results = groupedResults.flatMap((group) => group.matches);
   if (!results.length) {
     setStatus('一致するコードが見つかりませんでした。', 'error');
     return;
@@ -278,9 +309,121 @@ function renderResults(inputCodes, results) {
     setStatus(`${results.length} 件を表示しています。`, 'success');
   }
 
-  for (const result of results) {
-    listEl.appendChild(createResultItem(result));
+  for (const group of groupedResults) {
+    const section = document.createElement('section');
+    section.className = 'match-group';
+    const foundInGroup = group.matches.filter((result) => !result.notFound).length;
+    section.append(
+      createMatchGroupTitle(
+        formatCodeForDisplay(group.inputCode),
+        foundInGroup ? `${foundInGroup} 件一致` : '一致なし'
+      )
+    );
+
+    const list = document.createElement('div');
+    list.className = 'group-list';
+
+    if (!group.matches.length) {
+      list.append(createEmptyNote('一致する分類コードが見つかりませんでした。'));
+    } else {
+      for (const result of group.matches) {
+        list.appendChild(createResultItem(result));
+      }
+    }
+
+    section.appendChild(list);
+    listEl.appendChild(section);
   }
+}
+
+function renderChildrenResults(inputCodes, groupedResults) {
+  let totalChildren = 0;
+  let matchedSources = 0;
+  const unresolvedCodes = [];
+
+  for (const group of groupedResults) {
+    if (!group.matches.length) {
+      unresolvedCodes.push(formatCodeForDisplay(group.inputCode));
+      continue;
+    }
+    matchedSources += group.matches.length;
+    totalChildren += group.matches.reduce((sum, match) => sum + match.children.length, 0);
+  }
+
+  metaEl.textContent = `${inputCodes.length} コード / ${totalChildren} 件表示`;
+
+  if (totalChildren) {
+    const suffix = unresolvedCodes.length ? ` 未検出: ${unresolvedCodes.join(', ')}` : '';
+    setStatus(`${matchedSources} 件の分類コードについて、1つ下の階層を表示しています。${suffix}`, 'success');
+  } else if (matchedSources) {
+    setStatus('一致した分類コードはありますが、1つ下の階層は見つかりませんでした。', 'error');
+  } else {
+    setStatus(`一致する分類コードが見つかりませんでした。未検出: ${unresolvedCodes.join(', ')}`, 'error');
+  }
+
+  for (const group of groupedResults) {
+    const section = document.createElement('section');
+    section.className = 'match-group';
+    section.append(
+      createMatchGroupTitle(
+        formatCodeForDisplay(group.inputCode),
+        group.matches.length ? `${group.matches.length} 件一致` : '一致なし'
+      )
+    );
+
+    const list = document.createElement('div');
+    list.className = 'group-list';
+
+    if (!group.matches.length) {
+      list.append(createEmptyNote('一致する分類コードが見つかりませんでした。'));
+    } else {
+      for (const match of group.matches) {
+        const childGroup = document.createElement('section');
+        childGroup.className = 'child-group';
+
+        const heading = document.createElement('div');
+        heading.className = 'child-group-header';
+
+        const title = document.createElement('h4');
+        title.textContent = `${match.source.typeLabel}: ${formatCodeForDisplay(match.source.code)}`;
+
+        const summary = document.createElement('p');
+        summary.textContent = match.children.length
+          ? `${match.children.length} 件`
+          : '1つ下の階層はありません';
+
+        heading.append(title, summary);
+        childGroup.appendChild(heading);
+
+        if (!match.children.length) {
+          childGroup.append(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
+        } else {
+          const childList = document.createElement('div');
+          childList.className = 'group-list';
+          for (const child of match.children) {
+            childList.appendChild(createResultItem(child));
+          }
+          childGroup.appendChild(childList);
+        }
+
+        list.appendChild(childGroup);
+      }
+    }
+
+    section.appendChild(list);
+    listEl.appendChild(section);
+  }
+}
+
+function renderResults(inputCodes, groupedResults, viewMode) {
+  clearResults();
+
+  if (viewMode === 'children') {
+    renderChildrenResults(inputCodes, groupedResults);
+    return;
+  }
+
+  renderLookupResults(inputCodes, groupedResults);
 }
 
 async function loadShard(mode, code) {
@@ -386,17 +529,27 @@ async function lookupCode(code) {
     }
   }
 
-  if (!results.length) {
-    return [
-      {
-        code,
-        notFound: true,
-        typeLabel: '未検出',
-      },
-    ];
-  }
-
   return results;
+}
+
+async function lookupChildren(code) {
+  const matches = await lookupCode(code);
+  return matches.map((match) => {
+    const childItems = getChildItems(match.dataset, match.code);
+    const children = childItems.map((item) => ({
+      code: item.code,
+      mode: match.mode,
+      typeLabel: match.typeLabel,
+      depth: getDepth(match.mode, match.dataset, item.code),
+      item,
+      dataset: match.dataset,
+    }));
+
+    return {
+      source: match,
+      children,
+    };
+  });
 }
 
 function getRequestedText() {
@@ -407,15 +560,24 @@ function getRequestedText() {
 async function runLookup(rawText) {
   try {
     const codes = extractCodes(rawText);
+    const viewMode = getSelectedViewMode();
+
     if (!codes.length) {
       clearResults();
       setStatus('コードを入力してください。', 'error');
       return;
     }
 
-    setStatus('データを読み込み中です...');
-    const groupedResults = await Promise.all(codes.map((code) => lookupCode(code)));
-    renderResults(codes, groupedResults.flat());
+    setStatus(viewMode === 'children' ? '1つ下の階層を検索中です...' : 'データを読み込み中です...');
+
+    const groupedResults = await Promise.all(
+      codes.map(async (code) => ({
+        inputCode: code,
+        matches: viewMode === 'children' ? await lookupChildren(code) : await lookupCode(code),
+      }))
+    );
+
+    renderResults(codes, groupedResults, viewMode);
   } catch (error) {
     console.error(error);
     setStatus(`検索処理でエラーが発生しました: ${error.message || String(error)}`, 'error');
@@ -438,6 +600,13 @@ formEl.addEventListener('submit', async (event) => {
 inputEl.addEventListener('input', () => {
   scheduleLookup(inputEl.value);
 });
+
+for (const modeInput of modeInputs) {
+  modeInput.addEventListener('change', () => {
+    window.clearTimeout(lookupTimer);
+    runLookup(inputEl.value);
+  });
+}
 
 for (const button of quickButtons) {
   button.addEventListener('click', async () => {
