@@ -151,7 +151,13 @@ function getAncestorItems(mode, dataset, code) {
 function getChildItems(dataset, code) {
   return Object.values(dataset.entries)
     .filter((item) => item.parent === code)
-    .sort((left, right) => left.code.localeCompare(right.code, 'en'));
+    .sort((left, right) => {
+      const levelDiff = (left.level || 0) - (right.level || 0);
+      if (levelDiff !== 0) {
+        return levelDiff;
+      }
+      return left.code.localeCompare(right.code, 'en');
+    });
 }
 
 function formatOverlayLine(item, hierarchy = '') {
