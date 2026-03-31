@@ -16,6 +16,7 @@ const dataCache = {
 };
 
 let currentDataset = null;
+let overlayMode = 'ancestors';
 
 function formatCodeForDisplay(code) {
   return code.replace(/\\$/, '');
@@ -98,10 +99,32 @@ function formatOverlayLine(item, hierarchy = '') {
   return parts.join(' : ');
 }
 
+function getChildItems(dataset, code) {
+  return Object.values(dataset.entries)
+    .filter((item) => item.parent === code)
+    .sort((left, right) => {
+      const levelDiff = (left.level || 0) - (right.level || 0);
+      if (levelDiff !== 0) {
+        return levelDiff;
+      }
+      return left.code.localeCompare(right.code, 'en');
+    });
+}
+
 function buildOverlayText(mode, dataset, code) {
   const currentItem = dataset.entries[code];
   if (!currentItem) {
     return '';
+  }
+
+  if (overlayMode === 'children') {
+    const children = getChildItems(dataset, code);
+    if (!children.length) {
+      return '1つ下の階層はありません。';
+    }
+    return children
+      .map((item) => formatOverlayLine(item, item.level ? '・'.repeat(item.level) : ''))
+      .join('\n');
   }
 
   const ancestors = getAncestorItems(mode, dataset, code);
@@ -122,6 +145,7 @@ function openDetailWindow(mode, code) {
   const params = new URLSearchParams({
     code,
     mode,
+    overlay: overlayMode,
   });
   window.open(`./detail.html?${params.toString()}`, '_blank', 'noopener');
 }
@@ -250,6 +274,7 @@ async function run() {
   const params = new URLSearchParams(window.location.search);
   const mode = params.get('mode');
   const code = params.get('code');
+  overlayMode = params.get('overlay') === 'children' ? 'children' : 'ancestors';
 
   if (!mode || !code || !DATASETS[mode]) {
     setStatus('表示対象のコード情報が不足しています。', 'error');

@@ -22,6 +22,7 @@ const dataCache = {
 };
 
 let lookupTimer = null;
+let currentOverlayMode = 'ancestors';
 
 function normalizeCode(value) {
   return (value || '').toUpperCase().replace(/\s+/g, '');
@@ -160,6 +161,21 @@ function getChildItems(dataset, code) {
     });
 }
 
+function buildChildOverlayText(result) {
+  if (result.notFound || !result.dataset) {
+    return '';
+  }
+
+  const children = getChildItems(result.dataset, result.code);
+  if (!children.length) {
+    return '1つ下の階層はありません。';
+  }
+
+  return children
+    .map((item) => formatOverlayLine(item, item.level ? '・'.repeat(item.level) : ''))
+    .join('\n');
+}
+
 function formatOverlayLine(item, hierarchy = '') {
   const parts = [formatCodeForDisplay(item.code)];
   if (hierarchy) {
@@ -178,6 +194,10 @@ function buildOverlayText(result) {
     return '';
   }
 
+  if (currentOverlayMode === 'children') {
+    return buildChildOverlayText(result);
+  }
+
   const ancestors = getAncestorItems(result.mode, result.dataset, result.code);
   const lines = [];
 
@@ -194,6 +214,7 @@ function openDetailWindow(result) {
   const params = new URLSearchParams({
     code: result.code,
     mode: result.mode,
+    overlay: currentOverlayMode,
   });
   window.open(`./detail.html?${params.toString()}`, '_blank', 'noopener');
 }
@@ -594,6 +615,7 @@ async function runLookup(rawText) {
     const codes = extractCodes(rawText);
     const viewMode = getSelectedViewMode();
     const childTarget = getSelectedChildTarget();
+    currentOverlayMode = viewMode === 'children' ? 'children' : 'ancestors';
     syncModeFields();
 
     if (!codes.length) {
