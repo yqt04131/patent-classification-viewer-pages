@@ -172,7 +172,10 @@ function buildChildOverlayText(result) {
   }
 
   return children
-    .map((item) => formatOverlayLine(item, item.level ? '・'.repeat(item.level) : ''))
+    .map((item) => {
+      const absoluteDepth = getDepth(result.mode, result.dataset, item.code);
+      return formatOverlayLine(item, absoluteDepth > 0 ? '・'.repeat(absoluteDepth) : '');
+    })
     .join('\n');
 }
 
