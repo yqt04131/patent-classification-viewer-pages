@@ -2,6 +2,9 @@ const statusEl = document.querySelector('#status');
 const listEl = document.querySelector('#result-list');
 const metaEl = document.querySelector('#result-meta');
 const template = document.querySelector('#result-item-template');
+const pageTitleEl = document.querySelector('#detail-page-title');
+const pageLeadEl = document.querySelector('#detail-page-lead');
+const sectionTitleEl = document.querySelector('#detail-section-title');
 
 const DATASETS = {
   ipc: { dir: './data', prefix: 'ipc-shard', label: 'IPC' },
@@ -37,6 +40,19 @@ function formatHierarchyInfo(depth) {
 function setStatus(message, type = 'neutral') {
   statusEl.textContent = message;
   statusEl.dataset.state = type;
+}
+
+function syncPageCopy() {
+  if (overlayMode === 'children') {
+    pageTitleEl.textContent = '下位階層情報を確認する';
+    pageLeadEl.textContent = '選択した分類コードについて、1つ下の階層を一覧表示します。';
+    sectionTitleEl.textContent = '下位階層';
+    return;
+  }
+
+  pageTitleEl.textContent = '上位階層情報を確認する';
+  pageLeadEl.textContent = '選択した分類コードについて、上位階層をルートまで表示します。';
+  sectionTitleEl.textContent = '上位階層';
 }
 
 function resolveLookupCode(mode, dataset, code) {
@@ -325,6 +341,7 @@ async function run() {
   const mode = params.get('mode');
   const code = params.get('code');
   overlayMode = params.get('overlay') === 'children' ? 'children' : 'ancestors';
+  syncPageCopy();
 
   if (!mode || !code || !DATASETS[mode]) {
     setStatus('表示対象のコード情報が不足しています。', 'error');
