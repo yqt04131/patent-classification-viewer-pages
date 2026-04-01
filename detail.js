@@ -54,6 +54,21 @@ function resolveLookupCode(mode, dataset, code) {
   return code;
 }
 
+function getDepth(mode, dataset, code) {
+  let depth = 0;
+  let current = dataset.entries[code];
+
+  while (current && current.parent) {
+    depth += 1;
+    current = dataset.entries[current.parent] || null;
+    if (mode === 'ipc' && current && current.level === 0) {
+      break;
+    }
+  }
+
+  return depth;
+}
+
 function getLineage(mode, dataset, code) {
   const lineage = [];
   let current = dataset.entries[code];
