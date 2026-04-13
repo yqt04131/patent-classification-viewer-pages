@@ -24,8 +24,12 @@ const dataCache = {
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
 
+function normalizeInputText(value) {
+  return (value || '').normalize('NFKC');
+}
+
 function normalizeCode(value) {
-  return (value || '').toUpperCase().replace(/\s+/g, '');
+  return normalizeInputText(value).toUpperCase().replace(/\s+/g, '');
 }
 
 function formatCodeForDisplay(code) {
@@ -55,7 +59,7 @@ function getShardKey(code) {
 }
 
 function extractCodes(rawText) {
-  const preparedText = (rawText || '')
+  const preparedText = normalizeInputText(rawText)
     .replace(/\r\n?/g, '\n')
     .replace(/[、，,]+(?=\s*[A-HY]\s*\d{2}\s*[A-Z])/gi, '\n')
     .replace(/[ \t\u3000]+(?=[A-HY]\s*\d{2}\s*[A-Z])/gi, '\n');
