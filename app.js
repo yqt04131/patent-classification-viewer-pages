@@ -61,12 +61,51 @@ function getShardKey(code) {
 function extractCodes(rawText) {
   const preparedText = normalizeInputText(rawText)
     .replace(/\r\n?/g, '\n')
-    .replace(/[、，,]+(?=\s*[A-HY]\s*\d{2}\s*[A-Z])/gi, '\n')
-    .replace(/[ \t\u3000]+(?=[A-HY]\s*\d{2}\s*[A-Z])/gi, '\n');
+    .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
+    .replace(/[ \t\u3000]+(?=[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n');
 
   const inlineGap = '[ \\t\\u3000]*';
+  const headDigits = `\\d${inlineGap}\\d`;
+  const digitSeq = `\\d(?:${inlineGap}\\d)*`;
+  const tailSeq = `[0-9A-Z,](?:${inlineGap}[0-9A-Z,])*`;
   const pattern = new RegExp(
-    `[A-HY]${inlineGap}\\d{2}${inlineGap}[A-Z](?:${inlineGap}\\d+)?(?:${inlineGap}\\/${inlineGap}[0-9A-Z,]+(?:${inlineGap}[ \\t\\u3000]+[0-9A-Z,]+)*)?(?:${inlineGap}\\\\)?`,
+    `[A-HY]${inlineGap}${headDigits}${inlineGap}[A-Z](?:${inlineGap}${digitSeq})?(?:${inlineGap}\\/${inlineGap}${tailSeq})?(?:${inlineGap}\\\\)?`,
+    'gi'
+  );
+
+  const matches = preparedText.match(pattern) || [];
+  const codes = [];
+  const seen = new Set();
+
+  for (const match of matches) {
+    const code = normalizeCode(match).replace(/[、，,]/g, '');
+    if (!code || seen.has(code)) continue;
+    seen.add(code);
+    codes.push(code);
+  }
+
+  if (!codes.length) {
+    const fallback = normalizeCode(rawText).replace(/[、，,]/g, '');
+    if (fallback) {
+      codes.push(fallback);
+    }
+  }
+
+  return codes;
+}
+
+function extractCodes(rawText) {
+  const preparedText = normalizeInputText(rawText)
+    .replace(/\r\n?/g, '\n')
+    .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
+    .replace(/[ \t\u3000]+(?=[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n');
+
+  const inlineGap = '[ \\t\\u3000]*';
+  const headDigits = `\\d${inlineGap}\\d`;
+  const digitSeq = `\\d(?:${inlineGap}\\d)*`;
+  const tailSeq = `[0-9A-Z,](?:${inlineGap}[0-9A-Z,])*`;
+  const pattern = new RegExp(
+    `[A-HY]${inlineGap}${headDigits}${inlineGap}[A-Z](?:${inlineGap}${digitSeq})?(?:${inlineGap}\\/${inlineGap}${tailSeq})?(?:${inlineGap}\\\\)?`,
     'gi'
   );
 
