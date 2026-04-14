@@ -258,6 +258,8 @@ function createResultItem(mode, item, index) {
   const enPane = node.querySelector('.definition-pane-en');
   const jaEl = node.querySelector('.definition.ja');
   const enEl = node.querySelector('.definition.en');
+  const themeBlock = node.querySelector('.theme-block');
+  const themeList = node.querySelector('.theme-list');
 
   codeEl.textContent = formatCodeForDisplay(item.code);
   typeTag.textContent = DATASETS[mode].label;
@@ -301,6 +303,8 @@ function createResultItem(mode, item, index) {
     enPane.classList.remove('is-empty');
   }
 
+  populateThemeBlock(themeBlock, themeList, mode, item.themes || []);
+
   return node;
 }
 
@@ -311,17 +315,71 @@ function createEmptyNote(message) {
   return note;
 }
 
-function renderLineage(mode, dataset, code) {
+function createThemeItem(theme) {
+  const item = document.createElement('article');
+  item.className = 'theme-item';
+
+  const codeEl = document.createElement('p');
+  codeEl.className = 'theme-code';
+  codeEl.textContent = `${theme.themeCode}${theme.type ? ` / ${theme.type}` : ''}`;
+
+  const nameEl = document.createElement('p');
+  nameEl.className = 'theme-name';
+  nameEl.textContent = theme.name || '';
+
+  item.append(codeEl, nameEl);
+
+  if (theme.coverage) {
+    const coverageEl = document.createElement('p');
+    coverageEl.className = 'theme-coverage';
+    coverageEl.textContent = theme.coverage;
+    item.appendChild(coverageEl);
+  }
+
+  return item;
+}
+
+function populateThemeBlock(themeBlock, themeList, mode, themes) {
+  if (!themeBlock || !themeList) {
+    return;
+  }
+
+  if (mode !== 'fi') {
+    themeBlock.hidden = true;
+    return;
+  }
+
+  themeBlock.hidden = false;
+  themeList.innerHTML = '';
+
+  if (!themes.length) {
+    themeList.appendChild(createEmptyNote('対応するテーマコードは見つかりませんでした。'));
+    return;
+  }
+
+  for (const theme of themes) {
+    themeList.appendChild(createThemeItem(theme));
+  }
+}
+
+async function renderLineage(mode, dataset, code) {
   const lineage = getLineage(mode, dataset, code);
   setStatus(`「${formatCodeForDisplay(code)}」の上位階層を表示しています。`, 'success');
   metaEl.textContent = `${DATASETS[mode].label} / ${lineage.length} 階層`;
 
   for (const [index, lineageItem] of lineage.entries()) {
-    listEl.appendChild(createResultItem(mode, lineageItem, index));
+    const item = {
+      ...lineageItem,
+      themes:
+        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, lineageItem.code)
+          : [],
+    };
+    listEl.appendChild(createResultItem(mode, item, index));
   }
 }
 
-function renderChildren(mode, dataset, code) {
+async function renderChildren(mode, dataset, code) {
   const children = getChildItems(dataset, code);
   setStatus(`「${formatCodeForDisplay(code)}」の1つ下の階層を表示しています。`, 'success');
   metaEl.textContent = `${DATASETS[mode].label} / ${children.length} 件`;
@@ -332,7 +390,14 @@ function renderChildren(mode, dataset, code) {
   }
 
   for (const child of children) {
-    listEl.appendChild(createResultItem(mode, child, getLineage(mode, dataset, child.code).length - 1));
+    const item = {
+      ...child,
+      themes:
+        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, child.code)
+          : [],
+    };
+    listEl.appendChild(createResultItem(mode, item, getLineage(mode, dataset, child.code).length - 1));
   }
 }
 
@@ -360,11 +425,11 @@ async function run() {
     }
 
     if (overlayMode === 'children') {
-      renderChildren(mode, dataset, resolvedCode);
+      await renderChildren(mode, dataset, resolvedCode);
       return;
     }
 
-    renderLineage(mode, dataset, resolvedCode);
+    await renderLineage(mode, dataset, resolvedCode);
   } catch (error) {
     console.error(error);
     setStatus(`詳細ページの表示でエラーが発生しました: ${error.message || String(error)}`, 'error');

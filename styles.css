@@ -401,6 +401,50 @@ button {
   grid-template-columns: 1fr;
 }
 
+.theme-block {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(110, 91, 75, 0.14);
+}
+
+.theme-title {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.92rem;
+  font-weight: 700;
+}
+
+.theme-list {
+  display: grid;
+  gap: 10px;
+}
+
+.theme-item {
+  padding: 12px 14px;
+  border: 1px solid rgba(159, 63, 45, 0.12);
+  border-radius: 14px;
+  background: rgba(255, 248, 243, 0.9);
+}
+
+.theme-code {
+  margin: 0;
+  color: var(--accent-strong);
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+.theme-name,
+.theme-coverage,
+.theme-empty {
+  margin: 6px 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.theme-empty {
+  margin-top: 0;
+}
+
 @media (max-width: 720px) {
   .page {
     width: min(100% - 20px, 980px);

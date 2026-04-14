@@ -291,6 +291,8 @@ function createResultItem(result) {
   const enPane = node.querySelector('.definition-pane-en');
   const jaEl = node.querySelector('.definition.ja');
   const enEl = node.querySelector('.definition.en');
+  const themeBlock = node.querySelector('.theme-block');
+  const themeList = node.querySelector('.theme-list');
 
   codeEl.textContent = formatCodeForDisplay(result.code);
   typeTag.textContent = result.typeLabel;
@@ -347,6 +349,8 @@ function createResultItem(result) {
     enPane.classList.remove('is-empty');
   }
 
+  populateThemeBlock(themeBlock, themeList, result);
+
   return node;
 }
 
@@ -355,6 +359,54 @@ function createEmptyNote(message) {
   note.className = 'empty-note';
   note.textContent = message;
   return note;
+}
+
+function createThemeItem(theme) {
+  const item = document.createElement('article');
+  item.className = 'theme-item';
+
+  const codeEl = document.createElement('p');
+  codeEl.className = 'theme-code';
+  codeEl.textContent = `${theme.themeCode}${theme.type ? ` / ${theme.type}` : ''}`;
+
+  const nameEl = document.createElement('p');
+  nameEl.className = 'theme-name';
+  nameEl.textContent = theme.name || '';
+
+  item.append(codeEl, nameEl);
+
+  if (theme.coverage) {
+    const coverageEl = document.createElement('p');
+    coverageEl.className = 'theme-coverage';
+    coverageEl.textContent = theme.coverage;
+    item.appendChild(coverageEl);
+  }
+
+  return item;
+}
+
+function populateThemeBlock(themeBlock, themeList, result) {
+  if (!themeBlock || !themeList) {
+    return;
+  }
+
+  if (result.mode !== 'fi') {
+    themeBlock.hidden = true;
+    return;
+  }
+
+  themeBlock.hidden = false;
+  themeList.innerHTML = '';
+
+  const themes = result.themes || [];
+  if (!themes.length) {
+    themeList.appendChild(createEmptyNote('対応するテーマコードは見つかりませんでした。'));
+    return;
+  }
+
+  for (const theme of themes) {
+    themeList.appendChild(createThemeItem(theme));
+  }
 }
 
 function createMatchGroupTitle(title, summary) {
@@ -601,6 +653,11 @@ async function lookupCode(code) {
         continue;
       }
 
+      const themes =
+        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
+          : [];
+
       results.push({
         code: resolvedCode,
         mode,
@@ -608,6 +665,7 @@ async function lookupCode(code) {
         depth: getDepth(mode, dataset, resolvedCode),
         item: dataset.entries[resolvedCode],
         dataset,
+        themes,
       });
     } catch (error) {
       console.warn(`Skipped ${mode} lookup:`, error);
@@ -633,16 +691,27 @@ async function lookupChildrenForMode(code, targetMode) {
       depth: getDepth(targetMode, dataset, resolvedCode),
       item: sourceItem,
       dataset,
+      themes:
+        targetMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
+          : [],
     };
 
-    const children = getChildItems(dataset, resolvedCode).map((item) => ({
-      code: item.code,
-      mode: targetMode,
-      typeLabel: DATASETS[targetMode].label,
-      depth: getDepth(targetMode, dataset, item.code),
-      item,
-      dataset,
-    }));
+    const children = [];
+    for (const item of getChildItems(dataset, resolvedCode)) {
+      children.push({
+        code: item.code,
+        mode: targetMode,
+        typeLabel: DATASETS[targetMode].label,
+        depth: getDepth(targetMode, dataset, item.code),
+        item,
+        dataset,
+        themes:
+          targetMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+            ? await window.findThemeMatchesForFi(dataset, item.code)
+            : [],
+      });
+    }
 
     return [{ source, children }];
   } catch (error) {
