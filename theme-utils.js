@@ -213,18 +213,48 @@
     return themeState.promise;
   }
 
-  function getLineageCodes(dataset, code) {
+  function isPrefixExpansion(childCode, parentCode) {
+    const child = parseFiCode(childCode);
+    const parent = parseFiCode(parentCode);
+    if (!child || !parent) {
+      return false;
+    }
+
+    return child.prefix === parent.prefix && child.mainGroup === parent.mainGroup && child.subGroup.startsWith(parent.subGroup);
+  }
+
+  function getThemeMatchCandidates(dataset, code) {
     const codes = [];
     const seen = new Set();
     let current = dataset.entries[code] || null;
 
-    while (current) {
-      const normalized = normalizeFiCode(current.code);
+    if (!current) {
+      return codes;
+    }
+
+    let normalized = normalizeFiCode(current.code);
+    if (normalized) {
+      seen.add(normalized);
+      codes.push(normalized);
+    }
+
+    while (current && current.parent) {
+      const parent = dataset.entries[current.parent] || null;
+      if (!parent) {
+        break;
+      }
+
+      if (!isPrefixExpansion(current.code, parent.code)) {
+        break;
+      }
+
+      normalized = normalizeFiCode(parent.code);
       if (normalized && !seen.has(normalized)) {
         seen.add(normalized);
         codes.push(normalized);
       }
-      current = current.parent ? dataset.entries[current.parent] || null : null;
+
+      current = parent;
     }
 
     return codes;
@@ -238,7 +268,7 @@
     }
 
     const themes = await loadThemeData();
-    const lineageCodes = getLineageCodes(dataset, code);
+    const lineageCodes = getThemeMatchCandidates(dataset, code);
     const matches = themes.filter((theme) => {
       return lineageCodes.some((lineageCode) => coverageContainsCode(theme.coverage, lineageCode));
     });
