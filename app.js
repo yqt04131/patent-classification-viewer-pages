@@ -675,7 +675,7 @@ async function lookupCode(code) {
 }
 
 async function lookupPreferredMode(code, preferredMode) {
-  if (!preferredMode || preferredMode === 'ipc') {
+  if (!preferredMode || !DATASETS[preferredMode]) {
     return null;
   }
 
@@ -705,12 +705,16 @@ async function lookupPreferredMode(code, preferredMode) {
 }
 
 async function lookupCodeWithPreference(code, preferredMode) {
+  if (!preferredMode || !DATASETS[preferredMode]) {
+    return lookupCode(code);
+  }
+
   const preferredResult = await lookupPreferredMode(code, preferredMode);
   if (preferredResult) {
     return [preferredResult];
   }
 
-  return lookupCode(code);
+  return [];
 }
 
 async function lookupChildrenForMode(code, targetMode) {
