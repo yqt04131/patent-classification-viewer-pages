@@ -1,4 +1,4 @@
-const statusEl = document.querySelector('#status');
+﻿const statusEl = document.querySelector('#status');
 const formEl = document.querySelector('#lookup-form');
 const inputEl = document.querySelector('#ipc-input');
 const listEl = document.querySelector('#result-list');
@@ -9,18 +9,19 @@ const modeInputs = document.querySelectorAll('input[name="lookup-mode"]');
 const childTargetInputs = document.querySelectorAll('input[name="children-target"]');
 const childTargetField = document.querySelector('#children-target-field');
 
-const DATASETS = {
-  ipc: { dir: './data', prefix: 'ipc-shard', label: 'IPC' },
-  fi: { dir: './data', prefix: 'fi-shard', label: 'FI' },
-  cpc: { dir: './data', prefix: 'cpc-shard', label: 'CPC' },
-};
-
-const dataCache = {
-  ipc: {},
-  fi: {},
-  cpc: {},
-};
-
+const {
+  DATASETS,
+  loadShard,
+  formatCodeForDisplay,
+  formatHierarchyInfo,
+  resolveLookupCode,
+  getDepth,
+  getAncestorItems,
+  getChildItems,
+  formatOverlayLine,
+  createEmptyNote,
+  populateThemeBlock,
+} = window.ClassificationShared;
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
 
@@ -31,11 +32,6 @@ function normalizeInputText(value) {
 function normalizeCode(value) {
   return normalizeInputText(value).toUpperCase().replace(/\s+/g, '');
 }
-
-function formatCodeForDisplay(code) {
-  return code.replace(/\\$/, '');
-}
-
 function getSelectedViewMode() {
   const checked = Array.from(modeInputs).find((input) => input.checked);
   return checked ? checked.value : 'lookup';
@@ -49,18 +45,10 @@ function getSelectedChildTarget() {
 function syncModeFields() {
   childTargetField.hidden = false;
 }
-
-function getShardKey(code) {
-  if (/^[A-HY]\d{2}[A-Z]/.test(code)) return code.slice(0, 4);
-  if (/^[A-HY]\d{2}/.test(code)) return code.slice(0, 1);
-  if (/^[A-HY]/.test(code)) return code.slice(0, 1);
-  return 'misc';
-}
-
 function extractCodes(rawText) {
   const preparedText = normalizeInputText(rawText)
     .replace(/\r\n?/g, '\n')
-    .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
+    .replace(/[縲・ｼ・]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
     .replace(/[ \t\u3000]+(?=[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n');
 
   const inlineGap = '[ \\t\\u3000]*';
@@ -77,14 +65,14 @@ function extractCodes(rawText) {
   const seen = new Set();
 
   for (const match of matches) {
-    const code = normalizeCode(match).replace(/[、，,]/g, '');
+    const code = normalizeCode(match).replace(/[縲・ｼ・]/g, '');
     if (!code || seen.has(code)) continue;
     seen.add(code);
     codes.push(code);
   }
 
   if (!codes.length) {
-    const fallback = normalizeCode(rawText).replace(/[、，,]/g, '');
+    const fallback = normalizeCode(rawText).replace(/[縲・ｼ・]/g, '');
     if (fallback) {
       codes.push(fallback);
     }
@@ -92,48 +80,6 @@ function extractCodes(rawText) {
 
   return codes;
 }
-
-function extractCodes(rawText) {
-  const preparedText = normalizeInputText(rawText)
-    .replace(/\r\n?/g, '\n')
-    .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
-    .replace(/[ \t\u3000]+(?=[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n');
-
-  const inlineGap = '[ \\t\\u3000]*';
-  const headDigits = `\\d${inlineGap}\\d`;
-  const digitSeq = `\\d(?:${inlineGap}\\d)*`;
-  const tailSeq = `[0-9A-Z,](?:${inlineGap}[0-9A-Z,])*`;
-  const pattern = new RegExp(
-    `[A-HY]${inlineGap}${headDigits}${inlineGap}[A-Z](?:${inlineGap}${digitSeq})?(?:${inlineGap}\\/${inlineGap}${tailSeq})?(?:${inlineGap}\\\\)?`,
-    'gi'
-  );
-
-  const matches = preparedText.match(pattern) || [];
-  const codes = [];
-  const seen = new Set();
-
-  for (const match of matches) {
-    const code = normalizeCode(match).replace(/[、，,]/g, '');
-    if (!code || seen.has(code)) continue;
-    seen.add(code);
-    codes.push(code);
-  }
-
-  if (!codes.length) {
-    const fallback = normalizeCode(rawText).replace(/[、，,]/g, '');
-    if (fallback) {
-      codes.push(fallback);
-    }
-  }
-
-  return codes;
-}
-
-function formatHierarchyInfo(depth) {
-  if (depth <= 0) return '';
-  return '・'.repeat(depth);
-}
-
 function clearResults() {
   listEl.innerHTML = '';
   metaEl.textContent = '';
@@ -143,66 +89,6 @@ function setStatus(message, type = 'neutral') {
   statusEl.textContent = message;
   statusEl.dataset.state = type;
 }
-
-function resolveLookupCode(mode, dataset, code) {
-  if (dataset.entries[code]) {
-    return code;
-  }
-
-  if (mode === 'fi') {
-    const anchorCode = `${code}\\`;
-    if (dataset.entries[anchorCode]) {
-      return anchorCode;
-    }
-  }
-
-  return code;
-}
-
-function getDepth(mode, dataset, code) {
-  let depth = 0;
-  let current = dataset.entries[code];
-
-  while (current && current.parent) {
-    depth += 1;
-    current = dataset.entries[current.parent] || null;
-    if (mode === 'ipc' && current && current.level === 0) {
-      break;
-    }
-  }
-
-  return depth;
-}
-
-function getAncestorItems(mode, dataset, code) {
-  const items = [];
-  let current = dataset.entries[code];
-
-  while (current && current.parent) {
-    const parent = dataset.entries[current.parent] || null;
-    if (!parent) break;
-    items.unshift(parent);
-    current = parent;
-    if (mode === 'ipc' && current.level === 0) {
-      break;
-    }
-  }
-
-  return items;
-}
-
-function getChildItems(dataset, code) {
-  return Object.values(dataset.entries)
-    .filter((item) => item.parent === code)
-    .sort((left, right) => {
-      const levelDiff = (left.level || 0) - (right.level || 0);
-      if (levelDiff !== 0) {
-        return levelDiff;
-      }
-      return left.code.localeCompare(right.code, 'en');
-    });
-}
-
 function buildChildOverlayText(result) {
   if (result.notFound || !result.dataset) {
     return '';
@@ -210,28 +96,15 @@ function buildChildOverlayText(result) {
 
   const children = getChildItems(result.dataset, result.code);
   if (!children.length) {
-    return '1つ下の階層はありません。';
+    return '1縺､荳九・髫主ｱ､縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・;
   }
 
   return children
     .map((item) => {
       const absoluteDepth = getDepth(result.mode, result.dataset, item.code);
-      return formatOverlayLine(item, absoluteDepth > 0 ? '・'.repeat(absoluteDepth) : '');
+      return formatOverlayLine(item, absoluteDepth > 0 ? '繝ｻ'.repeat(absoluteDepth) : '');
     })
     .join('\n');
-}
-
-function formatOverlayLine(item, hierarchy = '') {
-  const parts = [formatCodeForDisplay(item.code)];
-  if (hierarchy) {
-    parts.unshift(hierarchy);
-  }
-  if (item.ja) {
-    parts.push(item.ja);
-  } else if (item.en) {
-    parts.push(item.en);
-  }
-  return parts.join(' : ');
 }
 
 function buildOverlayText(result) {
@@ -247,11 +120,11 @@ function buildOverlayText(result) {
   const lines = [];
 
   for (const [index, item] of ancestors.entries()) {
-    const hierarchy = index === 0 ? '' : '・'.repeat(index);
+    const hierarchy = index === 0 ? '' : '繝ｻ'.repeat(index);
     lines.push(formatOverlayLine(item, hierarchy));
   }
 
-  lines.push(formatOverlayLine(result.item, result.depth > 0 ? '・'.repeat(result.depth) : ''));
+  lines.push(formatOverlayLine(result.item, result.depth > 0 ? '繝ｻ'.repeat(result.depth) : ''));
   return lines.join('\n');
 }
 
@@ -267,7 +140,7 @@ function openDetailWindow(result) {
 function bindDetailTrigger(element, result) {
   element.tabIndex = 0;
   element.setAttribute('role', 'button');
-  element.setAttribute('aria-label', `${formatCodeForDisplay(result.code)} の上位階層を別ウィンドウで開く`);
+  element.setAttribute('aria-label', `${formatCodeForDisplay(result.code)} 縺ｮ荳贋ｽ埼嚴螻､繧貞挨繧ｦ繧｣繝ｳ繝峨え縺ｧ髢九￥`);
   element.addEventListener('click', () => {
     openDetailWindow(result);
   });
@@ -279,7 +152,6 @@ function bindDetailTrigger(element, result) {
     openDetailWindow(result);
   });
 }
-
 function createResultItem(result) {
   const node = template.content.firstElementChild.cloneNode(true);
   const codeWrap = node.querySelector('.code-wrap');
@@ -297,8 +169,8 @@ function createResultItem(result) {
   typeTag.textContent = result.typeLabel;
 
   if (result.notFound) {
-    hierarchyTag.textContent = '未検出';
-    jaEl.textContent = '一致する分類コードが見つかりませんでした。';
+    hierarchyTag.textContent = '譛ｪ讀懷・';
+    jaEl.textContent = '荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・;
     enEl.textContent = '';
     enPane.hidden = true;
     node.classList.add('result-item-missing');
@@ -348,74 +220,9 @@ function createResultItem(result) {
     enPane.classList.remove('is-empty');
   }
 
-  populateThemeBlock(themeBlock, themeList, result);
+  populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes !== false);
 
   return node;
-}
-
-function createEmptyNote(message) {
-  const note = document.createElement('p');
-  note.className = 'empty-note';
-  note.textContent = message;
-  return note;
-}
-
-function createThemeItem(theme) {
-  const item = document.createElement('article');
-  item.className = 'theme-item';
-
-  const codeEl = document.createElement('p');
-  codeEl.className = 'theme-code';
-  codeEl.textContent = `${theme.themeCode}${theme.type ? ` / ${theme.type}` : ''}`;
-
-  const nameEl = document.createElement('p');
-  nameEl.className = 'theme-name';
-  nameEl.textContent = theme.name || '';
-
-  item.append(codeEl, nameEl);
-
-  if (theme.themeCode) {
-    const linkEl = document.createElement('a');
-    linkEl.className = 'theme-link';
-    linkEl.href = `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${theme.themeCode}.html`;
-    linkEl.target = '_blank';
-    linkEl.rel = 'noopener noreferrer';
-    linkEl.textContent = 'Fタームリストを開く';
-    item.appendChild(linkEl);
-  }
-
-  if (theme.coverage) {
-    const coverageEl = document.createElement('p');
-    coverageEl.className = 'theme-coverage';
-    coverageEl.textContent = theme.coverage;
-    item.appendChild(coverageEl);
-  }
-
-  return item;
-}
-
-function populateThemeBlock(themeBlock, themeList, result) {
-  if (!themeBlock || !themeList) {
-    return;
-  }
-
-  if (result.mode !== 'fi' || !result.showThemes) {
-    themeBlock.hidden = true;
-    return;
-  }
-
-  themeBlock.hidden = false;
-  themeList.innerHTML = '';
-
-  const themes = result.themes || [];
-  if (!themes.length) {
-    themeList.appendChild(createEmptyNote('対応するテーマコードは見つかりませんでした。'));
-    return;
-  }
-
-  for (const theme of themes) {
-    themeList.appendChild(createThemeItem(theme));
-  }
 }
 
 function createMatchGroupTitle(title, summary) {
@@ -435,7 +242,7 @@ function createMatchGroupTitle(title, summary) {
 function renderLookupResults(inputCodes, groupedResults) {
   const results = groupedResults.flatMap((group) => group.matches);
   if (!results.length) {
-    setStatus('一致するコードが見つかりませんでした。', 'error');
+    setStatus('荳閾ｴ縺吶ｋ繧ｳ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・, 'error');
     return;
   }
 
@@ -444,15 +251,15 @@ function renderLookupResults(inputCodes, groupedResults) {
     .filter((result) => result.notFound)
     .map((result) => formatCodeForDisplay(result.code));
 
-  metaEl.textContent = `${inputCodes.length} コード / ${results.length} 件表示`;
+  metaEl.textContent = `${inputCodes.length} 繧ｳ繝ｼ繝・/ ${results.length} 莉ｶ陦ｨ遉ｺ`;
 
   if (notFoundCodes.length) {
     setStatus(
-      `${foundCount} 件を表示しています。未検出: ${notFoundCodes.join(', ')}`,
+      `${foundCount} 莉ｶ繧定｡ｨ遉ｺ縺励※縺・∪縺吶よ悴讀懷・: ${notFoundCodes.join(', ')}`,
       foundCount ? 'success' : 'error'
     );
   } else {
-    setStatus(`${results.length} 件を表示しています。`, 'success');
+    setStatus(`${results.length} 莉ｶ繧定｡ｨ遉ｺ縺励※縺・∪縺吶Ａ, 'success');
   }
 
   for (const group of groupedResults) {
@@ -462,7 +269,7 @@ function renderLookupResults(inputCodes, groupedResults) {
     section.append(
       createMatchGroupTitle(
         formatCodeForDisplay(group.inputCode),
-        foundInGroup ? `${foundInGroup} 件一致` : '一致なし'
+        foundInGroup ? `${foundInGroup} 莉ｶ荳閾ｴ` : '荳閾ｴ縺ｪ縺・
       )
     );
 
@@ -470,7 +277,7 @@ function renderLookupResults(inputCodes, groupedResults) {
     list.className = 'group-list';
 
     if (!group.matches.length) {
-      list.append(createEmptyNote('一致する分類コードが見つかりませんでした。'));
+      list.append(createEmptyNote('荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・));
     } else {
       for (const result of group.matches) {
         list.appendChild(createResultItem(result));
@@ -496,15 +303,15 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
     totalChildren += group.matches.reduce((sum, match) => sum + match.children.length, 0);
   }
 
-  metaEl.textContent = `${inputCodes.length} コード / ${totalChildren} 件表示`;
+  metaEl.textContent = `${inputCodes.length} 繧ｳ繝ｼ繝・/ ${totalChildren} 莉ｶ陦ｨ遉ｺ`;
 
   if (totalChildren) {
-    const suffix = unresolvedCodes.length ? ` 未検出: ${unresolvedCodes.join(', ')}` : '';
-    setStatus(`${DATASETS[targetMode].label} で ${matchedSources} 件の分類コードについて、1つ下の階層を表示しています。${suffix}`, 'success');
+    const suffix = unresolvedCodes.length ? ` 譛ｪ讀懷・: ${unresolvedCodes.join(', ')}` : '';
+    setStatus(`${DATASETS[targetMode].label} 縺ｧ ${matchedSources} 莉ｶ縺ｮ蛻・｡槭さ繝ｼ繝峨↓縺､縺・※縲・縺､荳九・髫主ｱ､繧定｡ｨ遉ｺ縺励※縺・∪縺吶・{suffix}`, 'success');
   } else if (matchedSources) {
-    setStatus(`${DATASETS[targetMode].label} では一致した分類コードがありますが、1つ下の階層は見つかりませんでした。`, 'error');
+    setStatus(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺励◆蛻・｡槭さ繝ｼ繝峨′縺ゅｊ縺ｾ縺吶′縲・縺､荳九・髫主ｱ､縺ｯ隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲Ａ, 'error');
   } else {
-    setStatus(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。未検出: ${unresolvedCodes.join(', ')}`, 'error');
+    setStatus(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲よ悴讀懷・: ${unresolvedCodes.join(', ')}`, 'error');
   }
 
   for (const group of groupedResults) {
@@ -513,7 +320,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
     section.append(
       createMatchGroupTitle(
         formatCodeForDisplay(group.inputCode),
-        group.matches.length ? `${group.matches.length} 件一致` : '一致なし'
+        group.matches.length ? `${group.matches.length} 莉ｶ荳閾ｴ` : '荳閾ｴ縺ｪ縺・
       )
     );
 
@@ -521,7 +328,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
     list.className = 'group-list';
 
     if (!group.matches.length) {
-      list.append(createEmptyNote(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。`));
+      list.append(createEmptyNote(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲Ａ));
     } else {
       for (const match of group.matches) {
         list.appendChild(createResultItem(match.source));
@@ -533,18 +340,18 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
         heading.className = 'child-group-header';
 
         const title = document.createElement('h4');
-        title.textContent = '1つ下の階層';
+        title.textContent = '1縺､荳九・髫主ｱ､';
 
         const summary = document.createElement('p');
         summary.textContent = match.children.length
-          ? `${match.children.length} 件`
-          : '1つ下の階層はありません';
+          ? `${match.children.length} 莉ｶ`
+          : '1縺､荳九・髫主ｱ､縺ｯ縺ゅｊ縺ｾ縺帙ｓ';
 
         heading.append(title, summary);
         childGroup.appendChild(heading);
 
         if (!match.children.length) {
-          childGroup.append(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
+          childGroup.append(createEmptyNote('縺薙・蛻・｡槭さ繝ｼ繝峨・逶ｴ荳九↓縺ｯ螳夂ｾｩ貂医∩縺ｮ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・));
         } else {
           const childList = document.createElement('div');
           childList.className = 'group-list';
@@ -572,54 +379,6 @@ function renderResults(inputCodes, groupedResults, viewMode, targetMode) {
   }
 
   renderLookupResults(inputCodes, groupedResults);
-}
-
-async function loadShard(mode, code) {
-  const shardKey = getShardKey(code);
-  if (dataCache[mode][shardKey]) {
-    return dataCache[mode][shardKey];
-  }
-
-  const basePath = `${DATASETS[mode].dir}/${DATASETS[mode].prefix}-${shardKey}`;
-
-  try {
-    const response = await fetch(`${basePath}.json`, { cache: 'no-store' });
-    if (response.ok) {
-      const payload = await response.json();
-      dataCache[mode][shardKey] = payload;
-      return payload;
-    }
-    if (window.location.protocol !== 'file:') {
-      throw new Error(`Failed to load ${basePath}.json`);
-    }
-  } catch (error) {
-    if (window.location.protocol !== 'file:') {
-      throw error;
-    }
-  }
-
-  const windowKey = `${DATASETS[mode].prefix}-${shardKey}`.replace(/-/g, '_').toUpperCase();
-  const existing = window[windowKey];
-  if (existing) {
-    dataCache[mode][shardKey] = existing;
-    return existing;
-  }
-
-  await new Promise((resolve, reject) => {
-    const script = document.createElement('script');
-    script.src = `${basePath}.js`;
-    script.onload = resolve;
-    script.onerror = () => reject(new Error(`Failed to load ${basePath}.js`));
-    document.body.appendChild(script);
-  });
-
-  const loaded = window[windowKey];
-  if (!loaded) {
-    throw new Error(`${windowKey} is not available`);
-  }
-
-  dataCache[mode][shardKey] = loaded;
-  return loaded;
 }
 
 function getCandidateModes(code) {
@@ -790,14 +549,14 @@ async function runLookup(rawText) {
 
     if (!codes.length) {
       clearResults();
-      setStatus('コードを入力してください。', 'error');
+      setStatus('繧ｳ繝ｼ繝峨ｒ蜈･蜉帙＠縺ｦ縺上□縺輔＞縲・, 'error');
       return;
     }
 
     setStatus(
       viewMode === 'children'
-        ? `${DATASETS[childTarget].label} の1つ下の階層を検索中です...`
-        : 'データを読み込み中です...'
+        ? `${DATASETS[childTarget].label} 縺ｮ1縺､荳九・髫主ｱ､繧呈､懃ｴ｢荳ｭ縺ｧ縺・..`
+        : '繝・・繧ｿ繧定ｪｭ縺ｿ霎ｼ縺ｿ荳ｭ縺ｧ縺・..'
     );
 
     const groupedResults = await Promise.all(
@@ -813,7 +572,7 @@ async function runLookup(rawText) {
     renderResults(codes, groupedResults, viewMode, childTarget);
   } catch (error) {
     console.error(error);
-    setStatus(`検索処理でエラーが発生しました: ${error.message || String(error)}`, 'error');
+    setStatus(`讀懃ｴ｢蜃ｦ逅・〒繧ｨ繝ｩ繝ｼ縺檎匱逕溘＠縺ｾ縺励◆: ${error.message || String(error)}`, 'error');
   }
 }
 
