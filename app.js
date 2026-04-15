@@ -540,6 +540,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
 
         heading.append(title, summary);
         childGroup.appendChild(heading);
+        childGroup.appendChild(createResultItem(match.source));
 
         if (!match.children.length) {
           childGroup.append(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));

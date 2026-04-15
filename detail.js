@@ -392,8 +392,18 @@ async function renderLineage(mode, dataset, code) {
 
 async function renderChildren(mode, dataset, code) {
   const children = getChildItems(dataset, code);
+  const sourceItem = {
+    ...dataset.entries[code],
+    themes:
+      mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+        ? await window.findThemeMatchesForFi(dataset, code)
+        : [],
+    showThemes: mode === 'fi',
+  };
   setStatus(`「${formatCodeForDisplay(code)}」の1つ下の階層を表示しています。`, 'success');
   metaEl.textContent = `${DATASETS[mode].label} / ${children.length} 件`;
+
+  listEl.appendChild(createResultItem(mode, sourceItem, getLineage(mode, dataset, code).length - 1));
 
   if (!children.length) {
     listEl.appendChild(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
