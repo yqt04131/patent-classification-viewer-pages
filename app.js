@@ -524,6 +524,8 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
       list.append(createEmptyNote(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。`));
     } else {
       for (const match of group.matches) {
+        list.appendChild(createResultItem(match.source));
+
         const childGroup = document.createElement('section');
         childGroup.className = 'child-group';
 
@@ -531,7 +533,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
         heading.className = 'child-group-header';
 
         const title = document.createElement('h4');
-        title.textContent = `${match.source.typeLabel}: ${formatCodeForDisplay(match.source.code)}`;
+        title.textContent = '1つ下の階層';
 
         const summary = document.createElement('p');
         summary.textContent = match.children.length
@@ -540,7 +542,6 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
 
         heading.append(title, summary);
         childGroup.appendChild(heading);
-        childGroup.appendChild(createResultItem(match.source));
 
         if (!match.children.length) {
           childGroup.append(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
