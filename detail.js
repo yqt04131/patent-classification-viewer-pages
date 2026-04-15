@@ -303,7 +303,7 @@ function createResultItem(mode, item, index) {
     enPane.classList.remove('is-empty');
   }
 
-  populateThemeBlock(themeBlock, themeList, mode, item.themes || []);
+  populateThemeBlock(themeBlock, themeList, mode, item.themes || [], item.showThemes !== false);
 
   return node;
 }
@@ -349,12 +349,12 @@ function createThemeItem(theme) {
   return item;
 }
 
-function populateThemeBlock(themeBlock, themeList, mode, themes) {
+function populateThemeBlock(themeBlock, themeList, mode, themes, showThemes = true) {
   if (!themeBlock || !themeList) {
     return;
   }
 
-  if (mode !== 'fi') {
+  if (mode !== 'fi' || !showThemes) {
     themeBlock.hidden = true;
     return;
   }
@@ -384,6 +384,7 @@ async function renderLineage(mode, dataset, code) {
         mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
           ? await window.findThemeMatchesForFi(dataset, lineageItem.code)
           : [],
+      showThemes: mode === 'fi',
     };
     listEl.appendChild(createResultItem(mode, item, index));
   }
@@ -402,10 +403,8 @@ async function renderChildren(mode, dataset, code) {
   for (const child of children) {
     const item = {
       ...child,
-      themes:
-        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, child.code)
-          : [],
+      themes: [],
+      showThemes: false,
     };
     listEl.appendChild(createResultItem(mode, item, getLineage(mode, dataset, child.code).length - 1));
   }

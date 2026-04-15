@@ -399,7 +399,7 @@ function populateThemeBlock(themeBlock, themeList, result) {
     return;
   }
 
-  if (result.mode !== 'fi') {
+  if (result.mode !== 'fi' || !result.showThemes) {
     themeBlock.hidden = true;
     return;
   }
@@ -675,6 +675,7 @@ async function lookupCode(code) {
         item: dataset.entries[resolvedCode],
         dataset,
         themes,
+        showThemes: mode === 'fi',
       });
     } catch (error) {
       console.warn(`Skipped ${mode} lookup:`, error);
@@ -707,6 +708,7 @@ async function lookupPreferredMode(code, preferredMode) {
         preferredMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
           ? await window.findThemeMatchesForFi(dataset, resolvedCode)
           : [],
+      showThemes: preferredMode === 'fi',
     };
   } catch (error) {
     console.warn(`Skipped preferred ${preferredMode} lookup:`, error);
@@ -747,6 +749,7 @@ async function lookupChildrenForMode(code, targetMode) {
         targetMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
           ? await window.findThemeMatchesForFi(dataset, resolvedCode)
           : [],
+      showThemes: targetMode === 'fi',
     };
 
     const children = [];
@@ -758,10 +761,8 @@ async function lookupChildrenForMode(code, targetMode) {
         depth: getDepth(targetMode, dataset, item.code),
         item,
         dataset,
-        themes:
-          targetMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-            ? await window.findThemeMatchesForFi(dataset, item.code)
-            : [],
+        themes: [],
+        showThemes: false,
       });
     }
 
