@@ -441,6 +441,22 @@ button {
   line-height: 1.7;
 }
 
+.theme-link {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 8px;
+  color: var(--accent);
+  font-size: 0.92rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.theme-link:hover,
+.theme-link:focus-visible {
+  color: var(--accent-strong);
+  text-decoration: underline;
+}
+
 .theme-empty {
   margin-top: 0;
 }

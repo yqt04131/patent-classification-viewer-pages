@@ -374,6 +374,16 @@ function createThemeItem(theme) {
 
   item.append(codeEl, nameEl);
 
+  if (theme.themeCode) {
+    const linkEl = document.createElement('a');
+    linkEl.className = 'theme-link';
+    linkEl.href = `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${theme.themeCode}.html`;
+    linkEl.target = '_blank';
+    linkEl.rel = 'noopener noreferrer';
+    linkEl.textContent = 'Fタームリスト';
+    item.appendChild(linkEl);
+  }
+
   if (theme.coverage) {
     const coverageEl = document.createElement('p');
     coverageEl.className = 'theme-coverage';
