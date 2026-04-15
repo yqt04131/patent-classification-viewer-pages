@@ -47,8 +47,7 @@ function getSelectedChildTarget() {
 }
 
 function syncModeFields() {
-  const isChildrenMode = getSelectedViewMode() === 'children';
-  childTargetField.hidden = !isChildrenMode;
+  childTargetField.hidden = false;
 }
 
 function getShardKey(code) {
@@ -675,6 +674,45 @@ async function lookupCode(code) {
   return results;
 }
 
+async function lookupPreferredMode(code, preferredMode) {
+  if (!preferredMode || preferredMode === 'ipc') {
+    return null;
+  }
+
+  try {
+    const dataset = await loadShard(preferredMode, code);
+    const resolvedCode = resolveLookupCode(preferredMode, dataset, code);
+    if (!dataset.entries[resolvedCode]) {
+      return null;
+    }
+
+    return {
+      code: resolvedCode,
+      mode: preferredMode,
+      typeLabel: DATASETS[preferredMode].label,
+      depth: getDepth(preferredMode, dataset, resolvedCode),
+      item: dataset.entries[resolvedCode],
+      dataset,
+      themes:
+        preferredMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
+          : [],
+    };
+  } catch (error) {
+    console.warn(`Skipped preferred ${preferredMode} lookup:`, error);
+    return null;
+  }
+}
+
+async function lookupCodeWithPreference(code, preferredMode) {
+  const preferredResult = await lookupPreferredMode(code, preferredMode);
+  if (preferredResult) {
+    return [preferredResult];
+  }
+
+  return lookupCode(code);
+}
+
 async function lookupChildrenForMode(code, targetMode) {
   try {
     const dataset = await loadShard(targetMode, code);
@@ -751,7 +789,7 @@ async function runLookup(rawText) {
         matches:
           viewMode === 'children'
             ? await lookupChildrenForMode(code, childTarget)
-            : await lookupCode(code),
+            : await lookupCodeWithPreference(code, childTarget),
       }))
     );
 
