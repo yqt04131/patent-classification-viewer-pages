@@ -64,6 +64,14 @@
     return depth;
   }
 
+  function getDisplayDepth(mode, dataset, code) {
+    const depth = getDepth(mode, dataset, code);
+    if (mode === 'fterm') {
+      return Math.max(0, depth - 1);
+    }
+    return depth;
+  }
+
   function getAncestorItems(mode, dataset, code) {
     const items = [];
     let current = dataset.entries[code] || null;
@@ -266,7 +274,7 @@
       code,
       mode,
       typeLabel: DATASETS[mode].label,
-      depth: getDepth(mode, dataset, code),
+      depth: getDisplayDepth(mode, dataset, code),
       item,
       dataset,
       themes: await loadThemesForCode(mode, dataset, code, showThemes),
@@ -277,7 +285,7 @@
   function buildAncestorOverlayText(mode, dataset, code) {
     const lineage = getLineage(mode, dataset, code);
     return lineage
-      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
+      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDisplayDepth(mode, dataset, item.code))))
       .join('\n');
   }
 
@@ -288,7 +296,7 @@
     }
 
     return children
-      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
+      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDisplayDepth(mode, dataset, item.code))))
       .join('\n');
   }
 
@@ -408,6 +416,7 @@
     formatHierarchyInfo,
     resolveLookupCode,
     getDepth,
+    getDisplayDepth,
     getAncestorItems,
     getLineage,
     getChildItems,
