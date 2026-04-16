@@ -44,6 +44,11 @@ const VIEW_COPY = {
 
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
+const FTERM_INLINE_GAP = '[ \\t\\u3000]*';
+const FTERM_PATTERN = new RegExp(
+  `\\d${FTERM_INLINE_GAP}[A-Z](?:${FTERM_INLINE_GAP}\\d){3}(?:(?:${FTERM_INLINE_GAP}[A-Z]){2}(?:${FTERM_INLINE_GAP}\\d){2})?`,
+  'gi'
+);
 
 function isFtermLikeCode(value) {
   return /^\d[A-Z]\d{3}(?:[A-Z]{2}\d{2})?$/.test(normalizeCode(value));
@@ -70,6 +75,13 @@ function getSelectedTargetMode() {
   return checked ? checked.value : 'ipc';
 }
 
+function setSelectedTargetMode(mode) {
+  const matched = Array.from(targetInputs).find((input) => input.value === mode);
+  if (matched) {
+    matched.checked = true;
+  }
+}
+
 function syncModeFields() {
   const viewMode = getSelectedViewMode();
   const copy = VIEW_COPY[viewMode] || VIEW_COPY.lookup;
@@ -78,35 +90,51 @@ function syncModeFields() {
   targetModeGroupEl.setAttribute('aria-label', copy.targetGroupLabel);
 }
 
+function findFtermCodes(rawText) {
+  const matches = normalizeInputText(rawText).toUpperCase().match(FTERM_PATTERN) || [];
+  const codes = [];
+  const seen = new Set();
+
+  for (const match of matches) {
+    const code = normalizeCode(match);
+    if (!isFtermLikeCode(code) || seen.has(code)) {
+      continue;
+    }
+    seen.add(code);
+    codes.push(code);
+  }
+
+  if (!codes.length) {
+    const fallback = normalizeCode(rawText);
+    if (isFtermLikeCode(fallback)) {
+      codes.push(fallback);
+    }
+  }
+
+  return codes;
+}
+
+function inferTargetMode(rawText, viewMode, selectedTargetMode) {
+  if (selectedTargetMode === 'fterm') {
+    return 'fterm';
+  }
+
+  if (viewMode !== 'lookup') {
+    return selectedTargetMode;
+  }
+
+  const ftermCodes = findFtermCodes(rawText);
+  if (!ftermCodes.length) {
+    return selectedTargetMode;
+  }
+
+  const hasPatentClassificationHead = /[A-HY]\s*\d\s*\d\s*[A-Z]/i.test(normalizeInputText(rawText));
+  return hasPatentClassificationHead ? selectedTargetMode : 'fterm';
+}
+
 function extractCodes(rawText, targetMode) {
   if (targetMode === 'fterm') {
-    const inlineGap = '[ \\t\\u3000]*';
-    const pattern = new RegExp(
-      `\\d${inlineGap}[A-Z](?:${inlineGap}\\d){3}(?:(?:${inlineGap}[A-Z]){2}(?:${inlineGap}\\d){2})?`,
-      'gi'
-    );
-
-    const matches = normalizeInputText(rawText).toUpperCase().match(pattern) || [];
-    const codes = [];
-    const seen = new Set();
-
-    for (const match of matches) {
-      const code = normalizeCode(match);
-      if (!code || seen.has(code)) {
-        continue;
-      }
-      seen.add(code);
-      codes.push(code);
-    }
-
-    if (!codes.length) {
-      const fallback = normalizeCode(rawText);
-      if (fallback) {
-        codes.push(fallback);
-      }
-    }
-
-    return codes;
+    return findFtermCodes(rawText);
   }
 
   const preparedText = normalizeInputText(rawText)
@@ -367,7 +395,10 @@ function getRequestedText() {
 async function runLookup(rawText) {
   try {
     const viewMode = getSelectedViewMode();
-    const targetMode = getSelectedTargetMode();
+    const targetMode = inferTargetMode(rawText, viewMode, getSelectedTargetMode());
+    if (targetMode === 'fterm') {
+      setSelectedTargetMode('fterm');
+    }
     const codes = extractCodes(rawText, targetMode);
     currentOverlayMode = viewMode === 'children' ? 'children' : 'ancestors';
     syncModeFields();
@@ -436,10 +467,7 @@ for (const targetInput of targetInputs) {
 for (const button of quickButtons) {
   button.addEventListener('click', async () => {
     if (isFtermLikeCode(button.dataset.code || '')) {
-      const ftermInput = Array.from(targetInputs).find((input) => input.value === 'fterm');
-      if (ftermInput) {
-        ftermInput.checked = true;
-      }
+      setSelectedTargetMode('fterm');
     }
     inputEl.value = button.dataset.code;
     window.clearTimeout(lookupTimer);
@@ -452,10 +480,7 @@ syncModeFields();
 const requestedText = getRequestedText();
 if (requestedText) {
   if (isFtermLikeCode(requestedText)) {
-    const ftermInput = Array.from(targetInputs).find((input) => input.value === 'fterm');
-    if (ftermInput) {
-      ftermInput.checked = true;
-    }
+    setSelectedTargetMode('fterm');
   }
   inputEl.value = requestedText;
   runLookup(requestedText);
