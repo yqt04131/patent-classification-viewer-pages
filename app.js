@@ -11,6 +11,15 @@ const targetField = document.querySelector('#children-target-field');
 const targetModeLabelEl = document.querySelector('#target-mode-label');
 const targetModeGroupEl = document.querySelector('#children-target-group');
 
+const shared = window.ClassificationShared;
+
+if (!shared) {
+  statusEl.textContent =
+    '必要なスクリプトの読み込みに失敗しました。classification-common.js を含めて更新し、ページを再読み込みしてください。';
+  statusEl.dataset.state = 'error';
+  throw new Error('ClassificationShared is not available');
+}
+
 const {
   DATASETS,
   loadShard,
@@ -23,7 +32,7 @@ const {
   formatOverlayLine,
   createEmptyNote,
   populateThemeBlock,
-} = window.ClassificationShared;
+} = shared;
 
 const VIEW_COPY = {
   lookup: {

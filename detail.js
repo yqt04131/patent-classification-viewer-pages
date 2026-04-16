@@ -6,6 +6,15 @@ const pageTitleEl = document.querySelector('#detail-page-title');
 const pageLeadEl = document.querySelector('#detail-page-lead');
 const sectionTitleEl = document.querySelector('#detail-section-title');
 
+const shared = window.ClassificationShared;
+
+if (!shared) {
+  statusEl.textContent =
+    '必要なスクリプトの読み込みに失敗しました。classification-common.js を含めて更新し、ページを再読み込みしてください。';
+  statusEl.dataset.state = 'error';
+  throw new Error('ClassificationShared is not available');
+}
+
 const {
   DATASETS,
   loadShard,
@@ -18,7 +27,7 @@ const {
   formatOverlayLine,
   createEmptyNote,
   populateThemeBlock,
-} = window.ClassificationShared;
+} = shared;
 
 let currentDataset = null;
 let overlayMode = 'ancestors';
