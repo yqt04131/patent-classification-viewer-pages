@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Classification Lookup Viewer</title>
-    <link rel="stylesheet" href="./styles.css?v=20260416d" />
+    <link rel="stylesheet" href="./styles.css?v=20260416r1" />
   </head>
   <body>
     <main class="page">
@@ -42,8 +42,8 @@
           </div>
 
           <div id="children-target-field" class="field field-full">
-            <span>参照する分類</span>
-            <div class="choice-list" role="radiogroup" aria-label="参照する分類">
+            <span id="target-mode-label">参照する分類</span>
+            <div id="children-target-group" class="choice-list" role="radiogroup" aria-label="参照する分類">
               <label class="choice-chip">
                 <input type="radio" name="children-target" value="ipc" checked />
                 <span>IPC</span>
@@ -70,7 +70,7 @@ H04N1/029
 H04N1/00C
 H04N1/00061
 
-横並びの貼り付けにも対応します。"
+横並び入力にも対応しています。"
               autocomplete="off"
             ></textarea>
           </label>
@@ -84,7 +84,7 @@ H04N1/00061
           <button type="button" data-code="H04N1/00061">H04N1/00061</button>
         </div>
 
-        <p id="status" class="status">分類コードを入力すると、自動で結果を表示します。</p>
+        <p id="status" class="status">分類コードを入力すると、ここに処理状況を表示します。</p>
       </section>
 
       <section class="panel">
@@ -109,11 +109,11 @@ H04N1/00061
         </div>
         <div class="definitions">
           <section class="definition-pane definition-pane-ja">
-            <p class="definition-title">和訳</p>
+            <p class="definition-title">定義</p>
             <p class="definition ja"></p>
           </section>
           <section class="definition-pane definition-pane-en">
-            <p class="definition-title">原文</p>
+            <p class="definition-title">英語</p>
             <p class="definition en"></p>
           </section>
         </div>
@@ -124,8 +124,8 @@ H04N1/00061
       </article>
     </template>
 
-    <script src="./classification-common.js?v=20260416d"></script>
-    <script src="./theme-utils.js?v=20260416d"></script>
-    <script src="./app.js?v=20260416d"></script>
+    <script src="./classification-common.js?v=20260416r1"></script>
+    <script src="./theme-utils.js?v=20260416r1"></script>
+    <script src="./app.js?v=20260416r1"></script>
   </body>
 </html>

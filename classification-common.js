@@ -16,14 +16,19 @@
   }
 
   function getShardKey(code) {
-    if (/^[A-HY]\d{2}[A-Z]/.test(code)) return code.slice(0, 4);
-    if (/^[A-HY]\d{2}/.test(code)) return code.slice(0, 1);
-    if (/^[A-HY]/.test(code)) return code.slice(0, 1);
+    if (/^[A-HY]\d{2}[A-Z]/.test(code)) {
+      return code.slice(0, 4);
+    }
+    if (/^[A-HY]/.test(code)) {
+      return code.slice(0, 1);
+    }
     return 'misc';
   }
 
   function formatHierarchyInfo(depth) {
-    if (depth <= 0) return '';
+    if (depth <= 0) {
+      return '';
+    }
     return '・'.repeat(depth);
   }
 
@@ -44,7 +49,7 @@
 
   function getDepth(mode, dataset, code) {
     let depth = 0;
-    let current = dataset.entries[code];
+    let current = dataset.entries[code] || null;
 
     while (current && current.parent) {
       depth += 1;
@@ -59,11 +64,13 @@
 
   function getAncestorItems(mode, dataset, code) {
     const items = [];
-    let current = dataset.entries[code];
+    let current = dataset.entries[code] || null;
 
     while (current && current.parent) {
       const parent = dataset.entries[current.parent] || null;
-      if (!parent) break;
+      if (!parent) {
+        break;
+      }
       items.unshift(parent);
       current = parent;
       if (mode === 'ipc' && current.level === 0) {
@@ -76,14 +83,14 @@
 
   function getLineage(mode, dataset, code) {
     const lineage = [];
-    let current = dataset.entries[code];
+    let current = dataset.entries[code] || null;
 
     while (current) {
       lineage.push(current);
       if (mode === 'ipc' && current.level === 0) {
         break;
       }
-      current = current.parent ? dataset.entries[current.parent] : null;
+      current = current.parent ? dataset.entries[current.parent] || null : null;
     }
 
     return lineage.reverse();
@@ -93,19 +100,20 @@
     return Object.values(dataset.entries)
       .filter((item) => item.parent === code)
       .sort((left, right) => {
-        const levelDiff = (left.level || 0) - (right.level || 0);
-        if (levelDiff !== 0) {
-          return levelDiff;
+        const depthDiff = (left.level || 0) - (right.level || 0);
+        if (depthDiff !== 0) {
+          return depthDiff;
         }
         return left.code.localeCompare(right.code, 'en');
       });
   }
 
   function formatOverlayLine(item, hierarchy = '') {
-    const parts = [formatCodeForDisplay(item.code)];
+    const parts = [];
     if (hierarchy) {
-      parts.unshift(hierarchy);
+      parts.push(hierarchy);
     }
+    parts.push(formatCodeForDisplay(item.code));
     if (item.ja) {
       parts.push(item.ja);
     } else if (item.en) {
@@ -210,6 +218,7 @@
 
     if (mode !== 'fi' || !showThemes) {
       themeBlock.hidden = true;
+      themeList.innerHTML = '';
       return;
     }
 
@@ -217,7 +226,7 @@
     themeList.innerHTML = '';
 
     if (!themes.length) {
-      themeList.appendChild(createEmptyNote('対応するテーマコードは見つかりませんでした。'));
+      themeList.appendChild(createEmptyNote('対応するテーマコードが見つかりませんでした。'));
       return;
     }
 

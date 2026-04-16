@@ -1,4 +1,4 @@
-﻿const statusEl = document.querySelector('#status');
+const statusEl = document.querySelector('#status');
 const formEl = document.querySelector('#lookup-form');
 const inputEl = document.querySelector('#ipc-input');
 const listEl = document.querySelector('#result-list');
@@ -6,8 +6,10 @@ const metaEl = document.querySelector('#result-meta');
 const template = document.querySelector('#result-item-template');
 const quickButtons = document.querySelectorAll('[data-code]');
 const modeInputs = document.querySelectorAll('input[name="lookup-mode"]');
-const childTargetInputs = document.querySelectorAll('input[name="children-target"]');
-const childTargetField = document.querySelector('#children-target-field');
+const targetInputs = document.querySelectorAll('input[name="children-target"]');
+const targetField = document.querySelector('#children-target-field');
+const targetModeLabelEl = document.querySelector('#target-mode-label');
+const targetModeGroupEl = document.querySelector('#children-target-group');
 
 const {
   DATASETS,
@@ -16,12 +18,24 @@ const {
   formatHierarchyInfo,
   resolveLookupCode,
   getDepth,
-  getAncestorItems,
+  getLineage,
   getChildItems,
   formatOverlayLine,
   createEmptyNote,
   populateThemeBlock,
 } = window.ClassificationShared;
+
+const VIEW_COPY = {
+  lookup: {
+    targetLabel: '参照する分類',
+    targetGroupLabel: '参照する分類',
+  },
+  children: {
+    targetLabel: '1つ下の階層で参照する分類',
+    targetGroupLabel: '1つ下の階層で参照する分類',
+  },
+};
+
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
 
@@ -30,25 +44,34 @@ function normalizeInputText(value) {
 }
 
 function normalizeCode(value) {
-  return normalizeInputText(value).toUpperCase().replace(/\s+/g, '');
+  return normalizeInputText(value)
+    .toUpperCase()
+    .replace(/[ \t\r\n\u3000]/g, '')
+    .replace(/[、，,]/g, '');
 }
+
 function getSelectedViewMode() {
   const checked = Array.from(modeInputs).find((input) => input.checked);
   return checked ? checked.value : 'lookup';
 }
 
-function getSelectedChildTarget() {
-  const checked = Array.from(childTargetInputs).find((input) => input.checked);
+function getSelectedTargetMode() {
+  const checked = Array.from(targetInputs).find((input) => input.checked);
   return checked ? checked.value : 'ipc';
 }
 
 function syncModeFields() {
-  childTargetField.hidden = false;
+  const viewMode = getSelectedViewMode();
+  const copy = VIEW_COPY[viewMode] || VIEW_COPY.lookup;
+  targetField.hidden = false;
+  targetModeLabelEl.textContent = copy.targetLabel;
+  targetModeGroupEl.setAttribute('aria-label', copy.targetGroupLabel);
 }
+
 function extractCodes(rawText) {
   const preparedText = normalizeInputText(rawText)
     .replace(/\r\n?/g, '\n')
-    .replace(/[縲・ｼ・]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
+    .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
     .replace(/[ \t\u3000]+(?=[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n');
 
   const inlineGap = '[ \\t\\u3000]*';
@@ -65,14 +88,16 @@ function extractCodes(rawText) {
   const seen = new Set();
 
   for (const match of matches) {
-    const code = normalizeCode(match).replace(/[縲・ｼ・]/g, '');
-    if (!code || seen.has(code)) continue;
+    const code = normalizeCode(match).replace(/[・･]/g, '');
+    if (!code || seen.has(code)) {
+      continue;
+    }
     seen.add(code);
     codes.push(code);
   }
 
   if (!codes.length) {
-    const fallback = normalizeCode(rawText).replace(/[縲・ｼ・]/g, '');
+    const fallback = normalizeCode(rawText).replace(/[・･]/g, '');
     if (fallback) {
       codes.push(fallback);
     }
@@ -80,6 +105,7 @@ function extractCodes(rawText) {
 
   return codes;
 }
+
 function clearResults() {
   listEl.innerHTML = '';
   metaEl.textContent = '';
@@ -89,21 +115,22 @@ function setStatus(message, type = 'neutral') {
   statusEl.textContent = message;
   statusEl.dataset.state = type;
 }
-function buildChildOverlayText(result) {
-  if (result.notFound || !result.dataset) {
-    return '';
-  }
 
+function buildAncestorOverlayText(result) {
+  const lineage = getLineage(result.mode, result.dataset, result.code);
+  return lineage
+    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(result.mode, result.dataset, item.code))))
+    .join('\n');
+}
+
+function buildChildOverlayText(result) {
   const children = getChildItems(result.dataset, result.code);
   if (!children.length) {
-    return '1縺､荳九・髫主ｱ､縺ｯ縺ゅｊ縺ｾ縺帙ｓ縲・;
+    return '1つ下の階層はありません。';
   }
 
   return children
-    .map((item) => {
-      const absoluteDepth = getDepth(result.mode, result.dataset, item.code);
-      return formatOverlayLine(item, absoluteDepth > 0 ? '繝ｻ'.repeat(absoluteDepth) : '');
-    })
+    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(result.mode, result.dataset, item.code))))
     .join('\n');
 }
 
@@ -111,21 +138,7 @@ function buildOverlayText(result) {
   if (result.notFound || !result.dataset) {
     return '';
   }
-
-  if (currentOverlayMode === 'children') {
-    return buildChildOverlayText(result);
-  }
-
-  const ancestors = getAncestorItems(result.mode, result.dataset, result.code);
-  const lines = [];
-
-  for (const [index, item] of ancestors.entries()) {
-    const hierarchy = index === 0 ? '' : '繝ｻ'.repeat(index);
-    lines.push(formatOverlayLine(item, hierarchy));
-  }
-
-  lines.push(formatOverlayLine(result.item, result.depth > 0 ? '繝ｻ'.repeat(result.depth) : ''));
-  return lines.join('\n');
+  return currentOverlayMode === 'children' ? buildChildOverlayText(result) : buildAncestorOverlayText(result);
 }
 
 function openDetailWindow(result) {
@@ -140,7 +153,7 @@ function openDetailWindow(result) {
 function bindDetailTrigger(element, result) {
   element.tabIndex = 0;
   element.setAttribute('role', 'button');
-  element.setAttribute('aria-label', `${formatCodeForDisplay(result.code)} 縺ｮ荳贋ｽ埼嚴螻､繧貞挨繧ｦ繧｣繝ｳ繝峨え縺ｧ髢九￥`);
+  element.setAttribute('aria-label', `${formatCodeForDisplay(result.code)} の詳細を別ウィンドウで開く`);
   element.addEventListener('click', () => {
     openDetailWindow(result);
   });
@@ -152,6 +165,22 @@ function bindDetailTrigger(element, result) {
     openDetailWindow(result);
   });
 }
+
+function applyDefinitionVisibility(result, node, jaPane, enPane) {
+  if (result.mode === 'fi') {
+    enPane.hidden = true;
+  } else if (result.mode === 'ipc') {
+    enPane.hidden = true;
+    if (!result.item.ja) {
+      jaPane.hidden = true;
+    }
+  } else {
+    node.classList.add('result-item-cpc');
+    jaPane.hidden = false;
+    enPane.hidden = false;
+  }
+}
+
 function createResultItem(result) {
   const node = template.content.firstElementChild.cloneNode(true);
   const codeWrap = node.querySelector('.code-wrap');
@@ -169,10 +198,10 @@ function createResultItem(result) {
   typeTag.textContent = result.typeLabel;
 
   if (result.notFound) {
-    hierarchyTag.textContent = '譛ｪ讀懷・';
-    jaEl.textContent = '荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・;
-    enEl.textContent = '';
+    hierarchyTag.textContent = '未検出';
+    jaEl.textContent = '一致する分類コードが見つかりませんでした。';
     enPane.hidden = true;
+    themeBlock.hidden = true;
     node.classList.add('result-item-missing');
     return node;
   }
@@ -186,21 +215,9 @@ function createResultItem(result) {
   if (overlayText) {
     codeWrap.title = overlayText;
   }
-
   bindDetailTrigger(codeWrap, result);
 
-  if (result.mode === 'fi') {
-    enPane.hidden = true;
-  } else if (result.mode === 'ipc') {
-    enPane.hidden = true;
-    if (!result.item.ja) {
-      jaPane.hidden = true;
-    }
-  } else {
-    node.classList.add('result-item-cpc');
-    jaPane.hidden = false;
-    enPane.hidden = false;
-  }
+  applyDefinitionVisibility(result, node, jaPane, enPane);
 
   if (!result.item.ja) {
     jaPane.classList.add('is-empty');
@@ -220,7 +237,7 @@ function createResultItem(result) {
     enPane.classList.remove('is-empty');
   }
 
-  populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes !== false);
+  populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes === true);
 
   return node;
 }
@@ -239,49 +256,127 @@ function createMatchGroupTitle(title, summary) {
   return header;
 }
 
-function renderLookupResults(inputCodes, groupedResults) {
-  const results = groupedResults.flatMap((group) => group.matches);
-  if (!results.length) {
-    setStatus('荳閾ｴ縺吶ｋ繧ｳ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・, 'error');
-    return;
+function createNotFoundResult(code, mode) {
+  return {
+    code,
+    mode,
+    typeLabel: DATASETS[mode].label,
+    notFound: true,
+  };
+}
+
+async function lookupCodeInMode(code, mode) {
+  const dataset = await loadShard(mode, code);
+  const resolvedCode = resolveLookupCode(mode, dataset, code);
+  const item = dataset.entries[resolvedCode];
+  if (!item) {
+    return null;
   }
 
+  const showThemes = mode === 'fi';
+  return {
+    code: resolvedCode,
+    mode,
+    typeLabel: DATASETS[mode].label,
+    depth: getDepth(mode, dataset, resolvedCode),
+    item,
+    dataset,
+    themes:
+      showThemes && typeof window.findThemeMatchesForFi === 'function'
+        ? await window.findThemeMatchesForFi(dataset, resolvedCode)
+        : [],
+    showThemes,
+  };
+}
+
+async function lookupCodeGroup(code, mode) {
+  try {
+    const result = await lookupCodeInMode(code, mode);
+    return result ? [result] : [createNotFoundResult(code, mode)];
+  } catch (error) {
+    console.warn(`Skipped ${mode} lookup:`, error);
+    return [createNotFoundResult(code, mode)];
+  }
+}
+
+async function lookupChildrenForMode(code, mode) {
+  try {
+    const dataset = await loadShard(mode, code);
+    const resolvedCode = resolveLookupCode(mode, dataset, code);
+    const sourceItem = dataset.entries[resolvedCode];
+    if (!sourceItem) {
+      return [];
+    }
+
+    const source = {
+      code: resolvedCode,
+      mode,
+      typeLabel: DATASETS[mode].label,
+      depth: getDepth(mode, dataset, resolvedCode),
+      item: sourceItem,
+      dataset,
+      themes:
+        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
+          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
+          : [],
+      showThemes: mode === 'fi',
+    };
+
+    const children = getChildItems(dataset, resolvedCode).map((item) => ({
+      code: item.code,
+      mode,
+      typeLabel: DATASETS[mode].label,
+      depth: getDepth(mode, dataset, item.code),
+      item,
+      dataset,
+      themes: [],
+      showThemes: false,
+    }));
+
+    return [{ source, children }];
+  } catch (error) {
+    console.warn(`Skipped ${mode} child lookup:`, error);
+    return [];
+  }
+}
+
+function renderLookupResults(inputCodes, groupedResults) {
+  const results = groupedResults.flatMap((group) => group.matches);
   const foundCount = results.filter((result) => !result.notFound).length;
   const notFoundCodes = results
     .filter((result) => result.notFound)
     .map((result) => formatCodeForDisplay(result.code));
 
-  metaEl.textContent = `${inputCodes.length} 繧ｳ繝ｼ繝・/ ${results.length} 莉ｶ陦ｨ遉ｺ`;
+  metaEl.textContent = `${inputCodes.length}コード / ${results.length}件表示`;
 
-  if (notFoundCodes.length) {
+  if (!foundCount) {
     setStatus(
-      `${foundCount} 莉ｶ繧定｡ｨ遉ｺ縺励※縺・∪縺吶よ悴讀懷・: ${notFoundCodes.join(', ')}`,
-      foundCount ? 'success' : 'error'
+      `一致する分類コードが見つかりませんでした。${notFoundCodes.length ? ` 未検出: ${notFoundCodes.join(', ')}` : ''}`,
+      'error'
     );
+  } else if (notFoundCodes.length) {
+    setStatus(`${foundCount}件を表示しています。未検出: ${notFoundCodes.join(', ')}`, 'success');
   } else {
-    setStatus(`${results.length} 莉ｶ繧定｡ｨ遉ｺ縺励※縺・∪縺吶Ａ, 'success');
+    setStatus(`${results.length}件を表示しています。`, 'success');
   }
 
   for (const group of groupedResults) {
     const section = document.createElement('section');
     section.className = 'match-group';
+
     const foundInGroup = group.matches.filter((result) => !result.notFound).length;
-    section.append(
+    section.appendChild(
       createMatchGroupTitle(
         formatCodeForDisplay(group.inputCode),
-        foundInGroup ? `${foundInGroup} 莉ｶ荳閾ｴ` : '荳閾ｴ縺ｪ縺・
+        foundInGroup ? `${foundInGroup}件一致` : '一致なし'
       )
     );
 
     const list = document.createElement('div');
     list.className = 'group-list';
 
-    if (!group.matches.length) {
-      list.append(createEmptyNote('荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・));
-    } else {
-      for (const result of group.matches) {
-        list.appendChild(createResultItem(result));
-      }
+    for (const result of group.matches) {
+      list.appendChild(createResultItem(result));
     }
 
     section.appendChild(list);
@@ -303,24 +398,28 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
     totalChildren += group.matches.reduce((sum, match) => sum + match.children.length, 0);
   }
 
-  metaEl.textContent = `${inputCodes.length} 繧ｳ繝ｼ繝・/ ${totalChildren} 莉ｶ陦ｨ遉ｺ`;
+  metaEl.textContent = `${inputCodes.length}コード / ${totalChildren}件表示`;
 
   if (totalChildren) {
-    const suffix = unresolvedCodes.length ? ` 譛ｪ讀懷・: ${unresolvedCodes.join(', ')}` : '';
-    setStatus(`${DATASETS[targetMode].label} 縺ｧ ${matchedSources} 莉ｶ縺ｮ蛻・｡槭さ繝ｼ繝峨↓縺､縺・※縲・縺､荳九・髫主ｱ､繧定｡ｨ遉ｺ縺励※縺・∪縺吶・{suffix}`, 'success');
+    const suffix = unresolvedCodes.length ? ` 未検出: ${unresolvedCodes.join(', ')}` : '';
+    setStatus(`${DATASETS[targetMode].label} で ${matchedSources}件の分類コードについて、1つ下の階層を表示しています。${suffix}`, 'success');
   } else if (matchedSources) {
-    setStatus(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺励◆蛻・｡槭さ繝ｼ繝峨′縺ゅｊ縺ｾ縺吶′縲・縺､荳九・髫主ｱ､縺ｯ隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲Ａ, 'error');
+    setStatus(`${DATASETS[targetMode].label} では一致した分類コードがありますが、1つ下の階層は見つかりませんでした。`, 'error');
   } else {
-    setStatus(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲よ悴讀懷・: ${unresolvedCodes.join(', ')}`, 'error');
+    setStatus(
+      `${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。${unresolvedCodes.length ? ` 未検出: ${unresolvedCodes.join(', ')}` : ''}`,
+      'error'
+    );
   }
 
   for (const group of groupedResults) {
     const section = document.createElement('section');
     section.className = 'match-group';
-    section.append(
+
+    section.appendChild(
       createMatchGroupTitle(
         formatCodeForDisplay(group.inputCode),
-        group.matches.length ? `${group.matches.length} 莉ｶ荳閾ｴ` : '荳閾ｴ縺ｪ縺・
+        group.matches.length ? `${group.matches.length}件一致` : '一致なし'
       )
     );
 
@@ -328,41 +427,41 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
     list.className = 'group-list';
 
     if (!group.matches.length) {
-      list.append(createEmptyNote(`${DATASETS[targetMode].label} 縺ｧ縺ｯ荳閾ｴ縺吶ｋ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲Ａ));
-    } else {
-      for (const match of group.matches) {
-        list.appendChild(createResultItem(match.source));
+      list.appendChild(createEmptyNote(`${DATASETS[targetMode].label} では一致する分類コードが見つかりませんでした。`));
+      section.appendChild(list);
+      listEl.appendChild(section);
+      continue;
+    }
 
-        const childGroup = document.createElement('section');
-        childGroup.className = 'child-group';
+    for (const match of group.matches) {
+      const childGroup = document.createElement('section');
+      childGroup.className = 'child-group';
 
-        const heading = document.createElement('div');
-        heading.className = 'child-group-header';
+      const heading = document.createElement('div');
+      heading.className = 'child-group-header';
 
-        const title = document.createElement('h4');
-        title.textContent = '1縺､荳九・髫主ｱ､';
+      const title = document.createElement('h4');
+      title.textContent = `${DATASETS[targetMode].label}: ${formatCodeForDisplay(match.source.code)}`;
 
-        const summary = document.createElement('p');
-        summary.textContent = match.children.length
-          ? `${match.children.length} 莉ｶ`
-          : '1縺､荳九・髫主ｱ､縺ｯ縺ゅｊ縺ｾ縺帙ｓ';
+      const summary = document.createElement('p');
+      summary.textContent = `${match.children.length}件`;
 
-        heading.append(title, summary);
-        childGroup.appendChild(heading);
+      heading.append(title, summary);
+      childGroup.appendChild(heading);
+      childGroup.appendChild(createResultItem(match.source));
 
-        if (!match.children.length) {
-          childGroup.append(createEmptyNote('縺薙・蛻・｡槭さ繝ｼ繝峨・逶ｴ荳九↓縺ｯ螳夂ｾｩ貂医∩縺ｮ蛻・｡槭さ繝ｼ繝峨′隕九▽縺九ｊ縺ｾ縺帙ｓ縺ｧ縺励◆縲・));
-        } else {
-          const childList = document.createElement('div');
-          childList.className = 'group-list';
-          for (const child of match.children) {
-            childList.appendChild(createResultItem(child));
-          }
-          childGroup.appendChild(childList);
+      if (!match.children.length) {
+        childGroup.appendChild(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
+      } else {
+        const childList = document.createElement('div');
+        childList.className = 'group-list';
+        for (const child of match.children) {
+          childList.appendChild(createResultItem(child));
         }
-
-        list.appendChild(childGroup);
+        childGroup.appendChild(childList);
       }
+
+      list.appendChild(childGroup);
     }
 
     section.appendChild(list);
@@ -372,166 +471,11 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
 
 function renderResults(inputCodes, groupedResults, viewMode, targetMode) {
   clearResults();
-
   if (viewMode === 'children') {
     renderChildrenResults(inputCodes, groupedResults, targetMode);
     return;
   }
-
   renderLookupResults(inputCodes, groupedResults);
-}
-
-function getCandidateModes(code) {
-  if (code.includes('\\') || /\/.*[A-Z]$/i.test(code) || /[A-Z]$/.test(code)) {
-    return ['fi', 'ipc', 'cpc'];
-  }
-
-  return ['ipc', 'cpc', 'fi'];
-}
-
-async function lookupCode(code) {
-  const results = [];
-
-  try {
-    const ipcDataset = await loadShard('ipc', code);
-    const resolvedIpcCode = resolveLookupCode('ipc', ipcDataset, code);
-
-    if (ipcDataset.entries[resolvedIpcCode]) {
-      results.push({
-        code: resolvedIpcCode,
-        mode: 'ipc',
-        typeLabel: DATASETS.ipc.label,
-        depth: getDepth('ipc', ipcDataset, resolvedIpcCode),
-        item: ipcDataset.entries[resolvedIpcCode],
-        dataset: ipcDataset,
-      });
-      return results;
-    }
-  } catch (error) {
-    console.warn('Skipped IPC lookup:', error);
-  }
-
-  for (const mode of getCandidateModes(code)) {
-    if (mode === 'ipc') {
-      continue;
-    }
-
-    try {
-      const dataset = await loadShard(mode, code);
-      const resolvedCode = resolveLookupCode(mode, dataset, code);
-      if (!dataset.entries[resolvedCode]) {
-        continue;
-      }
-
-      const themes =
-        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
-          : [];
-
-      results.push({
-        code: resolvedCode,
-        mode,
-        typeLabel: DATASETS[mode].label,
-        depth: getDepth(mode, dataset, resolvedCode),
-        item: dataset.entries[resolvedCode],
-        dataset,
-        themes,
-        showThemes: mode === 'fi',
-      });
-    } catch (error) {
-      console.warn(`Skipped ${mode} lookup:`, error);
-    }
-  }
-
-  return results;
-}
-
-async function lookupPreferredMode(code, preferredMode) {
-  if (!preferredMode || !DATASETS[preferredMode]) {
-    return null;
-  }
-
-  try {
-    const dataset = await loadShard(preferredMode, code);
-    const resolvedCode = resolveLookupCode(preferredMode, dataset, code);
-    if (!dataset.entries[resolvedCode]) {
-      return null;
-    }
-
-    return {
-      code: resolvedCode,
-      mode: preferredMode,
-      typeLabel: DATASETS[preferredMode].label,
-      depth: getDepth(preferredMode, dataset, resolvedCode),
-      item: dataset.entries[resolvedCode],
-      dataset,
-      themes:
-        preferredMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
-          : [],
-      showThemes: preferredMode === 'fi',
-    };
-  } catch (error) {
-    console.warn(`Skipped preferred ${preferredMode} lookup:`, error);
-    return null;
-  }
-}
-
-async function lookupCodeWithPreference(code, preferredMode) {
-  if (!preferredMode || !DATASETS[preferredMode]) {
-    return lookupCode(code);
-  }
-
-  const preferredResult = await lookupPreferredMode(code, preferredMode);
-  if (preferredResult) {
-    return [preferredResult];
-  }
-
-  return [];
-}
-
-async function lookupChildrenForMode(code, targetMode) {
-  try {
-    const dataset = await loadShard(targetMode, code);
-    const resolvedCode = resolveLookupCode(targetMode, dataset, code);
-    const sourceItem = dataset.entries[resolvedCode];
-    if (!sourceItem) {
-      return [];
-    }
-
-    const source = {
-      code: resolvedCode,
-      mode: targetMode,
-      typeLabel: DATASETS[targetMode].label,
-      depth: getDepth(targetMode, dataset, resolvedCode),
-      item: sourceItem,
-      dataset,
-      themes:
-        targetMode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
-          : [],
-      showThemes: targetMode === 'fi',
-    };
-
-    const children = [];
-    for (const item of getChildItems(dataset, resolvedCode)) {
-      children.push({
-        code: item.code,
-        mode: targetMode,
-        typeLabel: DATASETS[targetMode].label,
-        depth: getDepth(targetMode, dataset, item.code),
-        item,
-        dataset,
-        themes: [],
-        showThemes: false,
-      });
-    }
-
-    return [{ source, children }];
-  } catch (error) {
-    console.warn(`Skipped ${targetMode} child lookup:`, error);
-    return [];
-  }
 }
 
 function getRequestedText() {
@@ -543,20 +487,20 @@ async function runLookup(rawText) {
   try {
     const codes = extractCodes(rawText);
     const viewMode = getSelectedViewMode();
-    const childTarget = getSelectedChildTarget();
+    const targetMode = getSelectedTargetMode();
     currentOverlayMode = viewMode === 'children' ? 'children' : 'ancestors';
     syncModeFields();
 
     if (!codes.length) {
       clearResults();
-      setStatus('繧ｳ繝ｼ繝峨ｒ蜈･蜉帙＠縺ｦ縺上□縺輔＞縲・, 'error');
+      setStatus('コードを入力してください。', 'error');
       return;
     }
 
     setStatus(
       viewMode === 'children'
-        ? `${DATASETS[childTarget].label} 縺ｮ1縺､荳九・髫主ｱ､繧呈､懃ｴ｢荳ｭ縺ｧ縺・..`
-        : '繝・・繧ｿ繧定ｪｭ縺ｿ霎ｼ縺ｿ荳ｭ縺ｧ縺・..'
+        ? `${DATASETS[targetMode].label} の1つ下の階層を検索中です...`
+        : `${DATASETS[targetMode].label} コードを検索中です...`
     );
 
     const groupedResults = await Promise.all(
@@ -564,15 +508,15 @@ async function runLookup(rawText) {
         inputCode: code,
         matches:
           viewMode === 'children'
-            ? await lookupChildrenForMode(code, childTarget)
-            : await lookupCodeWithPreference(code, childTarget),
+            ? await lookupChildrenForMode(code, targetMode)
+            : await lookupCodeGroup(code, targetMode),
       }))
     );
 
-    renderResults(codes, groupedResults, viewMode, childTarget);
+    renderResults(codes, groupedResults, viewMode, targetMode);
   } catch (error) {
     console.error(error);
-    setStatus(`讀懃ｴ｢蜃ｦ逅・〒繧ｨ繝ｩ繝ｼ縺檎匱逕溘＠縺ｾ縺励◆: ${error.message || String(error)}`, 'error');
+    setStatus(`検索処理でエラーが発生しました: ${error.message || String(error)}`, 'error');
   }
 }
 
@@ -601,7 +545,7 @@ for (const modeInput of modeInputs) {
   });
 }
 
-for (const targetInput of childTargetInputs) {
+for (const targetInput of targetInputs) {
   targetInput.addEventListener('change', () => {
     window.clearTimeout(lookupTimer);
     runLookup(inputEl.value);
