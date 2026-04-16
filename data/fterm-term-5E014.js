@@ -1,0 +1,1 @@
+window.FTERM_TERM_5E014 = {"themeCode":"5E014","entries":{"5E014":{"code":"5E014","ja":"接触部材の形状・材質及び接続の絶縁","en":"","parent":null,"level":0,"themeCode":"5E014","termCode":"","themeType":"ＦＩ","coverage":"H01R4/58-4/72"}}};

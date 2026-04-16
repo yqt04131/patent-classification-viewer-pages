@@ -1,0 +1,1 @@
+window.FTERM_TERM_4D055 = {"themeCode":"4D055","entries":{"4D055":{"code":"4D055","ja":"晶析","en":"","parent":null,"level":0,"themeCode":"4D055","termCode":"","themeType":"ＦＩ","coverage":"B01D9/00-9/04"}}};

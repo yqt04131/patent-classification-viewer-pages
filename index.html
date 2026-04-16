@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Classification Lookup Viewer</title>
-    <link rel="stylesheet" href="./styles.css?v=20260416r3" />
+    <link rel="stylesheet" href="./styles.css?v=20260416r5" />
   </head>
   <body>
     <main class="page">
@@ -21,7 +21,7 @@
         <p class="eyebrow">Classification Hierarchy Viewer</p>
         <h1>分類コードをまとめて確認する</h1>
         <p class="lead">
-          複数の IPC / FI / CPC コードを入力すると、コードごとの分類種別、階層情報、定義を一覧表示します。
+          複数の IPC / FI / CPC / Fターム コードを入力すると、コードごとの分類種別、階層情報、定義を一覧表示します。
         </p>
       </section>
 
@@ -56,11 +56,15 @@
                 <input type="radio" name="children-target" value="cpc" />
                 <span>CPC</span>
               </label>
+              <label class="choice-chip">
+                <input type="radio" name="children-target" value="fterm" />
+                <span>Fターム</span>
+              </label>
             </div>
           </div>
 
           <label class="field">
-            <span>IPC / FI / CPC コード</span>
+            <span>IPC / FI / CPC / Fターム コード</span>
             <textarea
               id="ipc-input"
               name="ipc"
@@ -69,6 +73,8 @@
 H04N1/029
 H04N1/00C
 H04N1/00061
+5C062
+5C062AB21
 
 横並び入力にも対応しています。"
               autocomplete="off"
@@ -82,6 +88,7 @@ H04N1/00061
           <button type="button" data-code="H04N1/029">H04N1/029</button>
           <button type="button" data-code="H04N1/00C">H04N1/00C</button>
           <button type="button" data-code="H04N1/00061">H04N1/00061</button>
+          <button type="button" data-code="5C062">5C062</button>
         </div>
 
         <p id="status" class="status">分類コードを入力すると、ここに処理状況を表示します。</p>
@@ -124,8 +131,9 @@ H04N1/00061
       </article>
     </template>
 
-    <script src="./classification-common.js?v=20260416r4"></script>
-    <script src="./theme-utils.js?v=20260416r4"></script>
-    <script src="./app.js?v=20260416r4"></script>
+    <script src="./classification-common.js?v=20260416r5"></script>
+    <script src="./theme-utils.js?v=20260416r5"></script>
+    <script src="./fterm-utils.js?v=20260416r5"></script>
+    <script src="./app.js?v=20260416r5"></script>
   </body>
 </html>

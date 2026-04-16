@@ -1,0 +1,1 @@
+window.FTERM_TERM_4D049 = {"themeCode":"4D049","entries":{"4D049":{"code":"4D049","ja":"殺菌剤による水の殺菌処理","en":"","parent":null,"level":0,"themeCode":"4D049","termCode":"","themeType":"ＦＩ","coverage":"C02F1/50-1/50,560@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2C036 = {"themeCode":"2C036","entries":{"2C036":{"code":"2C036","ja":"特殊印刷","en":"","parent":null,"level":0,"themeCode":"2C036","termCode":"","themeType":"ＦＩ","coverage":"B41F16/00-19/08@Z"}}};

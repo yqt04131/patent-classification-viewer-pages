@@ -1,0 +1,1 @@
+window.FTERM_TERM_2H022 = {"themeCode":"2H022","entries":{"2H022":{"code":"2H022","ja":"密着焼付装置","en":"","parent":null,"level":0,"themeCode":"2H022","termCode":"","themeType":"ＦＩ","coverage":"G03B27/02-27/30"}}};

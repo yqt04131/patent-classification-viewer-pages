@@ -1,0 +1,1 @@
+window.FTERM_TERM_3J035 = {"themeCode":"3J035","entries":{"3J035":{"code":"3J035","ja":"くぎ・かすがい","en":"","parent":null,"level":0,"themeCode":"3J035","termCode":"","themeType":"ＦＩ","coverage":"F16B15/00-15/08@Z"}}};

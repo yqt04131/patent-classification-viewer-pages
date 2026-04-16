@@ -1,0 +1,1 @@
+window.FTERM_TERM_3D016 = {"themeCode":"3D016","entries":{"3D016":{"code":"3D016","ja":"車両用バンパ","en":"","parent":null,"level":0,"themeCode":"3D016","termCode":"","themeType":"ＦＩ","coverage":"B60R19/00-19/56"}}};

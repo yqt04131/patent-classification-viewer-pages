@@ -1,0 +1,1 @@
+window.FTERM_TERM_3K041 = {"themeCode":"3K041","entries":{"3K041":{"code":"3K041","ja":"車両の聴覚的信号装置、携帯用危急警報装置","en":"","parent":null,"level":0,"themeCode":"3K041","termCode":"","themeType":"ＦＩ","coverage":"B60Q5/00-7/02"}}};

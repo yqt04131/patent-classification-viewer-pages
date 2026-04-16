@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L016 = {"themeCode":"3L016","entries":{"3L016":{"code":"3L016","ja":"ショーケース・自動販売機における冷気循環","en":"","parent":null,"level":0,"themeCode":"3L016","termCode":"","themeType":"ＦＩ","coverage":"F25D17/08,317-17/08,321@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C019 = {"themeCode":"4C019","entries":{"4C019":{"code":"4C019","ja":"１，２－ジアジン系化合物","en":"","parent":null,"level":0,"themeCode":"4C019","termCode":"","themeType":"ＦＩ","coverage":"C07D237/00-237/36"}}};

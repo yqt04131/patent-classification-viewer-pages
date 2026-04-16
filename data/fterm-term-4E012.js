@@ -1,0 +1,1 @@
+window.FTERM_TERM_4E012 = {"themeCode":"4E012","entries":{"4E012":{"code":"4E012","ja":"圧力または真空鋳造","en":"","parent":null,"level":0,"themeCode":"4E012","termCode":"","themeType":"ＦＩ","coverage":"B22D18/00-18/08,501@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_3E015 = {"themeCode":"3E015","entries":{"3E015":{"code":"3E015","ja":"棒形物品・小物品分配用容器・包装体","en":"","parent":null,"level":0,"themeCode":"3E015","termCode":"","themeType":"ＦＩ","coverage":"B65D83/02-83/04@Z"}}};

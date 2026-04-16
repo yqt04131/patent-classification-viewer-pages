@@ -1,0 +1,1 @@
+window.FTERM_TERM_3C017 = {"themeCode":"3C017","entries":{"3C017":{"code":"3C017","ja":"手動スパナ・レンチ・ドライバー","en":"","parent":null,"level":0,"themeCode":"3C017","termCode":"","themeType":"ＦＩ","coverage":"B25B13/00-19/00"}}};

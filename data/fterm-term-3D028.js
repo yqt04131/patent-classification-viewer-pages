@@ -1,0 +1,1 @@
+window.FTERM_TERM_3D028 = {"themeCode":"3D028","entries":{"3D028":{"code":"3D028","ja":"牽引力・付着力増大","en":"","parent":null,"level":0,"themeCode":"3D028","termCode":"","themeType":"ＦＩ","coverage":"B60B15/00-15/28;39/00-39/12@Z"}}};

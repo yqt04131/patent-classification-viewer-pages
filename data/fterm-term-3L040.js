@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L040 = {"themeCode":"3L040","entries":{"3L040":{"code":"3L040","ja":"太陽熱集熱器；太陽熱システム","en":"","parent":null,"level":0,"themeCode":"3L040","termCode":"","themeType":"ＦＩ","coverage":"F24S10/00-90/10"}}};

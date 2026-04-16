@@ -1,0 +1,1 @@
+window.FTERM_TERM_2B053 = {"themeCode":"2B053","entries":{"2B053":{"code":"2B053","ja":"条溝・孔の形成・覆土","en":"","parent":null,"level":0,"themeCode":"2B053","termCode":"","themeType":"ＦＩ","coverage":"A01C5/00-5/08"}}};

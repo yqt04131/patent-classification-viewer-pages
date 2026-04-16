@@ -1,0 +1,1 @@
+window.FTERM_TERM_3C014 = {"themeCode":"3C014","entries":{"3C014":{"code":"3C014","ja":"木材用鋸盤の構成部品、付属品","en":"","parent":null,"level":0,"themeCode":"3C014","termCode":"","themeType":"ＦＩ","coverage":"B27B25/00-33/20"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B027 = {"themeCode":"3B027","entries":{"3B027":{"code":"3B027","ja":"シャツ、カラー、カフス","en":"","parent":null,"level":0,"themeCode":"3B027","termCode":"","themeType":"ＦＩ","coverage":"A41B1/00-7/12"}}};

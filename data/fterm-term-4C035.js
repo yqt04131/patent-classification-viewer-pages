@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C035 = {"themeCode":"4C035","entries":{"4C035":{"code":"4C035","ja":"他の環と縮合した１，３ージアゾール環","en":"","parent":null,"level":0,"themeCode":"4C035","termCode":"","themeType":"ＦＩ","coverage":"C07D235/00-235/32@Z"}}};

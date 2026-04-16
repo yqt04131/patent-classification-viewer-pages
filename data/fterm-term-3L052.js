@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L052 = {"themeCode":"3L052","entries":{"3L052":{"code":"3L052","ja":"ユニットの据付・換気装置・除湿装置","en":"","parent":null,"level":0,"themeCode":"3L052","termCode":"","themeType":"ＦＩ","coverage":"F24F1/0035-1/0057;1/0083;1/01;1/02,441-1/02,446;1/027;1/03-1/0317;1/0358;1/04"}}};

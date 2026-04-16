@@ -1,0 +1,1 @@
+window.FTERM_TERM_2F025 = {"themeCode":"2F025","entries":{"2F025":{"code":"2F025","ja":"瞬時値以外の結果を示す指示または記録","en":"","parent":null,"level":0,"themeCode":"2F025","termCode":"","themeType":"ＦＩ","coverage":"G01D1/00-1/18@Z"}}};

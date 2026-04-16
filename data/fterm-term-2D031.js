@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D031 = {"themeCode":"2D031","entries":{"2D031":{"code":"2D031","ja":"洗面器台とそれらの付属品","en":"","parent":null,"level":0,"themeCode":"2D031","termCode":"","themeType":"ＦＩ","coverage":"A47K1/00-1/14@Z"}}};

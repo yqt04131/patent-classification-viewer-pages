@@ -1,0 +1,1 @@
+window.FTERM_TERM_5D085 = {"themeCode":"5D085","entries":{"5D085":{"code":"5D085","ja":"レコード，ターンテーブル及びその清掃等","en":"","parent":null,"level":0,"themeCode":"5D085","termCode":"","themeType":"ＦＩ","coverage":"G11B3/58-3/90"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L038 = {"themeCode":"3L038","entries":{"3L038":{"code":"3L038","ja":"流体加熱器の排水・加熱要素の配置据付け","en":"","parent":null,"level":0,"themeCode":"3L038","termCode":"","themeType":"ＦＩ","coverage":"F24H9/16-9/189"}}};

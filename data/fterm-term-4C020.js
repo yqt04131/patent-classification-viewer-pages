@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C020 = {"themeCode":"4C020","entries":{"4C020":{"code":"4C020","ja":"１，３－ジアジン系化合物","en":"","parent":null,"level":0,"themeCode":"4C020","termCode":"","themeType":"ＦＩ","coverage":"C07D239/00-239/96"}}};

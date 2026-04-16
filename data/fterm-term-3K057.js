@@ -1,0 +1,1 @@
+window.FTERM_TERM_3K057 = {"themeCode":"3K057","entries":{"3K057":{"code":"3K057","ja":"燃焼室の構造上の細部","en":"","parent":null,"level":0,"themeCode":"3K057","termCode":"","themeType":"ＦＩ","coverage":"F23M3/00-20/00"}}};

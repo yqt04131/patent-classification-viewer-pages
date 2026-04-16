@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C032 = {"themeCode":"4C032","entries":{"4C032":{"code":"4C032","ja":"１，２―ジアゾール系化合物","en":"","parent":null,"level":0,"themeCode":"4C032","termCode":"","themeType":"ＦＩ","coverage":"C07D229/00-231/56@Z"}}};

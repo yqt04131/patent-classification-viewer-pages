@@ -1,0 +1,1 @@
+window.FTERM_TERM_5F035 = {"themeCode":"5F035","entries":{"5F035":{"code":"5F035","ja":"半導体又は固体完全装置の支持","en":"","parent":null,"level":0,"themeCode":"5F035","termCode":"","themeType":"ＦＩ","coverage":"H01L23/32-23/32@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_5C014 = {"themeCode":"5C014","entries":{"5C014":{"code":"5C014","ja":"Ｘ線管","en":"","parent":null,"level":0,"themeCode":"5C014","termCode":"","themeType":"ＦＩ","coverage":"H01J35/00-35/32"}}};

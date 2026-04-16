@@ -1,0 +1,1 @@
+window.FTERM_TERM_2C030 = {"themeCode":"2C030","entries":{"2C030":{"code":"2C030","ja":"練習用教習具","en":"","parent":null,"level":0,"themeCode":"2C030","termCode":"","themeType":"ＦＩ","coverage":"G09B11/00-15/08"}}};

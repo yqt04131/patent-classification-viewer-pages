@@ -1,0 +1,1 @@
+window.FTERM_TERM_2E026 = {"themeCode":"2E026","entries":{"2E026":{"code":"2E026","ja":"公共建築物","en":"","parent":null,"level":0,"themeCode":"2E026","termCode":"","themeType":"ＦＩ","coverage":"E04H3/00-4/16"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2B103 = {"themeCode":"2B103","entries":{"2B103":{"code":"2B103","ja":"家畜、動物の飼育（３）（その他の飼育）","en":"","parent":null,"level":0,"themeCode":"2B103","termCode":"","themeType":"ＦＩ","coverage":"A01K11/00-29/00@Z;33/00-37/00;41/00-59/06;67/00-67/00@Z;67/30-67/368"}}};

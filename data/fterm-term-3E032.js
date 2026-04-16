@@ -1,0 +1,1 @@
+window.FTERM_TERM_3E032 = {"themeCode":"3E032","entries":{"3E032":{"code":"3E032","ja":"制御・その他Ｉ（包装機械の制御）","en":"","parent":null,"level":0,"themeCode":"3E032","termCode":"","themeType":"ＦＩ","coverage":"B65B57/00-57/20"}}};

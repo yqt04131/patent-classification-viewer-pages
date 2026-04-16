@@ -3,12 +3,14 @@
     ipc: { dir: './data', prefix: 'ipc-shard', label: 'IPC' },
     fi: { dir: './data', prefix: 'fi-shard', label: 'FI' },
     cpc: { dir: './data', prefix: 'cpc-shard', label: 'CPC' },
+    fterm: { dir: './data', prefix: 'fterm-term', label: 'Fターム' },
   };
 
   const dataCache = {
     ipc: {},
     fi: {},
     cpc: {},
+    fterm: {},
   };
 
   function formatCodeForDisplay(code) {
@@ -123,6 +125,13 @@
   }
 
   async function loadShard(mode, code) {
+    if (mode === 'fterm') {
+      if (!window.FtermLookup || typeof window.FtermLookup.loadFtermDataset !== 'function') {
+        throw new Error('FtermLookup is not available');
+      }
+      return window.FtermLookup.loadFtermDataset(code);
+    }
+
     const shardKey = getShardKey(code);
     if (dataCache[mode][shardKey]) {
       return dataCache[mode][shardKey];
@@ -315,7 +324,7 @@
   }
 
   function applyDefinitionVisibility(mode, node, item, jaPane, enPane) {
-    if (mode === 'fi') {
+    if (mode === 'fi' || mode === 'fterm') {
       enPane.hidden = true;
     } else if (mode === 'ipc') {
       enPane.hidden = true;

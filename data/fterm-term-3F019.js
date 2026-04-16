@@ -1,0 +1,1 @@
+window.FTERM_TERM_3F019 = {"themeCode":"3F019","entries":{"3F019":{"code":"3F019","ja":"カプセルによる空気輸送","en":"","parent":null,"level":0,"themeCode":"3F019","termCode":"","themeType":"ＦＩ","coverage":"B65G51/04-51/46"}}};

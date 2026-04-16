@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C044 = {"themeCode":"4C044","entries":{"4C044":{"code":"4C044","ja":"１，４－ジアジン系化合物","en":"","parent":null,"level":0,"themeCode":"4C044","termCode":"","themeType":"ＦＩ","coverage":"C07D241/00-241/54"}}};

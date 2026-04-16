@@ -1,0 +1,1 @@
+window.FTERM_TERM_3J021 = {"themeCode":"3J021","entries":{"3J021":{"code":"3J021","ja":"構造部材の固定","en":"","parent":null,"level":0,"themeCode":"3J021","termCode":"","themeType":"ＦＩ","coverage":"F16B1/00-1/04@Z"}}};

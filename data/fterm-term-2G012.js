@@ -1,0 +1,1 @@
+window.FTERM_TERM_2G012 = {"themeCode":"2G012","entries":{"2G012":{"code":"2G012","ja":"可動コイル計器","en":"","parent":null,"level":0,"themeCode":"2G012","termCode":"","themeType":"ＦＩ","coverage":"G01R5/02-5/08"}}};

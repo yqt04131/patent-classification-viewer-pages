@@ -1,0 +1,1 @@
+window.FTERM_TERM_3D019 = {"themeCode":"3D019","entries":{"3D019":{"code":"3D019","ja":"車両用盗難防止","en":"","parent":null,"level":0,"themeCode":"3D019","termCode":"","themeType":"ＦＩ","coverage":"B60R25/00-99/00,372"}}};

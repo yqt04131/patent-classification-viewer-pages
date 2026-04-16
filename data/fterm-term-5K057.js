@@ -1,0 +1,1 @@
+window.FTERM_TERM_5K057 = {"themeCode":"5K057","entries":{"5K057":{"code":"5K057","ja":"共振回路一般の調整、駆動、指示","en":"","parent":null,"level":0,"themeCode":"5K057","termCode":"","themeType":"ＦＩ","coverage":"H03J1/00-1/22"}}};

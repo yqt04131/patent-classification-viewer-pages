@@ -1,0 +1,1 @@
+window.FTERM_TERM_3E016 = {"themeCode":"3E016","entries":{"3E016":{"code":"3E016","ja":"粉状材料分配用容器・包装体","en":"","parent":null,"level":0,"themeCode":"3E016","termCode":"","themeType":"ＦＩ","coverage":"B65D83/06-83/06@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D011 = {"themeCode":"2D011","entries":{"2D011":{"code":"2D011","ja":"ショベル系を除いた土砂堀削機及び施工法","en":"","parent":null,"level":0,"themeCode":"2D011","termCode":"","themeType":"ＦＩ","coverage":"E02F1/00-3/26;3/46-3/60"}}};

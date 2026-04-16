@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B089 = {"themeCode":"3B089","entries":{"3B089":{"code":"3B089","ja":"ボタン，タイクリップ，安全ピン","en":"","parent":null,"level":0,"themeCode":"3B089","termCode":"","themeType":"ＦＩ","coverage":"A44B1/00-9/20"}}};

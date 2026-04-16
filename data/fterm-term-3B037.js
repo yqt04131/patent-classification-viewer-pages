@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B037 = {"themeCode":"3B037","entries":{"3B037":{"code":"3B037","ja":"ヘアーアイロン","en":"","parent":null,"level":0,"themeCode":"3B037","termCode":"","themeType":"ＦＩ","coverage":"A45D1/00-1/28@Z"}}};

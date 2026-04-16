@@ -1,0 +1,1 @@
+window.FTERM_TERM_4H018 = {"themeCode":"4H018","entries":{"4H018":{"code":"4H018","ja":"抗スリップ物質","en":"","parent":null,"level":0,"themeCode":"4H018","termCode":"","themeType":"ＦＩ","coverage":"C09K3/14-3/14,560"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C073 = {"themeCode":"4C073","entries":{"4C073":{"code":"4C073","ja":"温熱治療具","en":"","parent":null,"level":0,"themeCode":"4C073","termCode":"","themeType":"ＦＩ","coverage":"A61F7/08,332-7/08,332@Z"}}};

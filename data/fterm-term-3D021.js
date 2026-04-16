@@ -1,0 +1,1 @@
+window.FTERM_TERM_3D021 = {"themeCode":"3D021","entries":{"3D021":{"code":"3D021","ja":"光学的視認装置","en":"","parent":null,"level":0,"themeCode":"3D021","termCode":"","themeType":"ＦＩ","coverage":"B60R1/00-1/04@Z;1/08-1/31"}}};

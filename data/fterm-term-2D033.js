@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D033 = {"themeCode":"2D033","entries":{"2D033":{"code":"2D033","ja":"石けん類の保持具","en":"","parent":null,"level":0,"themeCode":"2D033","termCode":"","themeType":"ＦＩ","coverage":"A47K5/00-5/18@Z"}}};

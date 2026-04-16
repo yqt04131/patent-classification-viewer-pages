@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B101 = {"themeCode":"3B101","entries":{"3B101":{"code":"3B101","ja":"他の締め具または止め具","en":"","parent":null,"level":0,"themeCode":"3B101","termCode":"","themeType":"ＦＩ","coverage":"A44B99/00-99/00,611@Z"}}};

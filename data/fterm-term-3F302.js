@@ -1,0 +1,1 @@
+window.FTERM_TERM_3F302 = {"themeCode":"3F302","entries":{"3F302":{"code":"3F302","ja":"鉱山用ホイスト及び荷物用エレベータ","en":"","parent":null,"level":0,"themeCode":"3F302","termCode":"","themeType":"ＦＩ","coverage":"B66B15/00-19/06"}}};

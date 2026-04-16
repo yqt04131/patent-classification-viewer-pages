@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B039 = {"themeCode":"3B039","entries":{"3B039":{"code":"3B039","ja":"髪止め具","en":"","parent":null,"level":0,"themeCode":"3B039","termCode":"","themeType":"ＦＩ","coverage":"A45D8/00-8/40,504@Z;24/00-31/00;42/00-97/00"}}};

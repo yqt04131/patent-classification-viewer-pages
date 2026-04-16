@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D014 = {"themeCode":"2D014","entries":{"2D014":{"code":"2D014","ja":"溝掘等特殊目的の掘削及び土砂の移送","en":"","parent":null,"level":0,"themeCode":"2D014","termCode":"","themeType":"ＦＩ","coverage":"E02F5/00-7/10@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4K019 = {"themeCode":"4K019","entries":{"4K019":{"code":"4K019","ja":"非鉄合金の製造","en":"","parent":null,"level":0,"themeCode":"4K019","termCode":"","themeType":"ＦＩ","coverage":"C22C1/00-1/03;1/06;1/11-3/00"}}};

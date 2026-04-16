@@ -1,0 +1,1 @@
+window.FTERM_TERM_3K053 = {"themeCode":"3K053","entries":{"3K053":{"code":"3K053","ja":"液体燃料回転噴霧式バーナ","en":"","parent":null,"level":0,"themeCode":"3K053","termCode":"","themeType":"ＦＩ","coverage":"F23D11/04-11/08@Z"}}};

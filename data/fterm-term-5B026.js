@@ -1,0 +1,1 @@
+window.FTERM_TERM_5B026 = {"themeCode":"5B026","entries":{"5B026":{"code":"5B026","ja":"音声入出力","en":"","parent":null,"level":0,"themeCode":"5B026","termCode":"","themeType":"ＦＩ","coverage":"G06F3/16-3/16,690"}}};

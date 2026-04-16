@@ -1,0 +1,1 @@
+window.FTERM_TERM_3C023 = {"themeCode":"3C023","entries":{"3C023":{"code":"3C023","ja":"柄","en":"","parent":null,"level":0,"themeCode":"3C023","termCode":"","themeType":"ＦＩ","coverage":"B25G1/00-3/38@Z"}}};

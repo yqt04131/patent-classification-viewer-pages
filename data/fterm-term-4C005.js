@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C005 = {"themeCode":"4C005","entries":{"4C005":{"code":"4C005","ja":"ペニシリン系化合物","en":"","parent":null,"level":0,"themeCode":"4C005","termCode":"","themeType":"ＦＩ","coverage":"C07D499/00-499/90"}}};

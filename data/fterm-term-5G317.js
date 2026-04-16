@@ -1,0 +1,1 @@
+window.FTERM_TERM_5G317 = {"themeCode":"5G317","entries":{"5G317":{"code":"5G317","ja":"電力ケーブル","en":"","parent":null,"level":0,"themeCode":"5G317","termCode":"","themeType":"ＦＩ","coverage":"H01B9/00-9/06@Z"}}};

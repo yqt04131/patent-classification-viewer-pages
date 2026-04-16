@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D042 = {"themeCode":"2D042","entries":{"2D042":{"code":"2D042","ja":"地盤の乾燥維持，ケーソン","en":"","parent":null,"level":0,"themeCode":"2D042","termCode":"","themeType":"ＦＩ","coverage":"E02D19/00-25/00"}}};

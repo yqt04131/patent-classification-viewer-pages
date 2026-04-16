@@ -1,0 +1,1 @@
+window.FTERM_TERM_2B001 = {"themeCode":"2B001","entries":{"2B001":{"code":"2B001","ja":"田植機の機枠","en":"","parent":null,"level":0,"themeCode":"2B001","termCode":"","themeType":"ＦＩ","coverage":"A01C11/02,311-11/02,312@Z"}}};

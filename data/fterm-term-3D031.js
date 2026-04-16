@@ -1,0 +1,1 @@
+window.FTERM_TERM_3D031 = {"themeCode":"3D031","entries":{"3D031":{"code":"3D031","ja":"操向伝動装置","en":"","parent":null,"level":0,"themeCode":"3D031","termCode":"","themeType":"ＦＩ","coverage":"B62D3/00-3/14"}}};

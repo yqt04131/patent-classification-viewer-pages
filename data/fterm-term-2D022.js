@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D022 = {"themeCode":"2D022","entries":{"2D022":{"code":"2D022","ja":"水工一般、港湾設備","en":"","parent":null,"level":0,"themeCode":"2D022","termCode":"","themeType":"ＦＩ","coverage":"E02B1/00-3/02@Z;3/16-3/28"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2E037 = {"themeCode":"2E037","entries":{"2E037":{"code":"2E037","ja":"網戸","en":"","parent":null,"level":0,"themeCode":"2E037","termCode":"","themeType":"ＦＩ","coverage":"E06B9/52-9/54"}}};

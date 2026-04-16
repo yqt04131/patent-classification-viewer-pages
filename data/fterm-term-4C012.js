@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C012 = {"themeCode":"4C012","entries":{"4C012":{"code":"4C012","ja":"トリアゾール系化合物","en":"","parent":null,"level":0,"themeCode":"4C012","termCode":"","themeType":"ＦＩ","coverage":"C07D249/00-249/24"}}};

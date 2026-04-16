@@ -1,0 +1,1 @@
+window.FTERM_TERM_4E005 = {"themeCode":"4E005","entries":{"4E005":{"code":"4E005","ja":"特殊プレス","en":"","parent":null,"level":0,"themeCode":"4E005","termCode":"","themeType":"ＦＩ","coverage":"B30B9/00-9/32,103"}}};

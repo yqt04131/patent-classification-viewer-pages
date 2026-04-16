@@ -1,0 +1,1 @@
+window.FTERM_TERM_4E091 = {"themeCode":"4E091","entries":{"4E091":{"code":"4E091","ja":"粉体及び可塑状体プレス","en":"","parent":null,"level":0,"themeCode":"4E091","termCode":"","themeType":"ＦＩ","coverage":"B30B11/00-11/34@Z"}}};

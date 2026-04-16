@@ -1,0 +1,1 @@
+window.FTERM_TERM_4B051 = {"themeCode":"4B051","entries":{"4B051":{"code":"4B051","ja":"灰皿","en":"","parent":null,"level":0,"themeCode":"4B051","termCode":"","themeType":"ＦＩ","coverage":"A24F19/00-25/02"}}};

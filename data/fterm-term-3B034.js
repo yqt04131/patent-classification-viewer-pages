@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B034 = {"themeCode":"3B034","entries":{"3B034":{"code":"3B034","ja":"耳保護物、スカーフ、ネクタイ","en":"","parent":null,"level":0,"themeCode":"3B034","termCode":"","themeType":"ＦＩ","coverage":"A41D23/00-25/16"}}};

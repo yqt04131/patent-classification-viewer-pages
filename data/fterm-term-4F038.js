@@ -1,0 +1,1 @@
+window.FTERM_TERM_4F038 = {"themeCode":"4F038","entries":{"4F038":{"code":"4F038","ja":"手動噴霧装置","en":"","parent":null,"level":0,"themeCode":"4F038","termCode":"","themeType":"ＦＩ","coverage":"B05B11/00-11/10,103@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4B030 = {"themeCode":"4B030","entries":{"4B030":{"code":"4B030","ja":"ベイキング用装置","en":"","parent":null,"level":0,"themeCode":"4B030","termCode":"","themeType":"ＦＩ","coverage":"A21B1/00-7/00"}}};

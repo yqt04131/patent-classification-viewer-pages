@@ -1,0 +1,1 @@
+window.FTERM_TERM_4H019 = {"themeCode":"4H019","entries":{"4H019":{"code":"4H019","ja":"帯電防止物質","en":"","parent":null,"level":0,"themeCode":"4H019","termCode":"","themeType":"ＦＩ","coverage":"C09K3/16-3/16,114"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_5E003 = {"themeCode":"5E003","entries":{"5E003":{"code":"5E003","ja":"雌接触子","en":"","parent":null,"level":0,"themeCode":"5E003","termCode":"","themeType":"ＦＩ","coverage":"H01R13/10-13/14"}}};

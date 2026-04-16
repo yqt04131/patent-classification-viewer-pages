@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L033 = {"themeCode":"3L033","entries":{"3L033":{"code":"3L033","ja":"蒸気ボイラの細部","en":"","parent":null,"level":0,"themeCode":"3L033","termCode":"","themeType":"ＦＩ","coverage":"F22B37/00-37/78"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4D033 = {"themeCode":"4D033","entries":{"4D033":{"code":"4D033","ja":"気体中の粒子分離のその他の処理","en":"","parent":null,"level":0,"themeCode":"4D033","termCode":"","themeType":"ＦＩ","coverage":"B01D49/00-51/10@Z"}}};

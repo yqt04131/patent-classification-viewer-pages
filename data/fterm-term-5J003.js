@@ -1,0 +1,1 @@
+window.FTERM_TERM_5J003 = {"themeCode":"5J003","entries":{"5J003":{"code":"5J003","ja":"固体発振回路","en":"","parent":null,"level":0,"themeCode":"5J003","termCode":"","themeType":"ＦＩ","coverage":"H03B9/12-9/14"}}};

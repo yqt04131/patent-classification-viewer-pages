@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L035 = {"themeCode":"3L035","entries":{"3L035":{"code":"3L035","ja":"水・空気加熱器の結合・蓄熱式加熱器","en":"","parent":null,"level":0,"themeCode":"3L035","termCode":"","themeType":"ＦＩ","coverage":"F24H6/00-7/06"}}};

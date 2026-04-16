@@ -1,0 +1,1 @@
+window.FTERM_TERM_3K045 = {"themeCode":"3K045","entries":{"3K045":{"code":"3K045","ja":"車両の照明または信号装置のための監視装置","en":"","parent":null,"level":0,"themeCode":"3K045","termCode":"","themeType":"ＦＩ","coverage":"B60Q9/00-11/00,650@Z"}}};

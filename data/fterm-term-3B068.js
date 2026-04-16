@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B068 = {"themeCode":"3B068","entries":{"3B068":{"code":"3B068","ja":"シェルフ，仕切の調節","en":"","parent":null,"level":0,"themeCode":"3B068","termCode":"","themeType":"ＦＩ","coverage":"A47B57/00-57/58@Z"}}};

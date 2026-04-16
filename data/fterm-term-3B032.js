@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B032 = {"themeCode":"3B032","entries":{"3B032":{"code":"3B032","ja":"ズボン、スカート","en":"","parent":null,"level":0,"themeCode":"3B032","termCode":"","themeType":"ＦＩ","coverage":"A41D1/06-1/16"}}};

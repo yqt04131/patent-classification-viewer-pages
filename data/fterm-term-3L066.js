@@ -1,0 +1,1 @@
+window.FTERM_TERM_3L066 = {"themeCode":"3L066","entries":{"3L066":{"code":"3L066","ja":"一般的な熱交換又は熱伝達装置の細部４","en":"","parent":null,"level":0,"themeCode":"3L066","termCode":"","themeType":"ＦＩ","coverage":"F28F11/00-19/06@Z"}}};

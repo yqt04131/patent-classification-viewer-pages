@@ -1,0 +1,1 @@
+window.FTERM_TERM_2H004 = {"themeCode":"2H004","entries":{"2H004":{"code":"2H004","ja":"写真植字","en":"","parent":null,"level":0,"themeCode":"2H004","termCode":"","themeType":"ＦＩ","coverage":"B41B13/00-27/50"}}};

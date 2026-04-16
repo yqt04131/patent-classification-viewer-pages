@@ -1,0 +1,1 @@
+window.FTERM_TERM_2B025 = {"themeCode":"2B025","entries":{"2B025":{"code":"2B025","ja":"潅水","en":"","parent":null,"level":0,"themeCode":"2B025","termCode":"","themeType":"ＦＩ","coverage":"A01G25/00-29/00"}}};

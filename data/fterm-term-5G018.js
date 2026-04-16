@@ -1,0 +1,1 @@
+window.FTERM_TERM_5G018 = {"themeCode":"5G018","entries":{"5G018":{"code":"5G018","ja":"熱応動スイッチ（２）","en":"","parent":null,"level":0,"themeCode":"5G018","termCode":"","themeType":"ＦＩ","coverage":"H01H37/58-37/74@Z;39/00-39/00@Z"}}};

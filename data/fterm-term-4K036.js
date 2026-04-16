@@ -1,0 +1,1 @@
+window.FTERM_TERM_4K036 = {"themeCode":"4K036","entries":{"4K036":{"code":"4K036","ja":"磁性鉄合金の熱処理","en":"","parent":null,"level":0,"themeCode":"4K036","termCode":"","themeType":"ＦＩ","coverage":"C21D6/00-6/04"}}};

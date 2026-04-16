@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D020 = {"themeCode":"2D020","entries":{"2D020":{"code":"2D020","ja":"上水用取水集水配水","en":"","parent":null,"level":0,"themeCode":"2D020","termCode":"","themeType":"ＦＩ","coverage":"E03B1/00-11/16"}}};

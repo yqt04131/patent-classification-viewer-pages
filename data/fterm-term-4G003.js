@@ -1,0 +1,1 @@
+window.FTERM_TERM_4G003 = {"themeCode":"4G003","entries":{"4G003":{"code":"4G003","ja":"フロート法によるガラスの成形","en":"","parent":null,"level":0,"themeCode":"4G003","termCode":"","themeType":"ＦＩ","coverage":"C03B18/00-18/22"}}};

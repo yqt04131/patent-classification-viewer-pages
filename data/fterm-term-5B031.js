@@ -1,0 +1,1 @@
+window.FTERM_TERM_5B031 = {"themeCode":"5B031","entries":{"5B031":{"code":"5B031","ja":"Ａ／Ｄ、Ｄ／Ａ変換器を用いたデータの入出力","en":"","parent":null,"level":0,"themeCode":"5B031","termCode":"","themeType":"ＦＩ","coverage":"G06F3/05-3/05,351@Z"}}};

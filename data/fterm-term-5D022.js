@@ -1,0 +1,1 @@
+window.FTERM_TERM_5D022 = {"themeCode":"5D022","entries":{"5D022":{"code":"5D022","ja":"補聴器","en":"","parent":null,"level":0,"themeCode":"5D022","termCode":"","themeType":"ＦＩ","coverage":"H04R25/00-25/04"}}};

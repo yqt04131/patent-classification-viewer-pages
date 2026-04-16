@@ -1,0 +1,1 @@
+window.FTERM_TERM_2D023 = {"themeCode":"2D023","entries":{"2D023":{"code":"2D023","ja":"運河・水路・えん堤","en":"","parent":null,"level":0,"themeCode":"2D023","termCode":"","themeType":"ＦＩ","coverage":"E02B5/00-7/18;8/00;8/06-8/08;E02C1/00-5/02"}}};

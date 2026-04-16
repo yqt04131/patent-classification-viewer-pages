@@ -1,0 +1,1 @@
+window.FTERM_TERM_2B091 = {"themeCode":"2B091","entries":{"2B091":{"code":"2B091","ja":"脱穀機一般；特殊作物用脱穀機；手扱具","en":"","parent":null,"level":0,"themeCode":"2B091","termCode":"","themeType":"ＦＩ","coverage":"A01F5/00-11/08"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2H019 = {"themeCode":"2H019","entries":{"2H019":{"code":"2H019","ja":"写真撮影方法及び装置","en":"","parent":null,"level":0,"themeCode":"2H019","termCode":"","themeType":"ＦＩ","coverage":"G03B15/00-15/035;15/06-15/16@Z"}}};

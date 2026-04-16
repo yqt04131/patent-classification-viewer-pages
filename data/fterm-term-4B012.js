@@ -1,0 +1,1 @@
+window.FTERM_TERM_4B012 = {"themeCode":"4B012","entries":{"4B012":{"code":"4B012","ja":"肉，卵の保存","en":"","parent":null,"level":0,"themeCode":"4B012","termCode":"","themeType":"ＦＩ","coverage":"A23B4/00-5/22"}}};

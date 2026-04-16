@@ -1,0 +1,1 @@
+window.FTERM_TERM_5G014 = {"themeCode":"5G014","entries":{"5G014":{"code":"5G014","ja":"非常保護回路装置（通電防止）","en":"","parent":null,"level":0,"themeCode":"5G014","termCode":"","themeType":"ＦＩ","coverage":"H02H11/00-11/00,180"}}};

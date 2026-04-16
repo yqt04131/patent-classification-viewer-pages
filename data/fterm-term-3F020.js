@@ -1,0 +1,1 @@
+window.FTERM_TERM_3F020 = {"themeCode":"3F020","entries":{"3F020":{"code":"3F020","ja":"液体による輸送","en":"","parent":null,"level":0,"themeCode":"3F020","termCode":"","themeType":"ＦＩ","coverage":"B65G53/30-53/30@Z"}}};

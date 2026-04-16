@@ -1,0 +1,1 @@
+window.FTERM_TERM_3J026 = {"themeCode":"3J026","entries":{"3J026":{"code":"3J026","ja":"キー形結合・及び収縮による結合・圧力ばめ・ とりはずし不納な摩擦握り","en":"","parent":null,"level":0,"themeCode":"3J026","termCode":"","themeType":"ＦＩ","coverage":"F16B3/00-4/00@Z"}}};

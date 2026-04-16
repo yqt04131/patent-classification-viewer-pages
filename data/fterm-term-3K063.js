@@ -1,0 +1,1 @@
+window.FTERM_TERM_3K063 = {"themeCode":"3K063","entries":{"3K063":{"code":"3K063","ja":"燃焼装置の消火装置","en":"","parent":null,"level":0,"themeCode":"3K063","termCode":"","themeType":"ＦＩ","coverage":"F23Q25/00-25/00,605@Z"}}};

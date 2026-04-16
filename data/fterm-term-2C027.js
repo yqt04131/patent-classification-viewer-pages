@@ -1,0 +1,1 @@
+window.FTERM_TERM_2C027 = {"themeCode":"2C027","entries":{"2C027":{"code":"2C027","ja":"筆記具保持具","en":"","parent":null,"level":0,"themeCode":"2C027","termCode":"","themeType":"ＦＩ","coverage":"B43K23/00-23/12,150"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C014 = {"themeCode":"4C014","entries":{"4C014":{"code":"4C014","ja":"ジアゼピン系化合物","en":"","parent":null,"level":0,"themeCode":"4C014","termCode":"","themeType":"ＦＩ","coverage":"C07D243/00-247/02"}}};

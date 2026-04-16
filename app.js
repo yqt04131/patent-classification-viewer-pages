@@ -45,6 +45,10 @@ const VIEW_COPY = {
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
 
+function isFtermLikeCode(value) {
+  return /^\d[A-Z]\d{3}(?:[A-Z]{2}\d{2})?$/.test(normalizeCode(value));
+}
+
 function normalizeInputText(value) {
   return (value || '').normalize('NFKC');
 }
@@ -74,7 +78,37 @@ function syncModeFields() {
   targetModeGroupEl.setAttribute('aria-label', copy.targetGroupLabel);
 }
 
-function extractCodes(rawText) {
+function extractCodes(rawText, targetMode) {
+  if (targetMode === 'fterm') {
+    const inlineGap = '[ \\t\\u3000]*';
+    const pattern = new RegExp(
+      `\\d${inlineGap}[A-Z](?:${inlineGap}\\d){3}(?:(?:${inlineGap}[A-Z]){2}(?:${inlineGap}\\d){2})?`,
+      'gi'
+    );
+
+    const matches = normalizeInputText(rawText).toUpperCase().match(pattern) || [];
+    const codes = [];
+    const seen = new Set();
+
+    for (const match of matches) {
+      const code = normalizeCode(match);
+      if (!code || seen.has(code)) {
+        continue;
+      }
+      seen.add(code);
+      codes.push(code);
+    }
+
+    if (!codes.length) {
+      const fallback = normalizeCode(rawText);
+      if (fallback) {
+        codes.push(fallback);
+      }
+    }
+
+    return codes;
+  }
+
   const preparedText = normalizeInputText(rawText)
     .replace(/\r\n?/g, '\n')
     .replace(/[、，,]+(?=\s*[A-HY]\s*\d\s*\d\s*[A-Z])/gi, '\n')
@@ -332,9 +366,9 @@ function getRequestedText() {
 
 async function runLookup(rawText) {
   try {
-    const codes = extractCodes(rawText);
     const viewMode = getSelectedViewMode();
     const targetMode = getSelectedTargetMode();
+    const codes = extractCodes(rawText, targetMode);
     currentOverlayMode = viewMode === 'children' ? 'children' : 'ancestors';
     syncModeFields();
 
@@ -401,6 +435,12 @@ for (const targetInput of targetInputs) {
 
 for (const button of quickButtons) {
   button.addEventListener('click', async () => {
+    if (isFtermLikeCode(button.dataset.code || '')) {
+      const ftermInput = Array.from(targetInputs).find((input) => input.value === 'fterm');
+      if (ftermInput) {
+        ftermInput.checked = true;
+      }
+    }
     inputEl.value = button.dataset.code;
     window.clearTimeout(lookupTimer);
     await runLookup(inputEl.value);
@@ -411,6 +451,12 @@ syncModeFields();
 
 const requestedText = getRequestedText();
 if (requestedText) {
+  if (isFtermLikeCode(requestedText)) {
+    const ftermInput = Array.from(targetInputs).find((input) => input.value === 'fterm');
+    if (ftermInput) {
+      ftermInput.checked = true;
+    }
+  }
   inputEl.value = requestedText;
   runLookup(requestedText);
 } else {

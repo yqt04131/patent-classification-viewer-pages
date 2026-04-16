@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B055 = {"themeCode":"3B055","entries":{"3B055":{"code":"3B055","ja":"可動棚","en":"","parent":null,"level":0,"themeCode":"3B055","termCode":"","themeType":"ＦＩ","coverage":"A47B46/00-46/00,501@Z;49/00-53/02,502@Z"}}};

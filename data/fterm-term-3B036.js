@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B036 = {"themeCode":"3B036","entries":{"3B036":{"code":"3B036","ja":"衣服の材料","en":"","parent":null,"level":0,"themeCode":"3B036","termCode":"","themeType":"ＦＩ","coverage":"A41D31/00-31/32"}}};

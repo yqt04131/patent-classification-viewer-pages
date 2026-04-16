@@ -1,0 +1,1 @@
+window.FTERM_TERM_4C039 = {"themeCode":"4C039","entries":{"4C039":{"code":"4C039","ja":"傷病者運搬具","en":"","parent":null,"level":0,"themeCode":"4C039","termCode":"","themeType":"ＦＩ","coverage":"A61G1/00-5/14,711"}}};

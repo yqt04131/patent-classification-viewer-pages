@@ -1,0 +1,1 @@
+window.FTERM_TERM_3B072 = {"themeCode":"3B072","entries":{"3B072":{"code":"3B072","ja":"電気掃除機（フィルターの除塵）","en":"","parent":null,"level":0,"themeCode":"3B072","termCode":"","themeType":"ＦＩ","coverage":"A47L9/20-9/20,531@Z"}}};

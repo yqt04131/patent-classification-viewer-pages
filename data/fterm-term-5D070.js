@@ -1,0 +1,1 @@
+window.FTERM_TERM_5D070 = {"themeCode":"5D070","entries":{"5D070":{"code":"5D070","ja":"トーンアームの駆動","en":"","parent":null,"level":0,"themeCode":"5D070","termCode":"","themeType":"ＦＩ","coverage":"G11B3/085-3/085@Z;3/095-3/095@Z"}}};

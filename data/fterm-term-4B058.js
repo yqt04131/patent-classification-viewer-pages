@@ -1,0 +1,1 @@
+window.FTERM_TERM_4B058 = {"themeCode":"4B058","entries":{"4B058":{"code":"4B058","ja":"トースタ","en":"","parent":null,"level":0,"themeCode":"4B058","termCode":"","themeType":"ＦＩ","coverage":"A47J37/08-37/08,115"}}};

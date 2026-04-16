@@ -1,0 +1,1 @@
+window.FTERM_TERM_4D014 = {"themeCode":"4D014","entries":{"4D014":{"code":"4D014","ja":"液体相互の分離","en":"","parent":null,"level":0,"themeCode":"4D014","termCode":"","themeType":"ＦＩ","coverage":"B01D17/00-17/12@Z"}}};

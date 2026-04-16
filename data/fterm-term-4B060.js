@@ -1,0 +1,1 @@
+window.FTERM_TERM_4B060 = {"themeCode":"4B060","entries":{"4B060":{"code":"4B060","ja":"台所用把持具・ストーブ用器具","en":"","parent":null,"level":0,"themeCode":"4B060","termCode":"","themeType":"ＦＩ","coverage":"A47J45/00-45/10@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_3C035 = {"themeCode":"3C035","entries":{"3C035":{"code":"3C035","ja":"非金属切断装置ＩＩ","en":"","parent":null,"level":0,"themeCode":"3C035","termCode":"","themeType":"ＦＩ","coverage":"B26D1/25-1/62@Z"}}};

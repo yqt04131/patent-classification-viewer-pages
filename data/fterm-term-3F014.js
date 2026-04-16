@@ -1,0 +1,1 @@
+window.FTERM_TERM_3F014 = {"themeCode":"3F014","entries":{"3F014":{"code":"3F014","ja":"コンベヤの清掃、注油","en":"","parent":null,"level":0,"themeCode":"3F014","termCode":"","themeType":"ＦＩ","coverage":"B65G45/00-45/26@Z"}}};

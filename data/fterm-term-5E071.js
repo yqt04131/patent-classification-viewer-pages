@@ -1,0 +1,1 @@
+window.FTERM_TERM_5E071 = {"themeCode":"5E071","entries":{"5E071":{"code":"5E071","ja":"可変変成器一般","en":"","parent":null,"level":0,"themeCode":"5E071","termCode":"","themeType":"ＦＩ","coverage":"H01F29/00-29/14@Z"}}};

@@ -1,0 +1,1 @@
+window.FTERM_TERM_2E024 = {"themeCode":"2E024","entries":{"2E024":{"code":"2E024","ja":"建築物の仕上げ用具","en":"","parent":null,"level":0,"themeCode":"2E024","termCode":"","themeType":"ＦＩ","coverage":"E04F21/00-21/32"}}};

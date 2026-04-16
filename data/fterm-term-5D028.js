@@ -1,0 +1,1 @@
+window.FTERM_TERM_5D028 = {"themeCode":"5D028","entries":{"5D028":{"code":"5D028","ja":"記録担体、その容器及び付属品","en":"","parent":null,"level":0,"themeCode":"5D028","termCode":"","themeType":"ＦＩ","coverage":"G11B23/00-23/50@Z"}}};
