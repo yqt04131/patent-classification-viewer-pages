@@ -433,6 +433,16 @@ button {
   font-weight: 700;
 }
 
+.theme-code-link {
+  text-decoration: none;
+}
+
+.theme-code-link:hover,
+.theme-code-link:focus-visible {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .theme-name,
 .theme-coverage,
 .theme-empty {

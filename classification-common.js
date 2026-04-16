@@ -181,25 +181,27 @@
     const item = document.createElement('article');
     item.className = 'theme-item';
 
-    const codeEl = document.createElement('p');
-    codeEl.className = 'theme-code';
-    codeEl.textContent = `${theme.themeCode}${theme.type ? ` / ${theme.type}` : ''}`;
+    const codeText = `${theme.themeCode}${theme.type ? ` / ${theme.type}` : ''}`;
+    let codeEl;
+
+    if (theme.themeCode) {
+      codeEl = document.createElement('a');
+      codeEl.className = 'theme-code theme-code-link';
+      codeEl.href = `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${theme.themeCode}.html`;
+      codeEl.target = '_blank';
+      codeEl.rel = 'noopener noreferrer';
+      codeEl.textContent = codeText;
+    } else {
+      codeEl = document.createElement('p');
+      codeEl.className = 'theme-code';
+      codeEl.textContent = codeText;
+    }
 
     const nameEl = document.createElement('p');
     nameEl.className = 'theme-name';
     nameEl.textContent = theme.name || '';
 
     item.append(codeEl, nameEl);
-
-    if (theme.themeCode) {
-      const linkEl = document.createElement('a');
-      linkEl.className = 'theme-link';
-      linkEl.href = `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${theme.themeCode}.html`;
-      linkEl.target = '_blank';
-      linkEl.rel = 'noopener noreferrer';
-      linkEl.textContent = 'Fタームリストを開く';
-      item.appendChild(linkEl);
-    }
 
     if (theme.coverage) {
       const coverageEl = document.createElement('p');
