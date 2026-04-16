@@ -19,17 +19,13 @@ const {
   DATASETS,
   loadShard,
   formatCodeForDisplay,
-  formatHierarchyInfo,
   resolveLookupCode,
-  getDepth,
-  getLineage,
   getChildItems,
-  formatOverlayLine,
   createEmptyNote,
-  populateThemeBlock,
+  buildResultModel,
+  createResultItemNode,
 } = shared;
 
-let currentDataset = null;
 let overlayMode = 'ancestors';
 
 function setStatus(message, type = 'neutral') {
@@ -50,168 +46,62 @@ function syncPageCopy() {
   sectionTitleEl.textContent = '上位階層';
 }
 
-function buildAncestorOverlayText(mode, dataset, code) {
-  const lineage = getLineage(mode, dataset, code);
-  return lineage
-    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
-    .join('\n');
-}
-
-function buildChildOverlayText(mode, dataset, code) {
-  const children = getChildItems(dataset, code);
-  if (!children.length) {
-    return '1つ下の階層はありません。';
-  }
-
-  return children
-    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
-    .join('\n');
-}
-
-function buildOverlayText(mode, dataset, code) {
-  return overlayMode === 'children'
-    ? buildChildOverlayText(mode, dataset, code)
-    : buildAncestorOverlayText(mode, dataset, code);
-}
-
-function openDetailWindow(mode, code) {
-  const params = new URLSearchParams({
-    code,
-    mode,
-    overlay: overlayMode,
-  });
-  window.open(`./detail.html?${params.toString()}`, '_blank', 'noopener');
-}
-
-function bindDetailTrigger(element, mode, code) {
-  element.tabIndex = 0;
-  element.setAttribute('role', 'button');
-  element.setAttribute('aria-label', `${formatCodeForDisplay(code)} の詳細を別ウィンドウで開く`);
-  element.addEventListener('click', () => {
-    openDetailWindow(mode, code);
-  });
-  element.addEventListener('keydown', (event) => {
-    if (event.key !== 'Enter' && event.key !== ' ') {
-      return;
-    }
-    event.preventDefault();
-    openDetailWindow(mode, code);
-  });
-}
-
-function applyDefinitionVisibility(mode, node, item, jaPane, enPane) {
-  if (mode === 'fi') {
-    enPane.hidden = true;
-  } else if (mode === 'ipc') {
-    enPane.hidden = true;
-    if (!item.ja) {
-      jaPane.hidden = true;
-    }
-  } else {
-    node.classList.add('result-item-cpc');
-    jaPane.hidden = false;
-    enPane.hidden = false;
-  }
-}
-
-function createResultItem(mode, item, depth) {
-  const node = template.content.firstElementChild.cloneNode(true);
-  const codeWrap = node.querySelector('.code-wrap');
-  const codeEl = node.querySelector('.code');
-  const typeTag = node.querySelector('.tag.type');
-  const hierarchyTag = node.querySelector('.tag.hierarchy');
-  const jaPane = node.querySelector('.definition-pane-ja');
-  const enPane = node.querySelector('.definition-pane-en');
-  const jaEl = node.querySelector('.definition.ja');
-  const enEl = node.querySelector('.definition.en');
-  const themeBlock = node.querySelector('.theme-block');
-  const themeList = node.querySelector('.theme-list');
-
-  codeEl.textContent = formatCodeForDisplay(item.code);
-  typeTag.textContent = DATASETS[mode].label;
-  hierarchyTag.textContent = formatHierarchyInfo(depth);
-  hierarchyTag.hidden = !hierarchyTag.textContent;
-  jaEl.textContent = item.ja || '';
-  enEl.textContent = item.en || '';
-
-  const overlayText = buildOverlayText(mode, currentDataset, item.code);
-  if (overlayText) {
-    codeWrap.title = overlayText;
-  }
-  bindDetailTrigger(codeWrap, mode, item.code);
-
-  applyDefinitionVisibility(mode, node, item, jaPane, enPane);
-
-  if (!item.ja) {
-    jaPane.classList.add('is-empty');
-    if (mode !== 'cpc') {
-      jaPane.hidden = true;
-    }
-  } else {
-    jaPane.classList.remove('is-empty');
-  }
-
-  if (!item.en) {
-    enPane.classList.add('is-empty');
-    if (mode !== 'cpc') {
-      enPane.hidden = true;
-    }
-  } else {
-    enPane.classList.remove('is-empty');
-  }
-
-  populateThemeBlock(themeBlock, themeList, mode, item.themes || [], item.showThemes === true);
-
-  return node;
-}
-
 async function renderLineage(mode, dataset, code) {
-  const lineage = getLineage(mode, dataset, code);
-  setStatus(`「${formatCodeForDisplay(code)}」の上位階層を表示しています。`, 'success');
-  metaEl.textContent = `${DATASETS[mode].label} / ${lineage.length}階層`;
+  const lineageCodes = [];
+  let current = dataset.entries[code] || null;
 
-  for (const [index, lineageItem] of lineage.entries()) {
-    const isSelected = index === lineage.length - 1;
-    const item = {
-      ...lineageItem,
-      themes:
-        isSelected && mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, lineageItem.code)
-          : [],
-      showThemes: isSelected && mode === 'fi',
-    };
-    listEl.appendChild(createResultItem(mode, item, index));
+  while (current) {
+    lineageCodes.push(current.code);
+    if (mode === 'ipc' && current.level === 0) {
+      break;
+    }
+    current = current.parent ? dataset.entries[current.parent] || null : null;
+  }
+
+  lineageCodes.reverse();
+
+  setStatus(`「${formatCodeForDisplay(code)}」の上位階層を表示しています。`, 'success');
+  metaEl.textContent = `${DATASETS[mode].label} / ${lineageCodes.length}階層`;
+
+  const results = await Promise.all(
+    lineageCodes.map((lineageCode, index) =>
+      buildResultModel(mode, dataset, lineageCode, {
+        showThemes: mode === 'fi' && index === lineageCodes.length - 1,
+      })
+    )
+  );
+
+  for (const result of results.filter(Boolean)) {
+    listEl.appendChild(createResultItemNode(template, result, overlayMode));
   }
 }
 
 async function renderChildren(mode, dataset, code) {
-  const children = getChildItems(dataset, code);
-  const sourceItem = {
-    ...dataset.entries[code],
-    themes:
-      mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-        ? await window.findThemeMatchesForFi(dataset, code)
-        : [],
+  const sourceResult = await buildResultModel(mode, dataset, code, {
     showThemes: mode === 'fi',
-  };
+  });
+  const children = await Promise.all(
+    getChildItems(dataset, code).map((child) =>
+      buildResultModel(mode, dataset, child.code, {
+        showThemes: false,
+      })
+    )
+  );
 
   setStatus(`「${formatCodeForDisplay(code)}」の1つ下の階層を表示しています。`, 'success');
-  metaEl.textContent = `${DATASETS[mode].label} / ${children.length}件`;
+  metaEl.textContent = `${DATASETS[mode].label} / ${children.filter(Boolean).length}件`;
 
-  listEl.appendChild(createResultItem(mode, sourceItem, getDepth(mode, dataset, code)));
+  if (sourceResult) {
+    listEl.appendChild(createResultItemNode(template, sourceResult, overlayMode));
+  }
 
-  if (!children.length) {
+  if (!children.some(Boolean)) {
     listEl.appendChild(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
     return;
   }
 
-  for (const child of children) {
-    const item = {
-      ...child,
-      themes: [],
-      showThemes: false,
-    };
-    listEl.appendChild(createResultItem(mode, item, getDepth(mode, dataset, child.code)));
+  for (const child of children.filter(Boolean)) {
+    listEl.appendChild(createResultItemNode(template, child, overlayMode));
   }
 }
 
@@ -231,7 +121,6 @@ async function run() {
     const dataset = await loadShard(mode, code);
     const resolvedCode = resolveLookupCode(mode, dataset, code);
     const item = dataset.entries[resolvedCode];
-    currentDataset = dataset;
 
     if (!item) {
       setStatus('一致する分類コードが見つかりませんでした。', 'error');

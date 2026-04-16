@@ -24,14 +24,11 @@ const {
   DATASETS,
   loadShard,
   formatCodeForDisplay,
-  formatHierarchyInfo,
   resolveLookupCode,
-  getDepth,
-  getLineage,
   getChildItems,
-  formatOverlayLine,
   createEmptyNote,
-  populateThemeBlock,
+  buildResultModel,
+  createResultItemNode,
 } = shared;
 
 const VIEW_COPY = {
@@ -125,132 +122,6 @@ function setStatus(message, type = 'neutral') {
   statusEl.dataset.state = type;
 }
 
-function buildAncestorOverlayText(result) {
-  const lineage = getLineage(result.mode, result.dataset, result.code);
-  return lineage
-    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(result.mode, result.dataset, item.code))))
-    .join('\n');
-}
-
-function buildChildOverlayText(result) {
-  const children = getChildItems(result.dataset, result.code);
-  if (!children.length) {
-    return '1つ下の階層はありません。';
-  }
-
-  return children
-    .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(result.mode, result.dataset, item.code))))
-    .join('\n');
-}
-
-function buildOverlayText(result) {
-  if (result.notFound || !result.dataset) {
-    return '';
-  }
-  return currentOverlayMode === 'children' ? buildChildOverlayText(result) : buildAncestorOverlayText(result);
-}
-
-function openDetailWindow(result) {
-  const params = new URLSearchParams({
-    code: result.code,
-    mode: result.mode,
-    overlay: currentOverlayMode,
-  });
-  window.open(`./detail.html?${params.toString()}`, '_blank', 'noopener');
-}
-
-function bindDetailTrigger(element, result) {
-  element.tabIndex = 0;
-  element.setAttribute('role', 'button');
-  element.setAttribute('aria-label', `${formatCodeForDisplay(result.code)} の詳細を別ウィンドウで開く`);
-  element.addEventListener('click', () => {
-    openDetailWindow(result);
-  });
-  element.addEventListener('keydown', (event) => {
-    if (event.key !== 'Enter' && event.key !== ' ') {
-      return;
-    }
-    event.preventDefault();
-    openDetailWindow(result);
-  });
-}
-
-function applyDefinitionVisibility(result, node, jaPane, enPane) {
-  if (result.mode === 'fi') {
-    enPane.hidden = true;
-  } else if (result.mode === 'ipc') {
-    enPane.hidden = true;
-    if (!result.item.ja) {
-      jaPane.hidden = true;
-    }
-  } else {
-    node.classList.add('result-item-cpc');
-    jaPane.hidden = false;
-    enPane.hidden = false;
-  }
-}
-
-function createResultItem(result) {
-  const node = template.content.firstElementChild.cloneNode(true);
-  const codeWrap = node.querySelector('.code-wrap');
-  const codeEl = node.querySelector('.code');
-  const typeTag = node.querySelector('.tag.type');
-  const hierarchyTag = node.querySelector('.tag.hierarchy');
-  const jaPane = node.querySelector('.definition-pane-ja');
-  const enPane = node.querySelector('.definition-pane-en');
-  const jaEl = node.querySelector('.definition.ja');
-  const enEl = node.querySelector('.definition.en');
-  const themeBlock = node.querySelector('.theme-block');
-  const themeList = node.querySelector('.theme-list');
-
-  codeEl.textContent = formatCodeForDisplay(result.code);
-  typeTag.textContent = result.typeLabel;
-
-  if (result.notFound) {
-    hierarchyTag.textContent = '未検出';
-    jaEl.textContent = '一致する分類コードが見つかりませんでした。';
-    enPane.hidden = true;
-    themeBlock.hidden = true;
-    node.classList.add('result-item-missing');
-    return node;
-  }
-
-  hierarchyTag.textContent = formatHierarchyInfo(result.depth);
-  hierarchyTag.hidden = !hierarchyTag.textContent;
-  jaEl.textContent = result.item.ja || '';
-  enEl.textContent = result.item.en || '';
-
-  const overlayText = buildOverlayText(result);
-  if (overlayText) {
-    codeWrap.title = overlayText;
-  }
-  bindDetailTrigger(codeWrap, result);
-
-  applyDefinitionVisibility(result, node, jaPane, enPane);
-
-  if (!result.item.ja) {
-    jaPane.classList.add('is-empty');
-    if (result.mode !== 'cpc') {
-      jaPane.hidden = true;
-    }
-  } else {
-    jaPane.classList.remove('is-empty');
-  }
-
-  if (!result.item.en) {
-    enPane.classList.add('is-empty');
-    if (result.mode !== 'cpc') {
-      enPane.hidden = true;
-    }
-  } else {
-    enPane.classList.remove('is-empty');
-  }
-
-  populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes === true);
-
-  return node;
-}
-
 function createMatchGroupTitle(title, summary) {
   const header = document.createElement('div');
   header.className = 'match-group-header';
@@ -277,25 +148,7 @@ function createNotFoundResult(code, mode) {
 async function lookupCodeInMode(code, mode) {
   const dataset = await loadShard(mode, code);
   const resolvedCode = resolveLookupCode(mode, dataset, code);
-  const item = dataset.entries[resolvedCode];
-  if (!item) {
-    return null;
-  }
-
-  const showThemes = mode === 'fi';
-  return {
-    code: resolvedCode,
-    mode,
-    typeLabel: DATASETS[mode].label,
-    depth: getDepth(mode, dataset, resolvedCode),
-    item,
-    dataset,
-    themes:
-      showThemes && typeof window.findThemeMatchesForFi === 'function'
-        ? await window.findThemeMatchesForFi(dataset, resolvedCode)
-        : [],
-    showThemes,
-  };
+  return buildResultModel(mode, dataset, resolvedCode);
 }
 
 async function lookupCodeGroup(code, mode) {
@@ -312,37 +165,22 @@ async function lookupChildrenForMode(code, mode) {
   try {
     const dataset = await loadShard(mode, code);
     const resolvedCode = resolveLookupCode(mode, dataset, code);
-    const sourceItem = dataset.entries[resolvedCode];
-    if (!sourceItem) {
+    const source = await buildResultModel(mode, dataset, resolvedCode, {
+      showThemes: mode === 'fi',
+    });
+    if (!source) {
       return [];
     }
 
-    const source = {
-      code: resolvedCode,
-      mode,
-      typeLabel: DATASETS[mode].label,
-      depth: getDepth(mode, dataset, resolvedCode),
-      item: sourceItem,
-      dataset,
-      themes:
-        mode === 'fi' && typeof window.findThemeMatchesForFi === 'function'
-          ? await window.findThemeMatchesForFi(dataset, resolvedCode)
-          : [],
-      showThemes: mode === 'fi',
-    };
+    const children = await Promise.all(
+      getChildItems(dataset, resolvedCode).map((item) =>
+        buildResultModel(mode, dataset, item.code, {
+          showThemes: false,
+        })
+      )
+    );
 
-    const children = getChildItems(dataset, resolvedCode).map((item) => ({
-      code: item.code,
-      mode,
-      typeLabel: DATASETS[mode].label,
-      depth: getDepth(mode, dataset, item.code),
-      item,
-      dataset,
-      themes: [],
-      showThemes: false,
-    }));
-
-    return [{ source, children }];
+    return [{ source, children: children.filter(Boolean) }];
   } catch (error) {
     console.warn(`Skipped ${mode} child lookup:`, error);
     return [];
@@ -385,7 +223,7 @@ function renderLookupResults(inputCodes, groupedResults) {
     list.className = 'group-list';
 
     for (const result of group.matches) {
-      list.appendChild(createResultItem(result));
+      list.appendChild(createResultItemNode(template, result, currentOverlayMode));
     }
 
     section.appendChild(list);
@@ -457,7 +295,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
 
       heading.append(title, summary);
       childGroup.appendChild(heading);
-      childGroup.appendChild(createResultItem(match.source));
+      childGroup.appendChild(createResultItemNode(template, match.source, currentOverlayMode));
 
       if (!match.children.length) {
         childGroup.appendChild(createEmptyNote('この分類コードの直下には定義済みの分類コードが見つかりませんでした。'));
@@ -465,7 +303,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
         const childList = document.createElement('div');
         childList.className = 'group-list';
         for (const child of match.children) {
-          childList.appendChild(createResultItem(child));
+          childList.appendChild(createResultItemNode(template, child, currentOverlayMode));
         }
         childGroup.appendChild(childList);
       }

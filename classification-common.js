@@ -237,6 +237,161 @@
     }
   }
 
+  async function loadThemesForCode(mode, dataset, code, showThemes = mode === 'fi') {
+    if (mode !== 'fi' || !showThemes || typeof window.findThemeMatchesForFi !== 'function') {
+      return [];
+    }
+
+    return window.findThemeMatchesForFi(dataset, code);
+  }
+
+  async function buildResultModel(mode, dataset, code, options = {}) {
+    const item = dataset.entries[code];
+    if (!item) {
+      return null;
+    }
+
+    const showThemes = options.showThemes ?? mode === 'fi';
+
+    return {
+      code,
+      mode,
+      typeLabel: DATASETS[mode].label,
+      depth: getDepth(mode, dataset, code),
+      item,
+      dataset,
+      themes: await loadThemesForCode(mode, dataset, code, showThemes),
+      showThemes,
+    };
+  }
+
+  function buildAncestorOverlayText(mode, dataset, code) {
+    const lineage = getLineage(mode, dataset, code);
+    return lineage
+      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
+      .join('\n');
+  }
+
+  function buildChildOverlayText(mode, dataset, code) {
+    const children = getChildItems(dataset, code);
+    if (!children.length) {
+      return '1つ下の階層はありません。';
+    }
+
+    return children
+      .map((item) => formatOverlayLine(item, formatHierarchyInfo(getDepth(mode, dataset, item.code))))
+      .join('\n');
+  }
+
+  function buildOverlayText(overlayMode, mode, dataset, code) {
+    return overlayMode === 'children'
+      ? buildChildOverlayText(mode, dataset, code)
+      : buildAncestorOverlayText(mode, dataset, code);
+  }
+
+  function openDetailWindow(mode, code, overlayMode) {
+    const params = new URLSearchParams({
+      code,
+      mode,
+      overlay: overlayMode,
+    });
+    window.open(`./detail.html?${params.toString()}`, '_blank', 'noopener');
+  }
+
+  function bindDetailTrigger(element, mode, code, overlayMode) {
+    element.tabIndex = 0;
+    element.setAttribute('role', 'button');
+    element.setAttribute('aria-label', `${formatCodeForDisplay(code)} の詳細を別ウィンドウで開く`);
+    element.addEventListener('click', () => {
+      openDetailWindow(mode, code, overlayMode);
+    });
+    element.addEventListener('keydown', (event) => {
+      if (event.key !== 'Enter' && event.key !== ' ') {
+        return;
+      }
+      event.preventDefault();
+      openDetailWindow(mode, code, overlayMode);
+    });
+  }
+
+  function applyDefinitionVisibility(mode, node, item, jaPane, enPane) {
+    if (mode === 'fi') {
+      enPane.hidden = true;
+    } else if (mode === 'ipc') {
+      enPane.hidden = true;
+      if (!item.ja) {
+        jaPane.hidden = true;
+      }
+    } else {
+      node.classList.add('result-item-cpc');
+      jaPane.hidden = false;
+      enPane.hidden = false;
+    }
+  }
+
+  function createResultItemNode(template, result, overlayMode) {
+    const node = template.content.firstElementChild.cloneNode(true);
+    const codeWrap = node.querySelector('.code-wrap');
+    const codeEl = node.querySelector('.code');
+    const typeTag = node.querySelector('.tag.type');
+    const hierarchyTag = node.querySelector('.tag.hierarchy');
+    const jaPane = node.querySelector('.definition-pane-ja');
+    const enPane = node.querySelector('.definition-pane-en');
+    const jaEl = node.querySelector('.definition.ja');
+    const enEl = node.querySelector('.definition.en');
+    const themeBlock = node.querySelector('.theme-block');
+    const themeList = node.querySelector('.theme-list');
+
+    codeEl.textContent = formatCodeForDisplay(result.code);
+    typeTag.textContent = result.typeLabel;
+
+    if (result.notFound) {
+      hierarchyTag.textContent = '未検出';
+      jaEl.textContent = '一致する分類コードが見つかりませんでした。';
+      enPane.hidden = true;
+      themeBlock.hidden = true;
+      node.classList.add('result-item-missing');
+      return node;
+    }
+
+    hierarchyTag.textContent = formatHierarchyInfo(result.depth);
+    hierarchyTag.hidden = !hierarchyTag.textContent;
+    jaEl.textContent = result.item.ja || '';
+    enEl.textContent = result.item.en || '';
+
+    const overlayText = buildOverlayText(overlayMode, result.mode, result.dataset, result.code);
+    if (overlayText) {
+      codeWrap.title = overlayText;
+    } else {
+      codeWrap.removeAttribute('title');
+    }
+    bindDetailTrigger(codeWrap, result.mode, result.code, overlayMode);
+
+    applyDefinitionVisibility(result.mode, node, result.item, jaPane, enPane);
+
+    if (!result.item.ja) {
+      jaPane.classList.add('is-empty');
+      if (result.mode !== 'cpc') {
+        jaPane.hidden = true;
+      }
+    } else {
+      jaPane.classList.remove('is-empty');
+    }
+
+    if (!result.item.en) {
+      enPane.classList.add('is-empty');
+      if (result.mode !== 'cpc') {
+        enPane.hidden = true;
+      }
+    } else {
+      enPane.classList.remove('is-empty');
+    }
+
+    populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes === true);
+
+    return node;
+  }
+
   window.ClassificationShared = {
     DATASETS,
     loadShard,
@@ -249,6 +404,12 @@
     getChildItems,
     formatOverlayLine,
     createEmptyNote,
+    loadThemesForCode,
+    buildResultModel,
+    buildOverlayText,
+    bindDetailTrigger,
+    applyDefinitionVisibility,
+    createResultItemNode,
     populateThemeBlock,
   };
 })();
