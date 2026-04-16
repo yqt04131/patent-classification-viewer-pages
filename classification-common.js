@@ -35,14 +35,26 @@
   }
 
   function resolveLookupCode(mode, dataset, code) {
-    if (dataset.entries[code]) {
-      return code;
+    const candidates = [code];
+
+    if (!code.includes('/')) {
+      candidates.push(`${code}/00`);
     }
 
-    if (mode === 'fi') {
-      const anchorCode = `${code}\\`;
-      if (dataset.entries[anchorCode]) {
-        return anchorCode;
+    if (code.endsWith('/')) {
+      candidates.push(`${code}00`);
+    }
+
+    for (const candidate of candidates) {
+      if (dataset.entries[candidate]) {
+        return candidate;
+      }
+
+      if (mode === 'fi') {
+        const anchorCode = `${candidate}\\`;
+        if (dataset.entries[anchorCode]) {
+          return anchorCode;
+        }
       }
     }
 
