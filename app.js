@@ -210,7 +210,9 @@ function createNotFoundResult(code, mode) {
 async function lookupCodeInMode(code, mode) {
   const dataset = await loadShard(mode, code);
   const resolvedCode = resolveLookupCode(mode, dataset, code);
-  return buildResultModel(mode, dataset, resolvedCode);
+  return buildResultModel(mode, dataset, resolvedCode, {
+    showThemes: mode === 'fi' || mode === 'fterm',
+  });
 }
 
 async function lookupCodeGroup(code, mode) {
@@ -228,7 +230,7 @@ async function lookupChildrenForMode(code, mode) {
     const dataset = await loadShard(mode, code);
     const resolvedCode = resolveLookupCode(mode, dataset, code);
     const source = await buildResultModel(mode, dataset, resolvedCode, {
-      showThemes: mode === 'fi',
+      showThemes: mode === 'fi' || mode === 'fterm',
     });
     if (!source) {
       return [];

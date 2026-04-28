@@ -242,12 +242,53 @@
     return item;
   }
 
-  function populateThemeBlock(themeBlock, themeList, mode, themes, showThemes = true) {
-    if (!themeBlock || !themeList) {
+  function createRelatedFiItem(relatedFi) {
+    const item = document.createElement('article');
+    item.className = 'theme-item';
+
+    const coverageEl = document.createElement('p');
+    coverageEl.className = 'theme-code';
+    coverageEl.textContent = relatedFi.coverage || '';
+    item.appendChild(coverageEl);
+
+    const metaParts = [relatedFi.themeCode];
+    if (relatedFi.themeType) {
+      metaParts.push(relatedFi.themeType);
+    }
+
+    if (metaParts.some(Boolean)) {
+      const metaEl = document.createElement('p');
+      metaEl.className = 'theme-name';
+      metaEl.textContent = metaParts.filter(Boolean).join(' / ');
+      item.appendChild(metaEl);
+    }
+
+    if (relatedFi.themeName) {
+      const nameEl = document.createElement('p');
+      nameEl.className = 'theme-coverage';
+      nameEl.textContent = relatedFi.themeName;
+      item.appendChild(nameEl);
+    }
+
+    return item;
+  }
+
+  function populateThemeBlock(themeBlock, themeTitle, themeList, mode, themes, showThemes = true, relatedFi = null) {
+    if (!themeBlock || !themeTitle || !themeList) {
       return;
     }
 
-    if (mode !== 'fi' || !showThemes) {
+    if (!showThemes) {
+      themeBlock.hidden = true;
+      themeList.innerHTML = '';
+      return;
+    }
+
+    if (mode === 'fi') {
+      themeTitle.textContent = '対応テーマコード';
+    } else if (mode === 'fterm') {
+      themeTitle.textContent = '対応FI';
+    } else {
       themeBlock.hidden = true;
       themeList.innerHTML = '';
       return;
@@ -255,6 +296,16 @@
 
     themeBlock.hidden = false;
     themeList.innerHTML = '';
+
+    if (mode === 'fterm') {
+      if (!relatedFi || !relatedFi.coverage) {
+        themeList.appendChild(createEmptyNote('対応するFIが見つかりませんでした。'));
+        return;
+      }
+
+      themeList.appendChild(createRelatedFiItem(relatedFi));
+      return;
+    }
 
     if (!themes.length) {
       themeList.appendChild(createEmptyNote('対応するテーマコードが見つかりませんでした。'));
@@ -274,6 +325,29 @@
     return window.findThemeMatchesForFi(dataset, code);
   }
 
+  async function loadRelatedFiForFterm(mode, dataset, code, showThemes = mode === 'fterm') {
+    if (mode !== 'fterm' || !showThemes) {
+      return null;
+    }
+
+    const item = dataset.entries[code];
+    if (!item) {
+      return null;
+    }
+
+    const rootTheme = dataset.entries[item.themeCode] || null;
+    if (!rootTheme || !rootTheme.coverage) {
+      return null;
+    }
+
+    return {
+      coverage: rootTheme.coverage,
+      themeCode: rootTheme.themeCode || item.themeCode || '',
+      themeType: rootTheme.themeType || item.themeType || '',
+      themeName: rootTheme.ja || '',
+    };
+  }
+
   async function buildResultModel(mode, dataset, code, options = {}) {
     const item = dataset.entries[code];
     if (!item) {
@@ -290,6 +364,7 @@
       item,
       dataset,
       themes: await loadThemesForCode(mode, dataset, code, showThemes),
+      relatedFi: await loadRelatedFiForFterm(mode, dataset, code, showThemes),
       showThemes,
     };
   }
@@ -369,6 +444,7 @@
     const jaEl = node.querySelector('.definition.ja');
     const enEl = node.querySelector('.definition.en');
     const themeBlock = node.querySelector('.theme-block');
+    const themeTitle = node.querySelector('.theme-title');
     const themeList = node.querySelector('.theme-list');
 
     codeEl.textContent = formatCodeForDisplay(result.code);
@@ -416,7 +492,15 @@
       enPane.classList.remove('is-empty');
     }
 
-    populateThemeBlock(themeBlock, themeList, result.mode, result.themes || [], result.showThemes === true);
+    populateThemeBlock(
+      themeBlock,
+      themeTitle,
+      themeList,
+      result.mode,
+      result.themes || [],
+      result.showThemes === true,
+      result.relatedFi || null
+    );
 
     return node;
   }
@@ -435,6 +519,7 @@
     formatOverlayLine,
     createEmptyNote,
     loadThemesForCode,
+    loadRelatedFiForFterm,
     buildResultModel,
     buildOverlayText,
     bindDetailTrigger,

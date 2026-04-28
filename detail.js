@@ -66,7 +66,7 @@ async function renderLineage(mode, dataset, code) {
   const results = await Promise.all(
     lineageCodes.map((lineageCode, index) =>
       buildResultModel(mode, dataset, lineageCode, {
-        showThemes: mode === 'fi' && index === lineageCodes.length - 1,
+        showThemes: (mode === 'fi' || mode === 'fterm') && index === lineageCodes.length - 1,
       })
     )
   );
@@ -78,7 +78,7 @@ async function renderLineage(mode, dataset, code) {
 
 async function renderChildren(mode, dataset, code) {
   const sourceResult = await buildResultModel(mode, dataset, code, {
-    showThemes: mode === 'fi',
+    showThemes: mode === 'fi' || mode === 'fterm',
   });
   const children = await Promise.all(
     getChildItems(dataset, code).map((child) =>
