@@ -336,12 +336,13 @@
     }
 
     const rootTheme = dataset.entries[item.themeCode] || null;
-    if (!rootTheme || !rootTheme.coverage) {
+    const fiCoverage = item.fiCoverage || (rootTheme ? rootTheme.fiCoverage : '') || (rootTheme ? rootTheme.coverage : '');
+    if (!rootTheme || !fiCoverage) {
       return null;
     }
 
     return {
-      coverage: rootTheme.coverage,
+      coverage: fiCoverage,
       themeCode: rootTheme.themeCode || item.themeCode || '',
       themeType: rootTheme.themeType || item.themeType || '',
       themeName: rootTheme.ja || '',
