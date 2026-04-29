@@ -242,13 +242,44 @@
     return item;
   }
 
+  function buildNarabeToolUrlFromFiCoverage(coverage) {
+    const normalized = (coverage || '').replace(/\s+/g, '');
+    if (!normalized) {
+      return '';
+    }
+
+    const firstSegment = normalized.split(';').find(Boolean) || '';
+    const firstEndpoint = firstSegment.split('-', 1)[0] || '';
+    const ipcLikeCode = firstEndpoint.replace(/[,@].*$/, '').replace(/\\$/, '');
+
+    if (!/^[A-HY]\d{2}[A-Z]\d+\/\d+[A-Z0-9]*$/i.test(ipcLikeCode)) {
+      return '';
+    }
+
+    const keyword = `${ipcLikeCode}Z`;
+    return `https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi?keyword=${encodeURIComponent(keyword)}`;
+  }
+
   function createRelatedFiItem(relatedFi) {
     const item = document.createElement('article');
     item.className = 'theme-item';
 
-    const coverageEl = document.createElement('p');
-    coverageEl.className = 'theme-code';
-    coverageEl.textContent = relatedFi.coverage || '';
+    const narabeUrl = buildNarabeToolUrlFromFiCoverage(relatedFi.coverage || '');
+    let coverageEl;
+
+    if (narabeUrl) {
+      coverageEl = document.createElement('a');
+      coverageEl.className = 'theme-code theme-code-link';
+      coverageEl.href = narabeUrl;
+      coverageEl.target = '_blank';
+      coverageEl.rel = 'noopener noreferrer';
+      coverageEl.textContent = relatedFi.coverage || '';
+    } else {
+      coverageEl = document.createElement('p');
+      coverageEl.className = 'theme-code';
+      coverageEl.textContent = relatedFi.coverage || '';
+    }
+
     item.appendChild(coverageEl);
 
     const metaParts = [relatedFi.themeCode];
