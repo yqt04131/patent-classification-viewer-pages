@@ -193,6 +193,26 @@ function setStatus(message, type = 'neutral') {
   statusEl.dataset.state = type;
 }
 
+function getFtermReplacementInfo(code, mode) {
+  if (mode !== 'fterm') {
+    return null;
+  }
+
+  if (!window.FtermLookup || typeof window.FtermLookup.getReplacementInfo !== 'function') {
+    return null;
+  }
+
+  return window.FtermLookup.getReplacementInfo(code);
+}
+
+function formatNotFoundSummary(result) {
+  const displayCode = formatCodeForDisplay(result.code);
+  if (result.replacementInfo && result.replacementInfo.message) {
+    return `${displayCode}: ${result.replacementInfo.message}`;
+  }
+  return displayCode;
+}
+
 function createMatchGroupTitle(title, summary) {
   const header = document.createElement('div');
   header.className = 'match-group-header';
@@ -213,6 +233,7 @@ function createNotFoundResult(code, mode) {
     mode,
     typeLabel: DATASETS[mode].label,
     notFound: true,
+    replacementInfo: getFtermReplacementInfo(code, mode),
   };
 }
 
@@ -265,7 +286,7 @@ function renderLookupResults(inputCodes, groupedResults) {
   const foundCount = results.filter((result) => !result.notFound).length;
   const notFoundCodes = results
     .filter((result) => result.notFound)
-    .map((result) => formatCodeForDisplay(result.code));
+    .map(formatNotFoundSummary);
 
   metaEl.textContent = `${inputCodes.length}コード / ${results.length}件表示`;
 
@@ -311,7 +332,7 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
 
   for (const group of groupedResults) {
     if (!group.matches.length) {
-      unresolvedCodes.push(formatCodeForDisplay(group.inputCode));
+      unresolvedCodes.push(formatNotFoundSummary(createNotFoundResult(group.inputCode, targetMode)));
       continue;
     }
     matchedSources += group.matches.length;

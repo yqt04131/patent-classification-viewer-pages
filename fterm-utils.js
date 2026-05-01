@@ -2,6 +2,12 @@
   const ftermState = {
     cache: {},
   };
+  const FTERM_THEME_REPLACEMENTS = {
+    '5C001': {
+      replacementThemeCode: '5C101',
+      revision: 'R2',
+    },
+  };
 
   function normalizeFtermCode(value) {
     const normalized = (value || '')
@@ -20,6 +26,28 @@
 
   function getWindowKey(themeCode) {
     return `FTERM_TERM_${themeCode}`;
+  }
+
+  function getReplacementInfo(value) {
+    const normalized = normalizeFtermCode(value);
+    const themeCode = getThemeCode(normalized);
+    const replacement = FTERM_THEME_REPLACEMENTS[themeCode];
+
+    if (!replacement) {
+      return null;
+    }
+
+    const suffix = normalized.slice(themeCode.length);
+    const replacementCode = `${replacement.replacementThemeCode}${suffix}`;
+
+    return {
+      originalCode: normalized,
+      themeCode,
+      replacementThemeCode: replacement.replacementThemeCode,
+      replacementCode,
+      revision: replacement.revision,
+      message: `${replacementCode}に変更（${replacement.revision}）`,
+    };
   }
 
   async function loadDatasetFile(basePath, windowKey) {
@@ -75,6 +103,7 @@
   window.FtermLookup = {
     normalizeFtermCode,
     getThemeCode,
+    getReplacementInfo,
     loadFtermDataset,
   };
 })();

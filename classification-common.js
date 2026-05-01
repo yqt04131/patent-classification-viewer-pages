@@ -483,8 +483,8 @@
     typeTag.textContent = result.typeLabel;
 
     if (result.notFound) {
-      hierarchyTag.textContent = '未検出';
-      jaEl.textContent = '一致する分類コードが見つかりませんでした。';
+      hierarchyTag.textContent = result.replacementInfo ? '変更' : '未検出';
+      jaEl.textContent = result.replacementInfo?.message || '一致する分類コードが見つかりませんでした。';
       enPane.hidden = true;
       themeBlock.hidden = true;
       node.classList.add('result-item-missing');
