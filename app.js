@@ -45,13 +45,22 @@ const VIEW_COPY = {
 let lookupTimer = null;
 let currentOverlayMode = 'ancestors';
 const FTERM_INLINE_GAP = '[ \\t\\u3000]*';
+const FTERM_TERM_SEPARATOR = `(?:${FTERM_INLINE_GAP}[^0-9A-Z\\s\\u3000]${FTERM_INLINE_GAP})?`;
 const FTERM_PATTERN = new RegExp(
-  `\\d${FTERM_INLINE_GAP}[A-Z](?:${FTERM_INLINE_GAP}\\d){3}(?:(?:${FTERM_INLINE_GAP}[A-Z]){2}(?:${FTERM_INLINE_GAP}\\d){2})?`,
+  `\\d${FTERM_INLINE_GAP}[A-Z](?:${FTERM_INLINE_GAP}\\d){3}(?:${FTERM_TERM_SEPARATOR}(?:[A-Z](?:${FTERM_INLINE_GAP}[A-Z]))(?:${FTERM_INLINE_GAP}\\d){2})?`,
   'gi'
 );
 
+function normalizeFtermCode(value) {
+  if (window.FtermLookup && typeof window.FtermLookup.normalizeFtermCode === 'function') {
+    return window.FtermLookup.normalizeFtermCode(value);
+  }
+
+  return normalizeCode(value);
+}
+
 function isFtermLikeCode(value) {
-  return /^\d[A-Z]\d{3}(?:[A-Z]{2}\d{2})?$/.test(normalizeCode(value));
+  return /^\d[A-Z]\d{3}(?:[A-Z]{2}\d{2})?$/.test(normalizeFtermCode(value));
 }
 
 function normalizeInputText(value) {
@@ -96,7 +105,7 @@ function findFtermCodes(rawText) {
   const seen = new Set();
 
   for (const match of matches) {
-    const code = normalizeCode(match);
+    const code = normalizeFtermCode(match);
     if (!isFtermLikeCode(code) || seen.has(code)) {
       continue;
     }
@@ -105,7 +114,7 @@ function findFtermCodes(rawText) {
   }
 
   if (!codes.length) {
-    const fallback = normalizeCode(rawText);
+    const fallback = normalizeFtermCode(rawText);
     if (isFtermLikeCode(fallback)) {
       codes.push(fallback);
     }

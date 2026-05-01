@@ -4,11 +4,13 @@
   };
 
   function normalizeFtermCode(value) {
-    return (value || '')
+    const normalized = (value || '')
       .normalize('NFKC')
       .toUpperCase()
       .replace(/[ \t\r\n\u3000]/g, '')
-      .replace(/[、，,]/g, '');
+      .replace(/[縲・ｼ・]/g, '');
+
+    return normalized.replace(/^(\d[A-Z]\d{3})[^0-9A-Z]([A-Z]{2}\d{2})$/, '$1$2');
   }
 
   function getThemeCode(code) {
