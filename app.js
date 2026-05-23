@@ -214,20 +214,6 @@ function formatNotFoundSummary(result) {
   return displayCode;
 }
 
-function createMatchGroupTitle(title, summary) {
-  const header = document.createElement('div');
-  header.className = 'match-group-header';
-
-  const titleEl = document.createElement('h3');
-  titleEl.textContent = title;
-
-  const summaryEl = document.createElement('p');
-  summaryEl.textContent = summary;
-
-  header.append(titleEl, summaryEl);
-  return header;
-}
-
 function createNotFoundResult(code, mode) {
   return {
     code,
@@ -306,14 +292,6 @@ function renderLookupResults(inputCodes, groupedResults) {
     const section = document.createElement('section');
     section.className = 'match-group';
 
-    const foundInGroup = group.matches.filter((result) => !result.notFound).length;
-    section.appendChild(
-      createMatchGroupTitle(
-        formatCodeForDisplay(group.inputCode),
-        foundInGroup ? `${foundInGroup}件一致` : '一致なし'
-      )
-    );
-
     const list = document.createElement('div');
     list.className = 'group-list';
 
@@ -357,13 +335,6 @@ function renderChildrenResults(inputCodes, groupedResults, targetMode) {
   for (const group of groupedResults) {
     const section = document.createElement('section');
     section.className = 'match-group';
-
-    section.appendChild(
-      createMatchGroupTitle(
-        formatCodeForDisplay(group.inputCode),
-        group.matches.length ? `${group.matches.length}件一致` : '一致なし'
-      )
-    );
 
     const list = document.createElement('div');
     list.className = 'group-list';
