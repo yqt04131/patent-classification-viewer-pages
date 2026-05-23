@@ -161,14 +161,16 @@
   }
 
   function buildNarabeToolUrl(code, mode) {
-    const keyword = formatCodeForDisplay(code).trim();
+    const keyword = mode === 'fi'
+      ? formatCodeForDisplay(code).trim().replace(/\s*,\s*/g, ' ')
+      : formatCodeForDisplay(code).trim();
     if (!keyword) {
       return '';
     }
     const params = new URLSearchParams({ keyword });
-    if (mode === 'cpc') {
-      params.set('type', 'cpc');
-      params.set('cls', 'cpc');
+    if (mode === 'fi' || mode === 'cpc') {
+      params.set('type', mode);
+      params.set('cls', mode);
     }
     return `https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi?${params.toString()}`;
   }
