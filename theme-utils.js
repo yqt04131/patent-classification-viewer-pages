@@ -11,7 +11,11 @@
   }
 
   function normalizeFiCode(code) {
-    return normalizeText(code).replace(/[()]/g, '').replace(/@Z/g, '').replace(/\\/g, '');
+    return normalizeCoverageText(code).replace(/[、，,]/g, '');
+  }
+
+  function normalizeCoverageText(value) {
+    return normalizeText(value).replace(/[()]/g, '').replace(/@Z/g, '').replace(/\\/g, '');
   }
 
   function parseFiCode(code) {
@@ -128,7 +132,7 @@
     const segments = [];
     let contextPrefix = '';
 
-    for (const part of normalizeFiCode(coverage).split(';')) {
+    for (const part of normalizeCoverageText(coverage).split(';')) {
       if (!part) {
         continue;
       }
