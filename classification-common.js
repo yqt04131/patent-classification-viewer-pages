@@ -160,12 +160,17 @@
     return `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${themeCode}.html`;
   }
 
-  function buildNarabeToolUrl(code) {
+  function buildNarabeToolUrl(code, mode) {
     const keyword = formatCodeForDisplay(code).trim();
     if (!keyword) {
       return '';
     }
-    return `https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi?keyword=${encodeURIComponent(keyword)}`;
+    const params = new URLSearchParams({ keyword });
+    if (mode === 'cpc') {
+      params.set('type', 'cpc');
+      params.set('cls', 'cpc');
+    }
+    return `https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi?${params.toString()}`;
   }
 
   function appendFtermListLink(codeWrap, result) {
@@ -190,7 +195,7 @@
       return;
     }
 
-    const url = buildNarabeToolUrl(result.code);
+    const url = buildNarabeToolUrl(result.code, result.mode);
     if (!url) {
       return;
     }
