@@ -160,9 +160,24 @@
     return `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${themeCode}.html`;
   }
 
-  function buildNarabeToolUrl(code, mode) {
+  function formatFiKeywordForNarabeTool(code, item) {
+    const displayCode = formatCodeForDisplay(code).trim();
+    const ipcCode = formatCodeForDisplay(item?.ipcCode || '').trim();
+    if (!displayCode) {
+      return '';
+    }
+
+    if (ipcCode && displayCode.startsWith(ipcCode)) {
+      const expansionCode = displayCode.slice(ipcCode.length).replace(/^[\s,]+/, '').trim();
+      return expansionCode ? `${ipcCode} ${expansionCode}` : ipcCode;
+    }
+
+    return displayCode.replace(/\s*,\s*/g, ' ');
+  }
+
+  function buildNarabeToolUrl(code, mode, item = null) {
     const keyword = mode === 'fi'
-      ? formatCodeForDisplay(code).trim().replace(/\s*,\s*/g, ' ')
+      ? formatFiKeywordForNarabeTool(code, item)
       : formatCodeForDisplay(code).trim();
     if (!keyword) {
       return '';
@@ -197,7 +212,7 @@
       return;
     }
 
-    const url = buildNarabeToolUrl(result.code, result.mode);
+    const url = buildNarabeToolUrl(result.code, result.mode, result.item);
     if (!url) {
       return;
     }
