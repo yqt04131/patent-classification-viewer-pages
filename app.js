@@ -43,6 +43,7 @@ const VIEW_COPY = {
 };
 
 let lookupTimer = null;
+let lookupRequestId = 0;
 let currentOverlayMode = 'ancestors';
 const FTERM_INLINE_GAP = '[ \\t\\u3000]*';
 const FTERM_TERM_SEPARATOR = `(?:${FTERM_INLINE_GAP}[^0-9A-Z\\s\\u3000]${FTERM_INLINE_GAP})?`;
@@ -425,6 +426,9 @@ function getRequestedText() {
 }
 
 async function runLookup(rawText) {
+  const requestId = ++lookupRequestId;
+  const isCurrentRequest = () => requestId === lookupRequestId;
+
   try {
     const viewMode = getSelectedViewMode();
     const targetMode = inferTargetMode(rawText, viewMode, getSelectedTargetMode());
@@ -436,8 +440,15 @@ async function runLookup(rawText) {
     syncModeFields();
 
     if (!codes.length) {
+      if (!isCurrentRequest()) {
+        return;
+      }
       clearResults();
       setStatus('コードを入力してください。', 'error');
+      return;
+    }
+
+    if (!isCurrentRequest()) {
       return;
     }
 
@@ -453,12 +464,19 @@ async function runLookup(rawText) {
         matches:
           viewMode === 'children'
             ? await lookupChildrenForMode(code, targetMode)
-            : await lookupCodeGroup(code, targetMode),
+        : await lookupCodeGroup(code, targetMode),
       }))
     );
 
+    if (!isCurrentRequest()) {
+      return;
+    }
+
     renderResults(codes, groupedResults, viewMode, targetMode);
   } catch (error) {
+    if (!isCurrentRequest()) {
+      return;
+    }
     console.error(error);
     setStatus(`検索処理でエラーが発生しました: ${error.message || String(error)}`, 'error');
   }

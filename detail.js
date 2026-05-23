@@ -35,9 +35,9 @@ function setStatus(message, type = 'neutral') {
 
 function syncPageCopy() {
   if (overlayMode === 'children') {
-    pageTitleEl.textContent = '下位階層情報を確認する';
+    pageTitleEl.textContent = '1つ下の階層情報を確認する';
     pageLeadEl.textContent = '選択した分類コードについて、1つ下の階層を一覧表示します。';
-    sectionTitleEl.textContent = '下位階層';
+    sectionTitleEl.textContent = '1つ下の階層';
     return;
   }
 
