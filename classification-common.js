@@ -144,6 +144,39 @@
     return parts.join(' : ');
   }
 
+  function getFtermThemeCode(result) {
+    if (!result || result.mode !== 'fterm') {
+      return '';
+    }
+
+    const themeCode = result.item?.themeCode || result.relatedFi?.themeCode || (result.code || '').slice(0, 5);
+    return /^[0-9][A-Z][0-9]{3}$/.test(themeCode) ? themeCode : '';
+  }
+
+  function buildFtermListUrl(themeCode) {
+    if (!themeCode) {
+      return '';
+    }
+    return `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${themeCode}.html`;
+  }
+
+  function appendFtermListLink(codeWrap, result) {
+    const themeCode = getFtermThemeCode(result);
+    const url = buildFtermListUrl(themeCode);
+    if (!url) {
+      return;
+    }
+
+    const link = document.createElement('a');
+    link.className = 'fterm-list-link';
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.textContent = 'タームリスト';
+    link.title = `${themeCode} のタームリストを開く`;
+    codeWrap.insertAdjacentElement('afterend', link);
+  }
+
   async function loadShard(mode, code) {
     if (mode === 'fterm') {
       if (!window.FtermLookup || typeof window.FtermLookup.loadFtermDataset !== 'function') {
@@ -481,6 +514,7 @@
 
     codeEl.textContent = formatCodeForDisplay(result.code);
     typeTag.textContent = result.typeLabel;
+    appendFtermListLink(codeWrap, result);
 
     if (result.notFound) {
       hierarchyTag.textContent = result.replacementInfo ? '変更' : '未検出';
