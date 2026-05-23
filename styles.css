@@ -340,7 +340,7 @@ button {
   color: var(--accent-strong);
 }
 
-.fterm-list-link {
+.code-tool-link {
   display: inline-flex;
   align-items: center;
   min-height: 28px;
@@ -355,8 +355,8 @@ button {
   transition: background-color 0.16s ease, border-color 0.16s ease, color 0.16s ease;
 }
 
-.fterm-list-link:hover,
-.fterm-list-link:focus-visible {
+.code-tool-link:hover,
+.code-tool-link:focus-visible {
   border-color: rgba(159, 63, 45, 0.36);
   background: rgba(159, 63, 45, 0.14);
   color: var(--accent);

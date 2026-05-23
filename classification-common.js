@@ -160,6 +160,14 @@
     return `https://www.j-platpat.inpit.go.jp/cache/classify/patent/PMGS_HTML/jpp/F_TERM/ja/fTermList/fTermList${themeCode}.html`;
   }
 
+  function buildNarabeToolUrl(code) {
+    const keyword = formatCodeForDisplay(code).trim();
+    if (!keyword) {
+      return '';
+    }
+    return `https://www.jpo.go.jp/cgi/cgi-bin/search-portal/narabe_tool/narabe.cgi?keyword=${encodeURIComponent(keyword)}`;
+  }
+
   function appendFtermListLink(codeWrap, result) {
     const themeCode = getFtermThemeCode(result);
     const url = buildFtermListUrl(themeCode);
@@ -168,13 +176,43 @@
     }
 
     const link = document.createElement('a');
-    link.className = 'fterm-list-link';
+    link.className = 'code-tool-link fterm-list-link';
     link.href = url;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
     link.textContent = 'タームリスト';
     link.title = `${themeCode} のタームリストを開く`;
     codeWrap.insertAdjacentElement('afterend', link);
+  }
+
+  function appendNarabeToolLink(codeWrap, result) {
+    if (!result || result.mode === 'fterm') {
+      return;
+    }
+
+    const url = buildNarabeToolUrl(result.code);
+    if (!url) {
+      return;
+    }
+
+    const displayCode = formatCodeForDisplay(result.code);
+    const link = document.createElement('a');
+    link.className = 'code-tool-link classification-tool-link';
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.textContent = '分類対照';
+    link.title = `${displayCode} を分類対照ツールで開く`;
+    codeWrap.insertAdjacentElement('afterend', link);
+  }
+
+  function appendCodeToolLink(codeWrap, result) {
+    if (result.mode === 'fterm') {
+      appendFtermListLink(codeWrap, result);
+      return;
+    }
+
+    appendNarabeToolLink(codeWrap, result);
   }
 
   async function loadShard(mode, code) {
@@ -514,7 +552,7 @@
 
     codeEl.textContent = formatCodeForDisplay(result.code);
     typeTag.textContent = result.typeLabel;
-    appendFtermListLink(codeWrap, result);
+    appendCodeToolLink(codeWrap, result);
 
     if (result.notFound) {
       hierarchyTag.textContent = result.replacementInfo ? '変更' : '未検出';
