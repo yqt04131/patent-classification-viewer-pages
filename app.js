@@ -114,12 +114,6 @@ function findFtermCodes(rawText) {
     codes.push(code);
   }
 
-  if (!codes.length) {
-    const fallback = normalizeFtermCode(rawText);
-    if (isFtermLikeCode(fallback)) {
-      codes.push(fallback);
-    }
-  }
 
   return codes;
 }
@@ -172,13 +166,6 @@ function extractCodes(rawText, targetMode) {
     }
     seen.add(code);
     codes.push(code);
-  }
-
-  if (!codes.length) {
-    const fallback = normalizeCode(rawText).replace(/[・･]/g, '');
-    if (fallback) {
-      codes.push(fallback);
-    }
   }
 
   return codes;
@@ -415,7 +402,13 @@ async function runLookup(rawText) {
         return;
       }
       clearResults();
-      setStatus('コードを入力してください。', 'error');
+      const hasInput = normalizeInputText(rawText).trim().length > 0;
+      setStatus(
+        hasInput
+          ? '特許分類コードとして解釈できる文字列が見つかりませんでした。入力内容は検索用データ取得に使用していません。'
+          : 'コードを入力してください。',
+        'error'
+      );
       return;
     }
 
